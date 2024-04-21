@@ -1,0 +1,342 @@
+SALARY CAP, LEAGUE-WIDE GUARANTEE, AND MINIMUM TEAM SALARY
+Section 1. Amount of Salary Cap, League-wide Guarantee and Minimum Team Salary.
+(a) Salary Cap. The Salary Cap for each Salary Cap Year during the term of
+this Agreement shall be as set forth below.
+2020 2021 2022 2023
+\$1,300,000 \$1,339,000 \$1,379,200 \$1,420,500
+2024 2025 2026 2027
+\$1,463,200 \$1,507,100 \$1,552,300 \$1,598,800
+(b) Guarantee Level. The level used to calculate (pursuant to (c) and (d)
+below) the League-wide Guarantee and the Minimum Team Salary (the "Guarantee Level") for
+each Salary Cap Year during the term of this Agreement shall be as set forth below.
+2020 2021 2022 2023
+\$1,209,000 \$1,245,300 \$1,282,600 \$1,321,100
+2024 2025 2026 2027
+\$1,360,700 \$1,401,600 \$1,443,600 \$1,486,900
+(c) League-wide Guarantee.
+As of the conclusion of each Season covered by this Agreement,
+the WNBA agrees that Team Salaries for all Teams, in the aggregate, will not be less than an
+amount equal to the sum of (i) the total number of WNBA Teams that played a full schedule of
+Regular Season games during such Season, multiplied by the Guarantee Level for that Season,
+and (ii) for each WNBA Team that played less than a full schedule of Regular Season games
+during such Season, an amount equal to the Guarantee Level for that Season multiplied by a
+fraction, the numerator of which is the number of Regular Season games played by the Team
+during such Season and the denominator of which is the total number of Regular Season games
+70"League-wide Guarantee"). For purposes of this Section 1(c), the Team Salaries for all Teams,
+in the aggregate, as of the conclusion of a Season shall include any payments to players with
+respect to such Season made by one or more Teams pursuant to Section 1(d) below.
+In the event that, as of the conclusion of any Season, Team Salaries
+for all Teams, in the aggregate, are less than the League-wide Guarantee for such Season (a
+"Guarantee Shortfall"), the WNBA shall be obligated to pay the Guarantee Shortfall to all
+WNBA players who were on a WNBA roster during the Regular Season covered by such Salary
+Cap Year. Any such Guarantee Shortfall obligation shall be effectuated and satisfied solely by
+the WNBA paying such Guarantee Shortfall to Teams no later than sixty (60) days following the
+completion of the Season covered by such Salary Cap Year and causing the Teams to distribute
+the Guarantee Shortfall to such players on such proportional basis as may be reasonably
+determined by the Players Association, less all amounts required to be withheld by any
+governmental authority. The Players Association shall provide the WNBA with its proposed
+per-player distribution of any such Guarantee Shortfall for a Salary Cap Year within thirty (30)
+days after the completion of the Season.
+(d) Minimum Team Salary.
+Beginning with the Salary Cap Year commencing on January 1,
+2020, and for each Salary Cap Year thereafter during the term of this Agreement, there shall be a
+Minimum Team Salary equal to 90% of the Guarantee Level.
+In the event that, as of the conclusion of a Season, a Team's Team
+Salary is less than the applicable Minimum Team Salary, the WNBA shall cause such Team to
+make payments equal to the shortfall (to be disbursed to the players on such Team either in
+71as may be reasonably determined by the Players Association). Notwithstanding the preceding
+sentence, any Team that ceases operations prior to the conclusion of a WNBA Season shall not
+be required to meet the Minimum Team Salary obligation.
+Section 2. Determination of Team Salary.
+(a) Computation. For the purposes of computing Team Salary under this
+Agreement, all of the following amounts shall be included:
+Subject to the rules set forth in this Article VII, the aggregate
+Salaries of all current players (and former players to the extent provided by the terms of this
+Agreement) attributable to a particular Salary Cap Year, including, without limitation:
+Salaries payable to players whose Player Contracts have
+been terminated pursuant to the WNBA's waiver procedure.
+Any amount called for in a retired player's Player Contract
+that is paid or to be paid to the player.
+Amounts paid pursuant to awards or judgments for, or
+settlements of, disputes between a Player and a Team concerning Base Salary obligations under a
+Player Contract, except to the extent that such amounts were previously included in (and not
+subsequently excluded from) a player's Salary. If any amounts paid to a player as described in
+the preceding sentence relate to one or more future Salary Cap Years, such amounts will be
+included in the corresponding Salary Cap Year(s). If any such amounts relate to the then-current
+or any prior Salary Cap Year, then the following shall apply with respect to such amounts: (x) if
+the amounts relate to a Team's Base Salary obligation for only one (1) Season, they shall be
+included in Team Salary for the Salary Cap Year during which the Team's obligation to pay such
+72commencing on the day prior to the first day of the Regular Season and continuing through the
+December 31 of any Salary Cap Year, in which case such amounts shall be included in Team
+Salary for the following Salary Cap Year; and (y) if the amounts relate to a Team's Base Salary
+obligation for more than one (1) Season, they shall be included in Team Salary in equal amounts
+over the same number of Salary Cap Years, with the first such Salary Cap Year being the Salary
+Cap Year during which the Team's obligation to pay such amounts is determined, unless the
+Team's obligation is determined during the period commencing on the day prior to the first day
+of the Regular Season and continuing through the December 31 of any Salary Cap Year, in
+which case the following Salary Cap Year shall be the first Salary Cap Year in which such
+amounts are included in Team Salary.
+Salaries anticipated to be included in Team Salary based
+upon any agreement disclosed to the WNBA pursuant to Article V, Section 14(a)(i).
+Any trade bonus amount earned under the terms of the
+Contract that is allocated to such Salary Cap Year in accordance with Article VII, Section 7(c).
+With respect to each Veteran Free Agent who is designated as a
+Core Player, the Salary called for in any outstanding Core Qualifying Offer tendered to such
+Veteran Free Agent.
+With respect to each Veteran Free Agent who is a Restricted Free
+Agent, the greater of (A) the Salary called for in any outstanding Restricted Qualifying Offer
+tendered to such Veteran Free Agent, or (B) the Salary called for in any First Refusal Exercise
+Notice issued with respect to such Veteran Free Agent.
+73Sheets.
+With respect to each Veteran Free Agent who is a Reserved Free
+Agent, the Salary called for in any outstanding Reserved Qualifying Offer tendered to such
+Veteran Free Agent.
+An amount with respect to the number of players fewer than ten
+(10) included in a Team's Team Salary, as determined in accordance with Section 2(d) below.
+Value or consideration received by retired players that is
+determined to be includable in Team Salary in accordance with Article XV, Section 6.
+The aggregate amount of any Time Off Bonuses included in
+Players Contracts attributable to a particular Salary Cap Year in accordance with Article V,
+Section 17.
+(b) Expansion. The Salary of any player selected by an Expansion Team in
+an expansion draft and terminated in accordance with the WNBA waiver procedure before the
+first day of the Expansion Team's first Season shall not be included in the Expansion Team's
+Team Salary, except, to the extent such Salary is paid, for purposes of determining whether the
+Expansion Team has satisfied its Minimum Team Salary obligation for such Season under
+Article VII, Section 1(d) and whether the WNBA has satisfied the League-wide Guarantee under
+Article VII, Section 1(c).
+(c) Assigned Contracts. For purposes of calculating Team Salary, with
+respect to any Player Contract that is assigned, the assignee Team shall, upon assignment, have
+included in its Team Salary the entire Salary for the then-current Salary Cap Year and for all
+future Salary Cap Years.
+74If at any time from December 1 through the day prior to the first
+day of the Regular Season a Team has fewer than ten (10) players included in its Team Salary (as
+determined in accordance with Section 2(d)(ii) below), then the Team's Team Salary shall be
+increased by an amount calculated as follows:
+STEP 1: Subtract from ten (10) the number of players included in
+Team Salary.
+STEP 2: If the result in Step 1 is a positive number, multiply the
+result in Step 1 by the Rookie Minimum Annual Salary.
+In determining whether a Team has fewer than ten (10) players
+included in its Team Salary for purposes of Section 2(d)(i) above, the only players who shall be
+counted are (i) players on the Team's active list (including any injured players) who are included
+in Team Salary, (ii) players who have been tendered a Qualifying Offer by the Team that remains
+outstanding, and (iii) players who have been tendered an Offer Sheet by the Team that remains
+outstanding.
+(e) Hold-Outs and Other Team/Entity Basketball Injuries. If in any
+Season, a player is suspended by a Team for the remainder of the Season pursuant to Article
+XIV, Sections 6 or 9 or Article XX, Section 1(c), the player's Salary shall be excluded from the
+Team Salary of such Team, beginning on the date of such suspension and continuing until the
+later of (i) the following January 1, or (ii) the date on which the player's suspension ends.
+(f) Long-Term Injuries, Illnesses, or Conditions. Any player who suffers a
+career-ending injury, illness, or condition, and whose contract is terminated by the Team in
+accordance with the WNBA waiver procedure, will be excluded from her Team's Team Salary
+as follows:
+75prior to July 1 of any Season, then, beginning on the second January 1 following the injury,
+illness, or condition, the Team may apply to the WNBA to have the player's Salary for each
+remaining Season of the Contract excluded from Team Salary. (For example, if the career-
+ending injury, illness, or condition occurs on May 1, 2015, the Team may apply to have the
+player's Salary excluded from Team Salary beginning on January 1, 2017.)
+If the injury, illness, or condition occurs on or after July 1 but prior
+to the subsequent January 1, then, beginning on the second anniversary of the injury, illness, or
+condition, the Team may apply to the WNBA to have the player's Salary for each remaining
+Season of the Contract excluded from Team Salary.
+The determination of whether a player has suffered a career-ending
+injury, illness, or condition, and the determination of the date on which a player's career-ending
+injury, illness, or condition occurred, shall be made by a physician selected jointly by the WNBA
+and the Players Association.
+Notwithstanding subsections (i) through (iii) above or (viii) below,
+a player's Salary shall not be excluded from Team Salary if, after the date on which a career-
+ending injury, illness, or condition is alleged to have occurred but before her Salary is excluded
+from Team Salary, the player played in more than five (5) WNBA games in any one (1) Season
+or in a total of ten (10) games over two (2) Seasons.
+Notwithstanding subsections (i) through (iii) above or (viii) below,
+if, after a player's Salary is excluded from Team Salary in accordance with this Section 2(f), (i)
+the player plays in five (5) WNBA games in any one (1) Season, the excluded Salary for that
+Season and any subsequent Season shall thereupon be included in Team Salary; or (ii) the player
+76in the first of such two (2) Seasons, the excluded Salary for the second Season shall thereupon be
+included in Team Salary. If, at the time the player's Salary is required to be included again in
+Team Salary in accordance with this Section 2(f)(v), the Team does not have Room for some or
+all of such Salary, the portion of the player's Salary for which the Team has Room shall be
+immediately included in the Team's Team Salary and the remainder shall be included in the
+Team's Team Salary beginning on the earlier of (x) the next January 1, or (y) the earliest date
+after such January 1 when the Team has Room for such remainder amount.
+If a Team requests to have a player's Salary excluded from Team
+Salary pursuant to this Section 2(f), the player with respect to whom the request is made shall
+cooperate in the processing of the request, including by appearing (if necessary) at the scheduled
+place and time for examination by a designated physician.
+The exclusion from Team Salary authorized by this Section 2(f) is
+available only to the Team with which the Disabled Player was under Contract at the time her
+career-ending injury, illness, or condition occurs.
+For purposes of this Section 2(f), the date of occurrence of a
+career-ending injury, illness, or condition that has developed over time shall be deemed to be the
+date on which the injury, illness, or condition progressed to the point of becoming career-ending.
+(g) Training Camp Contracts. From February 1 until the day prior to the
+first day of the next Regular Season, a Team may enter into Player Contracts that will not be
+included in Team Salary until the first day of such Regular Season (i.e., the player will be
+deemed not to have any Salary until the first day of such Regular Season), provided that such
+Contracts satisfy the requirements of this Section 2(g) (a "Training Camp Contract"). No
+77Salary, (ii) Base Salary protection of any kind, or (iii) a term longer than one (1) Season.
+Notwithstanding the foregoing, any Rookie Scale Contract entered into from February 1 through
+the day prior to the first day of the next Regular Season shall be a Training Camp Contract. The
+only consideration that may be provided to a player signed to a Training Camp Contract, prior to
+the start of the Regular Season, is per diem, lodging, and transportation. A Team that has
+entered into one or more Training Camp Contracts must terminate such Contracts no later than
+the day prior to the first day of a Regular Season, except to the extent the Team has Room for
+such Contracts. Notwithstanding anything to the contrary herein, Qualifying Offers and Rookie
+Tenders that, if signed by the player would become Training Camp Contracts, shall not be
+included in Team Salary from January 1 until the day prior to the first day of the next Regular
+Season.
+(h) Team Salary Summaries.
+The WNBA shall provide the Players Association with Team
+Salary summaries and a list of current Exceptions once every two weeks during the Regular
+Season and once every week between February 1 and the commencement of the next Regular
+Season.
+In the event that the WNBA fails to provide the Players
+Association with any Team Salary summary or list of Exceptions as provided for in Section
+2(h)(i) above, the Players Association shall notify the WNBA of such failure, and the WNBA,
+upon receipt of such notice, shall as soon as reasonably possible, but in no event later than two
+business days following receipt of such notice, provide the Players Association with any such
+summary or list that should have been provided pursuant to Section 2(h)(i) above.
+78(a) Basic Rule. A Team's Team Salary may not exceed the Salary Cap at any
+time unless the Team is using one of the Exceptions set forth in Section 4 below.
+(b) Room. Subject to the other provisions of this Agreement, including
+without limitation Article V, Section 8, any Team with Room may enter into a Player Contract
+that calls for a Salary in the first Season of such Contract that would not exceed the Team's then-
+current Room.
+(c) Annual Salary Increases and Decreases.
+Except as otherwise provided in this Agreement, for each Season
+of a Player Contract after the first Season, the player's Salary may increase or decrease in
+relation to the previous Season's Salary by no more than three percent (3%) of the Base Salary
+for the first Season of the Contract.
+With respect to an Extension (other than an Extension of a Rookie
+Scale Contract), and notwithstanding Section 3(c)(i) above and 3(c)(iii) below, for each Season
+of such Player Contract after the first Season of the extended term, the player's Salary may
+increase or decrease in relation to the previous Season's Salary by no more than three percent
+(3%) of the Base Salary for the last Season of the original term of the Contract.
+With respect to an Extension of a Rookie Scale Contract, and
+notwithstanding Section 3(c)(i) and 3(c)(ii) above, for each Season of such Player Contract after
+the first Season of the extended term, the player's Salary may increase or decrease in relation to
+the previous Season's Salary by no more than three percent (3%) of the Base Salary for the first
+Season of the extended term of the Contract.
+79Agreement:
+Every Player Contract shall be effective and commence as of the
+date of execution and shall be for a continuous term.
+No Team and player may enter into a Player Contract during the
+period commencing at the start of the Team's last game of the Regular Season and continuing
+through the following January 31. The preceding sentence shall not prohibit a Team and player
+from entering into an amendment to an existing Player Contract pursuant to Article V, Section
+3(e) during such period.
+Section 4. Hardship Exceptions to the Salary Cap.
+There shall be the following exceptions to the rule that a Team's Team Salary
+may not exceed the Salary Cap:
+(a) Hardship.
+If, during a WNBA Regular Season, a Team with one (1) player
+who is unable to play due to injury, illness or other condition for a minimum of three additional
+weeks from the date of the requested Exception (the "First Injured Player") has an additional
+player (the "Disabled Player") who suffers a Disabling Injury, Illness, or Condition (as defined
+below), the Team may sign one Replacement Player to a Replacement Contract to replace such
+Disabled Player.
+For purposes of this Section 4, Disabling Injury, Illness, or
+Condition means any injury, illness, or condition that has rendered the Disabled Player unable to
+play for a minimum of two (2) consecutive Regular Season games and will thereafter render the
+Disabled Player unable to play for a minimum period of three (3) additional weeks (regardless of
+80are fewer than three (3) weeks remaining in the WNBA Season).
+A Hardship Exception will arise on the date it is granted by the
+League Office and will expire seven (7) days after it arises.
+The determination of whether a player has suffered a Disabling
+Injury, Illness, or Condition shall be made by a physician designated by the WNBA (the
+"WNBA Physician") in consultation with the Players Association, and such determination shall
+be final, conclusive, and unappealable. The WNBA shall advise the Players Association of the
+determination of the WNBA Physician within one (1) business day of such determination. The
+cost of the WNBA Physician will be borne by the WNBA Team seeking the Exception.
+In no event shall a Team be entitled to an Exception pursuant to
+this Section 4(a), unless the First Injured Player on the date it applies for the Exception, in the
+determination of the WNBA Physician, is unable to play for a minimum of three (3) additional
+weeks from that date. The determination of the WNBA Physician shall be final, conclusive, and
+unappealable. The cost of the WNBA Physician will be borne by the WNBA Team seeking the
+Exception.
+If a Team requests an Exception pursuant to this Section 4(a), the
+player with respect to whom the request is made, and the First Injured Player, shall cooperate in
+the processing of the request, including by appearing (if necessary) at the scheduled place and
+time for examination by the WNBA Physician.
+Notwithstanding a determination by the WNBA Physician that a
+player has suffered a Disabling Injury, Illness, or Condition, such player, upon recovering from
+81immediately terminate the Replacement Contract of the Replacement Player.
+The Hardship Exception is available only to the Team with which
+the Disabled Player was under Contract at the time her Disabling Injury, Illness, or Condition
+occurred.
+If a Team makes a request for a Hardship Exception to replace a
+Disabled Player pursuant to this Section 4(a) and such request is denied, the Team shall not be
+permitted to make any subsequent request for an Exception to replace the same player unless
+fifteen (15) days have passed since the first request was denied and the Team establishes that the
+subsequent request is based on a new injury or an aggravation of the same injury.
+(b) Emergency Hardship.
+If a Team during the Regular Season, as a result of injuries,
+illnesses, other conditions or other extenuating circumstances that have affected its players, has
+fewer than ten (10) players on its roster who are able to play, it may apply to the WNBA to
+obtain an Exception to sign one or more Replacement Player(s) to Replacement Contract(s) to
+replace one or more of the Team's unavailable Players. Any such Replacement Contract shall be
+terminated immediately once ten (10) other players on the Team's roster are again able to play.
+The determination of whether to grant a Team one or more
+Emergency Hardship Exceptions shall be in the WNBA's sole discretion. The WNBA may
+attach such conditions to an Emergency Hardship Exception as it may determine, in its sole
+discretion, provided that such conditions do not violate any provision of this Agreement.
+If a Team requests an Emergency Hardship Exception pursuant to
+this Section 4(b), all players whom the Team claims are unable to play shall cooperate in the
+82the WNBA may require for purposes of determining when a Replacement Contract must be
+terminated pursuant to Section 4(b)(i) above), including by appearing (if necessary) at the
+scheduled place(s) and time(s) for examination(s) by a physician designated by the WNBA. The
+cost of the WNBA physician will be borne by the WNBA Team seeking the Exception.
+Section 5. Extensions.
+(a) Veteran Extensions.
+No Player Contract, other than a Rookie Scale Contract, may be extended except
+in accordance with the following:
+A Player Contract covering a term of two (2), three (3) or four (4)
+Seasons may be extended no sooner than the first anniversary of the signing of the Contract.
+A Player Contract that has been extended may not subsequently be
+extended until the first anniversary of such Extension.
+Subject to Article V, Section 8, a Player Contract extended in
+accordance with this Section 5(a) may, in the first Season of the extended term, provide for a
+Base Salary of up to 120% of the Base Salary in the last Season of the original term of the
+Contract. Annual increases or decreases in Salary shall be governed by Section 3(c) above.
+(b) Rookie Scale Extensions.
+A First, Second or Third Round Pick who enters into a Rookie
+Scale Contract on or after the date of this Agreement may enter into an Extension of such Rookie
+Scale Contract during the period that commences on February 1 and continues through May 15
+following the third Season covered by the Contract (provided that the Team exercised the Option
+Year provided in such Contract).
+83in the first Season of the extended term no greater than the Maximum Player Salary provided for
+in Article V, Section 8 (or, if no Maximum Player Salary is provided for in Article V, Section 8,
+three percent (3%) above the Maximum Player Salary for the prior Season). Annual increases
+and decreases in Salary shall be governed by Section 3(c) above.
+Section 6. Trade Rules.
+(a) A Team shall not be permitted to receive in connection with any trade,
+directly or indirectly, any cash or other compensation, including cash or other compensation
+received as reimbursement for Base Salary obligations to players whom the Team is acquiring.
+(b) A Team cannot trade any player after the WNBA trade deadline occurring
+in the last Season of the player's Contract.
+(c) No player who signs a Contract as a Free Agent or Draft Rookie may be
+traded before the later of (i) two (2) weeks following the date on which such Contract was signed
+or (ii) the fifteenth (15th) day of the Regular Season covered by the Contract, unless such player
+consents in writing to such trade.
+(d) Exclusive negotiating rights to a player (other than draft rights, rights to
+Reserved Players and rights to suspended players with no playing services remaining in the
+Player Contracts) may only be traded with the written consent of the player.
+Section 7. Miscellaneous.
+(a) In the event that a Team and a player agree to amend a Player Contract in
+accordance with Article V, Section 3(e), then for purposes of calculating the player's Salary for
+the then-current and any remaining Salary Cap Year, the aggregate reduction in the player's
+protected Base Salary shall be allocated pro rata over the then-current and each remaining Salary
+84(prior to giving effect to such reduction) in each such Salary Cap Year.
+(b) Except where this Agreement states otherwise, for purposes of any rule in
+this Agreement that limits, involves counting, or otherwise relates to, the number of Seasons
+covered by a Contract, if a Player Contract is signed after the beginning of a Season, the Season
+in which the Contract is signed shall be counted as one (1) full Season covered by the Contract.
+(c) In the event that a player earns a trade bonus pursuant to her Contract,
+then for purposes of calculating the player's Salary for the then-current and any remaining Salary
+Cap Year covered by such Contract, the amount of the earned trade bonus shall be allocated pro
+rata over each remaining Salary Cap Year covered by such Contract (only including the then-
+current Salary Cap Year if the trade occurs during or before the Season covered by such Salary
+Cap Year) on the basis of the Base Salary in each such Salary Cap Year.
+85
