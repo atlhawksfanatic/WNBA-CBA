@@ -1,3 +1,4 @@
+ ARTICLE XXXVII
 INTEGRATION, ENTIRE AGREEMENT,
 INTERPRETATION AND CHOICE OF LAW
 Section 1. Integration, Entire Agreement.
@@ -21,7 +22,8 @@ Contract entered into pursuant to the current or any prior or future collective 
 agreement between the NBA and the NBPA, to any of the provisions of such agreements or
 Contracts, to any judicial, arbitral, or administrative decision interpreting any of the foregoing, or
 to the fact that a subject was not or is not covered by or included in any such agreements or
-223agreements, Contracts, or decisions, or to the fact that a particular provision was not or is not
+Contracts. Accordingly, the parties agree that they will make no reference to any such
+agreements, Contracts, or decisions, or to the fact that a particular provision was not or is not
 included in any such agreement or Contract, or to any practice or policy of the NBA (or NBA
 Properties, Inc.) or the NBPA, in any arbitral, judicial, administrative, or other proceeding,
 including, without limitation, proceedings brought under Articles XXII and XXIII of this
@@ -31,4 +33,3 @@ proceedings.
 Section 3. Choice of Law.
 This Agreement (including all Exhibits hereto) is made under and shall be
 governed by the internal law of the State of New York, except where federal law may govern.
-224

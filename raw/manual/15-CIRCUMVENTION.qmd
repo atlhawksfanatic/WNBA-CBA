@@ -1,3 +1,4 @@
+ ARTICLE XV
 CIRCUMVENTION
 Section 1. General Prohibitions.
 (a) It is the intention of the parties that the provisions agreed to herein,
@@ -21,7 +22,8 @@ from the sponsor or business partner or third party is substantially in excess o
 value of any services to be rendered by the player for such sponsor or business partner or third
 party; and (ii) the Compensation in the Player Contract between the player and the Team is
 substantially below the fair market value of such Contract.
-134Affiliate) to have a financial arrangement with or offer a financial inducement to any player (not
+ (c) It shall constitute a violation of Section 1(a) above for a Team (or Team
+Affiliate) to have a financial arrangement with or offer a financial inducement to any player (not
 including retired players) not signed to a current Player Contract, except as permitted by this
 Agreement.
 Section 2. No Unauthorized Agreements.
@@ -43,7 +45,8 @@ controlled by, related to, or acting with authority on behalf of the player; or
 except as permitted by this Agreement, involving an investment or
 business opportunity to be furnished or made available by, to, or for the benefit of the player, or
 any person or entity controlled by, related to, or acting with authority on behalf of the player.
-135Team (or Team Affiliate) or any player (or any person or entity controlled by, related to, or
+ (b) In addition to the foregoing, it shall be a violation of this Section 2 for any
+Team (or Team Affiliate) or any player (or any person or entity controlled by, related to, or
 acting with authority on behalf of such player) to attempt to enter into or to solicit any
 agreement, transaction, promise, undertaking, representation, commitment, inducement,
 assurance of intent or understanding that would be prohibited by Section 2(a) above.
@@ -65,7 +68,8 @@ Contract to the WNBA and this was done without the player's knowledge.
 Section 3. Diversity in Coaching Initiative.
 Notwithstanding anything to the contrary in Section 1 and Section 2 above and consistent
 with the "WNBA's Diversity in Coaching Initiative," it shall not be considered a violation of
-136coaching or basketball operations services for a team not in the WNBA; provided that: (i) the
+Section 1 or Section 2 above if a Team Affiliate hires a player to perform Off-Season basketball
+coaching or basketball operations services for a team not in the WNBA; provided that: (i) the
 player has at least eight (8) Years of Service in the WNBA and three (3) Years of Service with
 the Team affiliated with the Team Affiliate at the time of the of the agreement between the Team
 Affiliate and the player; (ii) the player provides the coaching/basketball operations services on a
@@ -85,7 +89,8 @@ to be received by the player could in any way be considered to be in lieu of com
 a Player Contract and/or an enticement to sign a Player Contract; and (iii) the connection
 between the services to be performed, the basketball operations needs of the Team Affiliate, and
 the post-playing career aspirations of the player.
-137(a) If the Arbitrator finds a violation of Section 1 above, the Commissioner
+Section 4. Penalties.
+(a) If the Arbitrator finds a violation of Section 1 above, the Commissioner
 shall be authorized to:
 impose a fine of up to \$300,000 (50% of which shall be payable to
 the WNBA, and 50% of which shall be payable to the Players Association – Selected Charitable
@@ -106,7 +111,8 @@ impose a fine of up to \$1,000,000 on any Team found to have
 committed such violation (50% of which shall be payable to the WNBA, and 50% of which shall
 be payable to the Players Association – Selected Charitable Organization);
 direct the forfeiture of draft picks;
-138on behalf of such player) and the Team (or Team Affiliate) are found to have committed such
+ when both the player (or any person or entity acting with authority
+on behalf of such player) and the Team (or Team Affiliate) are found to have committed such
 violation, (A) void any Player Contract and/or Team Marketing Promotional Agreement (or any
 extension, or amendment thereof) between such player and such Team, (B) impose a fine of up
 to \$2,000 on any player (50% of which shall be payable to the WNBA, and 50% of which shall
@@ -128,7 +134,8 @@ shall refer such finding to the Players Association. The Players Association sha
 binding and conclusive the finding(s) of the Arbitrator that a violation of Section 2(a) or 2(b) has
 occurred and shall consider such finding(s) as establishing a violation of the Players
 Association's regulations applicable to such person or entity. The Players Association represents
-139entity found to have violated Section 2 above, and that it will promptly notify the WNBA of the
+that it will impose such discipline as is appropriate under the circumstances on the person or
+entity found to have violated Section 2 above, and that it will promptly notify the WNBA of the
 discipline imposed; provided, however, that in no event shall the penalty imposed upon a player
 agent found to have violated Section 2 above be less than a one (1)-year suspension of that
 player agent's certification by the Players Association.
@@ -150,7 +157,8 @@ WNBA may challenge the transaction, pursuant to the procedures set forth in Sect
 on the ground that: (A) the compensation to the retired player substantially exceeds the then fair
 market value of the services or other consideration provided by the retired player in the
 transaction; or that (B) the amount of the retired player's investment or the benefit conferred
-140reasonable, given the relative risks and rewards of such investment.
+upon the retired player as a result of the investment or business opportunity is not commercially
+reasonable, given the relative risks and rewards of such investment.
 (b) Any challenge under this Section 6 shall be filed in writing with a business
 valuation expert jointly selected by the WNBA and the Players Association. In the event that the
 parties cannot agree on the identity of a business valuation expert, a business valuation expert
@@ -172,7 +180,8 @@ and (B) a reasonable estimate of the fair market value of the services or other 
 provided by the retired player, or a reasonable estimate of the fair market value of the investment
 or business opportunity, in each case as determined by the business valuation expert or the
 Arbitrator, as the case may be, shall be included in the Team's Team Salary, subject to the
-141business valuation expert or Arbitrator determines is appropriate. In the event that any amount
+Team's Room and other Salary Cap rules, and further subject to any allocation over time that the
+business valuation expert or Arbitrator determines is appropriate. In the event that any amount
 required to be included in the Team Salary pursuant to this subsection exceeds the Team's
 Room, the challenged transaction or arrangement shall be rescinded and of no further force and
 effect.
@@ -183,4 +192,3 @@ and may, at the request of the WNBA, be re-subjected to the procedures of this S
 Any information disclosed to the League Office and the Players Association
 pursuant to the procedures of this Section 6 shall be treated strictly confidential, and shall not be
 released to the general public or the media.
-142

@@ -1,3 +1,4 @@
+ ARTICLE XXX
 RIGHT OF SET-OFF
 Section 1. General.
 When a WNBA Team terminates a Standard Player Contract ("First Contract") in
@@ -24,7 +25,8 @@ both the Subsequent Team(s) and the First Contract, the reduction in the Team's 
 Season (or partial Season) covered by the First Contract shall be increased so that the player
 receives only ten thousand dollars (\$10,000) above the Maximum Player Salary from both the
 Subsequent Team(s) and the First Contract.
-205For the purposes of this Article, a "professional basketball team" shall mean any
+Section 2. Definitions.
+For the purposes of this Article, a "professional basketball team" shall mean any
 team in any country that pays money or compensation of any kind to a basketball player for
 rendering playing services to such team (other than a reasonable stipend limited to basic living
 expenses). For purposes of this Article, "compensation" earned by a player from a Subsequent
@@ -34,4 +36,3 @@ comparable to the type of benefits (e.g., medical and dental insurance) provided
 player in accordance with Article X above, travel and moving expenses, and any car and housing
 provided temporarily by the team to the player during the period of time for which the player
 renders services to the team.
-206

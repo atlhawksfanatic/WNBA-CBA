@@ -1,3 +1,4 @@
+ ARTICLE VI
 FREE AGENCY
 Section 1. General Rules.
 (a) Subject to the provisions of Article VII, (i) a Reserved Player is free at any
@@ -20,7 +21,8 @@ Section 2. No Individually-Negotiated Right of First Refusal.
 (a) No Player Contract, or any Extension or other amendment of a Player
 Contract may include any individually negotiated Right of First Refusal or other limitation on
 player movement following the last Salary Cap Year covered by such Player Contract.
-51providing for a Right of First Refusal shall be applied to any player as a result of that player's
+ (b) No Right of First Refusal rule, practice, policy, regulation or agreement
+providing for a Right of First Refusal shall be applied to any player as a result of that player's
 entry into a player contract with or the playing with any team in any professional basketball
 league other than the WNBA.
 Section 3. Withholding Services.
@@ -42,7 +44,8 @@ personally delivered to the player or her representative or sent by email or pre
 registered, or overnight mail to the last known address of the player or her representative, signed
 by the Team, informing the player that the Team has exercised its Option for the player's fourth
 WNBA Season ("Fourth Year Option"). The terms and conditions that apply to the Option Year
-52Season, except that the Base Salary for the Option Year (x) shall be increased over the Base
+shall be unchanged from all terms and conditions that applied to the player's third WNBA
+Season, except that the Base Salary for the Option Year (x) shall be increased over the Base
 Salary for her third Season by fifteen percent (15%) of the Base Salary for her second Season
 and (y) shall be fully protected for lack of skill and injury or illness.
 (c) If a Team has not delivered a Fourth Year Option Notice by the specified
@@ -64,7 +67,8 @@ Qualifying Offer to the Player at any time from the January 1 following such Sea
 immediately following January 14. If such Restricted Qualifying Offer is made, then, on the
 February 1 following the last Season covered by the player's Player Contract, the player shall
 become a Restricted Free Agent, subject to a Right of First Refusal in favor of the ROFR Team,
-53shall become an Unrestricted Free Agent on such February 1.
+as set forth in Section 6 below. If such a Restricted Qualifying Offer is not made, then the player
+shall become an Unrestricted Free Agent on such February 1.
 (c) In order to make a Restricted Qualifying Offer, a Team must have Room
 for the Restricted Qualifying Offer. A Restricted Qualifying Offer made to a Restricted Free
 Agent may be withdrawn by the Team at any time through the February 15 following its
@@ -86,7 +90,8 @@ nor accepted and the deadline for accepting it passes, the Team's Right of First
 continue, subject to Section 6(a) below.
 (d) Any claim that a Contract offered as a Restricted Qualifying Offer fails to
 meet one or more of the criteria for a Restricted Qualifying Offer shall be made by notice to the
-54given by the Team or the WNBA to the Players Association. Such notice must set forth the
+Team, in writing, no later than ten (10) days after a copy of the Restricted Qualifying Offer was
+given by the Team or the WNBA to the Players Association. Such notice must set forth the
 specific changes that allegedly must be made to the offered Contract in order for it to constitute a
 Restricted Qualifying Offer. Upon receipt of such notice, if the requested changes are necessary
 to satisfy the requirements of a Restricted Qualifying Offer, the Team may, within five (5)
@@ -107,7 +112,8 @@ Free Agent does not sign an Offer Sheet with any Team by the July 1 of the WNBA 
 which the Restricted Qualifying Offer is made, and does not sign a Player Contract with the
 ROFR Team before that Season ends. Any such Restricted Qualifying Offer shall be governed
 by the provisions of Section 5 above.
-55from a Team (the "New Team") other than the ROFR Team, which she desires to accept, she
+ (b) When a Restricted Free Agent receives an offer to sign a Player Contract
+from a Team (the "New Team") other than the ROFR Team, which she desires to accept, she
 shall give to the ROFR Team a completed certificate substantially in the form of Exhibit 6
 annexed hereto (the "Offer Sheet"), signed by the Restricted Free Agent and the New Team,
 which shall have attached to it a Standard Player Contract separately specifying the "Principal
@@ -128,7 +134,8 @@ Base Salary protection provided for each Season as set forth in
 Exhibit 2 (if any);
 Prior-injury exclusion terms set forth in Exhibit 3 (if any).
 An Offer Sheet may not contain a Time Off Bonus.
-56Team gives to the Restricted Free Agent a "First Refusal Exercise Notice" substantially in the
+ (d) If, within four (4) days from the date it receives an Offer Sheet, the ROFR
+Team gives to the Restricted Free Agent a "First Refusal Exercise Notice" substantially in the
 form of Exhibit 7 annexed hereto, such Restricted Free Agent and the ROFR Team shall be
 deemed to have entered into a Player Contract, effective as of the date the First Refusal Exercise
 Notice is given, containing all the Principal Terms included in the Standard Player Contract
@@ -150,7 +157,8 @@ its exercise of the Right of First Refusal. In the event the player does not pas
 examination, the ROFR Team may withdraw its First Refusal Exercise notice within five (5)
 days following the date upon which such examination is conducted; however, the New Team
 may not withdraw the previously submitted Offer Sheet. In the event the player, after being
-57(5) days of the exercise of the Right of First Refusal then, until such time as the player submits to
+given reasonable advance notice, does not submit to a requested physical examination within five
+(5) days of the exercise of the Right of First Refusal then, until such time as the player submits to
 the requested physical examination, the ROFR Team may withdraw its First Refusal Exercise
 Notice, which shall have the effect of invalidating the Offer Sheet and causing the Team that
 issued the Offer Sheet to be prohibited from signing or acquiring the player for a period of one
@@ -171,7 +179,8 @@ New Team, as the case may be, relating to the contents of an Offer Sheet, and/or
 binding agreement is between the Restricted Free Agent and the New Team or the Restricted
 Free Agent and the ROFR Team, such dispute shall immediately be submitted to the Arbitrator,
 who shall resolve such dispute within five (5) days.
-58at any time after the July 1 of the Season for which she has been made a Qualifying Offer.
+ (j) A Restricted Free Agent may not give an Offer Sheet to the ROFR Team
+at any time after the July 1 of the Season for which she has been made a Qualifying Offer.
 (k) On the same day as the giving of an Offer Sheet to the ROFR Team, the
 ROFR Team shall cause a copy thereof to be given to the WNBA, which shall cause a copy
 thereof to be promptly given to the Players Association. On the same day as the giving of a First
@@ -192,7 +201,8 @@ attention of the Team's general manager (and if by email, then to the general ma
 address with the Team and any such other email address as the Team may designate in writing);
 To the WNBA: Women's National Basketball Association, Olympic Tower, 645
 Fifth Avenue, New York, NY 10022, Attn: General Counsel (and if by email, then to the
-59WNBA may designate in writing);
+General Counsel's email address with the WNBA and any such other email address as the
+WNBA may designate in writing);
 To the Players Association: Women's National Basketball Players Association,
 1133 Avenue of the Americas, 5th Floor, New York, NY 10036, Attn: Executive Director (and if
 by email, then to the Executive Director's email address with the Players Association and any
@@ -215,7 +225,8 @@ To any WNBA Team: to the attention of each of the Team's specified
 representatives' email address (as set forth in paragraph (o) below).
 To the WNBA: to the attention of os-transactions_group@wnba.com.
 To the Players Association: to the attention of info@wnbpa.com.
-60the Restricted Free Agent designates a representative on the Offer sheet and lists
+ To a Restricted Free Agent: to her email address listed on the Offer Sheet, and, if
+the Restricted Free Agent designates a representative on the Offer sheet and lists
 such representative's email address thereon, a copy shall be sent to such
 representative at such email address.
 Any Offer Sheet-Related Notice given by email must be sent to the
@@ -239,7 +250,8 @@ or permitted to be given under this Article VI that is sent by email shall be de
 sent. For delivery by any other means allowed by this Article VI, the following shall apply:
 (i) an Offer Sheet shall be deemed given only when received by the ROFR Team; (ii) a First
 Refusal Exercise Notice shall be deemed given when sent by the ROFR Team; (iii) a Restricted
-61above) shall be deemed given when sent by the ROFR Team; (iv) other writings required or
+Qualifying Offer and an Amended Restricted Qualifying Offer (i.e., pursuant to Section 5(d)
+above) shall be deemed given when sent by the ROFR Team; (iv) other writings required or
 permitted to be given under Section 5 and 6 of this Article VI (e.g., an acceptance of a Restricted
 Qualifying Offer, a withdrawal of a Restricted Qualifying Offer, notice that a Restricted
 Qualifying Offer fails to meet one or more criteria for a Restricted Qualifying Offer, etc.) shall
@@ -261,7 +273,8 @@ more Seasons and no player may be designated as a Core Player during the period 
 Player Designations may be given prior to the 2022 Season and each Season thereafter during the
 term of this Agreement if such player has played pursuant to a Core Player Contract for two (2)
 or more Seasons. Players who have played pursuant to Core Player Contracts prior to the 2020
-62Nothing in this Section 7 is intended to limit the maximum allowable term of a Contract between
+Season, along with the Seasons included in those Core Player Contracts, are listed on Exhibit 4.
+Nothing in this Section 7 is intended to limit the maximum allowable term of a Contract between
 a Team and a player designated as a Core Player by such Team as provided for in Article V,
 Section 12.
 (c) In order to designate a player as a Core Player, the Team must, from the
@@ -283,7 +296,8 @@ such Contract to another Team; (iv) the retirement of the Core Player; or (v) th
 the Core Player pursuant to Article XIV, Section 2. If the Core Player and Team have not
 entered into a Contract, the Core Player Designation will terminate and become available to the
 Team again upon the earliest of: (a) the withdrawal by the Team of the Core Qualifying Offer;
-63below); (c) the retirement of the Core Player; or (d) November 30 of the Salary Cap Year in
+(b) the renunciation by the Team of the Core Player Designation (as set forth in Section 7(g)
+below); (c) the retirement of the Core Player; or (d) November 30 of the Salary Cap Year in
 which the Core Player Designation was made by the Team.
 (e) In order to designate a player as a Core Player, a Team must have Room
 for the Core Qualifying Offer. A Core Qualifying Offer may be withdrawn by the Team at any
@@ -305,7 +319,8 @@ and the deadline for accepting it passes, the Team's exclusive negotiating right
 subject to Section 7(d) above.
 (f) A player who knows or reasonably should have known that she has a
 physical disability or other condition (including pregnancy) that would render her physically
-64may not validly accept a Core Qualifying Offer made under this Section 7 unless the Team
+unable to perform the playing services required under a Player Contract the following Season,
+may not validly accept a Core Qualifying Offer made under this Section 7 unless the Team
 consents in writing after receiving written notice of such physical disability or other condition.
 If, after receiving written notice of such disability or condition (and, if desired by the Team, a
 physical examination of the player to confirm such disability or condition), the Team desires to
@@ -326,7 +341,8 @@ First Refusal in favor of the Team.
 Offer as provided for in subsection (e) above, a Team may renounce a Core Player Designation,
 which shall result in its termination as set forth in subsection (d) above. In order to renounce a
 Core Player Designation, a Team shall provide the WNBA with an express, written statement
-65a copy of such statement within one (1) business day following its receipt thereof.
+renouncing the Core Player Designation. The WNBA shall provide the Players Association with
+a copy of such statement within one (1) business day following its receipt thereof.
 (h) On the same day as the giving of a Core Player Designation Notice and a
 Core Qualifying Offer to a player, the Team shall cause a copy thereof to be given to the WNBA,
 which shall cause a copy thereof to be promptly given to the Players Association.
@@ -348,7 +364,8 @@ Notice and Core Qualifying Offer.
 (j) A Core Player Designation Notice and Core Qualifying Offer shall be
 deemed given when sent by the Prior Team. Except as provided in Section 6(n) with respect to
 First Refusal Exercise Notices and Restricted Qualifying Offers, other writings required or
-66addressed.
+permitted under this Section 7 shall be deemed given only when received by the party to whom
+addressed.
 Section 8. Reserved Players.
 (a) Any Veteran Free Agent who has three (3) or fewer Years of Service on
 the first day of any Salary Cap Year will be a Reserved Player if her Prior Team makes a
@@ -370,7 +387,8 @@ a physical disability or other condition (including pregnancy) that would render
 unable to perform the playing services required under a Player Contract the following Season
 may not validly accept a Reserved Qualifying Offer made under this Section 8, unless the Prior
 Team consents after disclosure of such physical disability or other condition (provided that the
-67examination of such player). In the event that the Prior Team does not consent, such player will
+Team may, at its election, and prior to determining whether to consent, conduct a physical
+examination of such player). In the event that the Prior Team does not consent, such player will
 remain subject to the Prior Team's exclusive negotiating rights. If a Reserved Qualifying Offer
 is neither withdrawn nor accepted and the deadline for accepting it passes, the Team's exclusive
 negotiating rights shall continue, subject to Section 8(c) below.
@@ -392,11 +410,11 @@ business days, offer the player an amended Contract incorporating the requested 
 Team offers such an amended Contract, the player and the Players Association shall be
 precluded from asserting that such Contract does not constitute a timely and valid Reserved
 Qualifying Offer.
-68Prior Team. Other writings required or permitted to be given under this Section 8 shall be
+ (e) A Reserved Qualifying Offer shall be deemed given when sent by the
+Prior Team. Other writings required or permitted to be given under this Section 8 shall be
 deemed given only when received by the party to whom addressed.
 Section 9. Unrestricted Free Agents
 Subject to Section 7 above, any Veteran Free Agent who has six (6) or more
 Years of Service on the first day of the 2020 Salary Cap Year, and any Veteran Free Agent who
 has five (5) or more Years of Service on the first day of any Salary Cap Year following the 2020
 Salary Cap Year, will be an Unrestricted Free Agent on such February 1.
-69

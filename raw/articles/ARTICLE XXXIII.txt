@@ -1,3 +1,4 @@
+ ARTICLE XXXIII
 EXPANSION, CONTRACTION,
 ROSTERS, NUMBER OF GAMES, SEASON FOOTPRINT
 Section 1. Number of Teams.
@@ -21,7 +22,8 @@ refusal with respect to Restricted Free Agents and, with respect to one (1) Unre
 Agent, the right to designate such player as a Core Player; provided, however, that the Expansion
 Team shall only be permitted to designate such Unrestricted Free Agent as a Core Player for two
 consecutive Seasons beginning with the season immediately following her selection in an
-210maximum allowable term of a Contract between a Team and a player designated as a Core Player
+expansion draft (it being understood that nothing in this Section 2 is intended to limit the
+maximum allowable term of a Contract between a Team and a player designated as a Core Player
 by such Team as provided for in Article V, Section 12 and subject to the maximum allowable
 times a player may be designated a Core Player pursuant to Article VI, Section 7(b)). In the
 event an entire Team roster is transferred to an Expansion Team pursuant to Article XXXIII,
@@ -43,7 +45,8 @@ WNBA shall be authorized to permit the remaining Teams to acquire the Player Con
 players under Contract, the exclusive negotiating rights to Reserved Players and the rights of first
 refusal with respect to Restricted Free Agents. When an entire Team roster is transferred to an
 Expansion Team, the WNBA shall be authorized to permit the Expansion Team to acquire all of
-211first refusal and the right to designate certain players as Core Players) of the prior Team. In
+the Player Contracts and all of the negotiating rights (e.g., exclusive negotiating rights, rights of
+first refusal and the right to designate certain players as Core Players) of the prior Team. In
 order to implement the foregoing, the procedures for the assignment or transfer of players and
 rights to players from any Contracting Team, including the use of a dispersal draft, shall be
 within the sole discretion of the WNBA after consultation with the Players Association.
@@ -65,7 +68,8 @@ Section 4. Rosters.
 Each Team may maintain up to a maximum of twelve (12) players on its roster
 during each Season covered by this Agreement (barring the granting by the WNBA of a roster
 hardship exception). The minimum number of players on a Team roster is eleven (11). If for
-212two (72) hours of the date on which the roster of such Team fell below eleven (11) players, add a
+any reason the roster of a Team falls below eleven (11) players, the Team shall, within seventy-
+two (72) hours of the date on which the roster of such Team fell below eleven (11) players, add a
 player or players to restore the Team's roster to eleven (11) players.
 Section 5. Number of Games.
 The WNBA shall have the discretion to (i) increase or decrease the number of
@@ -87,7 +91,8 @@ related to playoff achievement of a Team set forth in Article IX hereof shall be
 Section 6. Special Competitions and Tournaments.
 The WNBA shall have the discretion to, in consultation with the Players
 Association, create and schedule special competitions or tournaments during training camp, the
-213a minimum aggregate player prize pool of fifty thousand dollars (\$50,000) for the 2020 Season
+Regular Season and/or the playoffs. Any such special competitions or tournaments shall include
+a minimum aggregate player prize pool of fifty thousand dollars (\$50,000) for the 2020 Season
 and seven hundred and fifty thousand dollars (\$750,000) for each subsequent Season hereunder.
 Section 7. Season Schedule.
 (a) Each Season hereunder shall begin no earlier than April 1 and end no later
@@ -103,4 +108,3 @@ Association's comments. The Players Association shall keep the draft schedule co
 including by maintaining the confidentiality of any differences between the final schedule
 publicly announced by the WNBA and the draft schedule previously received by the Players
 Association.
-214

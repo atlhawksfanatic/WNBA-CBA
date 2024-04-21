@@ -33,9 +33,9 @@ cba <- pdf_text(cba_file)
 cba_cut <- cba[9:350]
 
 cba_pages_mapped <- map(cba_cut, function(x) {
-  # Get rid of the top line and the problematic characters
-  all_else <- str_remove(x, ".*\n+") |> 
-    str_trim() |> 
+  # Get rid of the last line and the problematic characters
+  all_else <- str_remove(x, ".*[0-9]+\n$") |> 
+    # str_trim("left") |> 
     str_replace_all("“|”", '"') |> 
     str_replace_all("’", "'") |> 
     str_replace_all(fixed("$"), "\\$")

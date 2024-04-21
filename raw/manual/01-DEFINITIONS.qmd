@@ -1,3 +1,4 @@
+ ARTICLE I
 DEFINITIONS
 As used in this Agreement, the following terms shall have the following
 meanings:
@@ -21,7 +22,8 @@ in the form attached as Exhibit 3) prior to the January 1 before the Season for 
 seeks to have WNBA sponsor identification removed (or the use of her Player Attributes limited)
 pursuant to Article XXVI, Section 1(c) or Section 2(e); and (iv) once submitted, shall be kept
 confidential by WNBA Enterprises.
-1Bona Fide Exclusive Endorsement Agreement, regularly engaged in the business of making or
+ (f) "Bona Fide Licensee" means an entity that (i) was, prior to entering into a
+Bona Fide Exclusive Endorsement Agreement, regularly engaged in the business of making or
 selling the products or services that are covered by such Bona Fide Exclusive Endorsement
 Agreement with the intention of earning a profit from such business, (ii) is commencing the
 business of making or selling the products or services covered by a Bona Fide Exclusive
@@ -43,7 +45,8 @@ such Team, ceases operations as a member of the WNBA following the date of this 
 Section 7.
 (k) "Designated Sponsor Category" means (i) each of the sponsor categories
 (reasonable in scope) designated by each Team by March 15 prior to each Season and (ii) each of
-2prior to each Season; provided, however, that, the total number of such designations each Season
+the sponsor categories (reasonable in scope) designated by WNBA Enterprises by March 15
+prior to each Season; provided, however, that, the total number of such designations each Season
 by a Team and WNBA Enterprises will not exceed four (4).
 (l) "Draft" or "WNBA Draft" means the annual WNBA draft of Rookie
 players in accordance with Article XIII.
@@ -65,7 +68,8 @@ the Draft.
 procedure; or (iv) a player whose last Player Contract was a 7-Day Contract or a Replacement
 Contract, and who either completed the Contract by rendering the playing services called for
 thereunder or was released early from such Contract.
-3Promotional Agreements and Team Marketing and Promotional Agreements.
+ (t) "Marketing and Promotional Agreements" means WNBA Marketing and
+Promotional Agreements and Team Marketing and Promotional Agreements.
 (u) "Mid Point of the Regular Season" means with respect to any WNBA
 Regular Season, the date that is halfway between the commencement and the conclusion of such
 Regular Season, calculated by taking the total number of calendar days of such Regular Season
@@ -86,7 +90,8 @@ under Article V, Section 7, multiplied by a fraction, the numerator of which is 
 days remaining in the WNBA Regular Season as of the date such Replacement Contract is
 entered into, and the denominator of which is the total number of days of that Regular Season;
 and (iv) with respect to a 7-Day Contract, the Minimum Annual Salary called for under Article
-4of which is the total number of days of that Regular Season.
+V, Section 7, multiplied by a fraction, the numerator of which is seven (7) and the denominator
+of which is the total number of days of that Regular Season.
 (x) "Minimum Team Salary" means the amount of Team Salary, as set forth
 in Article VII, Section 1(d), that each Team must equal or exceed as of the last day of a Season.
 (y) "Negotiate" or "negotiate" means, with respect to a player or her
@@ -108,7 +113,8 @@ the term of the Standard Player Contract of certain Rookies if the option provid
 V, Section 4 is exercised by the Team.
 (dd) "Picture" means all forms of audio, video, data or image reproduction,
 distribution or transmission whether now existing or hereafter created, including, but not limited
-5images, CD-ROM, and digital disc, in all cases whether live or on a delayed taped basis.
+to, still photographs, motion pictures, videocassettes, television images, computer and digital
+images, CD-ROM, and digital disc, in all cases whether live or on a delayed taped basis.
 (ee) "Players Association" means the Women's National Basketball Players
 Association.
 (ff) "Player Attributes" means a player's name, nickname, Picture, portrait,
@@ -130,7 +136,8 @@ Contract who is subject to a right of first refusal in accordance with Article V
 Qualifying Offer"); (C) for a Draft Rookie finishing her Rookie Scale Contract who was named
 either WNBA Most Valuable Player or All WNBA First Team in either (x) the fourth year of her
 Rookie Scale Contract or (y) two out of the first three years of her Rookie Scale Contract who is
-6fourth year Base Salary plus an additional ten thousand dollars (\$10,000); (D) for a player
+subject to a right of first refusal in accordance with Article VI, Section 5(a), 105% of the player's
+fourth year Base Salary plus an additional ten thousand dollars (\$10,000); (D) for a player
 subject to a right of first refusal in accordance with Article VI, Section 5(b)-(d) the greater of the
 applicable Minimum Player Salary or the Base Salary contained in the last Season of the player's
 prior Contract (a "Restricted Qualifying Offer"); and (E) for a player designated as a Core
@@ -152,7 +159,8 @@ Deadline upon notice from the Players Association.
 (kk) "Qualifying Veteran Free Agent" means a Veteran Free Agent who played
 under one or more Player Contracts covering some or all of each of the two preceding Seasons
 and either played exclusively with her Prior Team during such two Seasons, or, if she played
-7(including via the WNBA's waiver procedure), or (ii) by signing with her Prior Team during the
+with more than one Team during such period, changed Teams only (i) by means of assignment
+(including via the WNBA's waiver procedure), or (ii) by signing with her Prior Team during the
 first of the two Seasons.
 (ll) "Regular Season" or "WNBA Regular Season" means, with respect to any
 Season, the period beginning on the first day and continuing through the last day of regularly
@@ -172,7 +180,8 @@ passing a physical examination in accordance with the provisions of Article V, S
 exclusive negotiating rights in accordance with Article VI.
 (qq) "Restricted Free Agent" means a Veteran Free Agent who is subject to a
 Team's right of first refusal in accordance with Article VI.
-8player pursuant to Article XIII, Section 1, who has never signed a Player Contract with a WNBA
+ (rr) "Rookie" or "Rookie Player" means a person eligible to be a WNBA
+player pursuant to Article XIII, Section 1, who has never signed a Player Contract with a WNBA
 Team.
 "Draft Rookie" means a Rookie who is selected in the WNBA
 Draft.
@@ -194,7 +203,8 @@ earned under the terms of the Contract that is allocated to such Salary Cap Year
 with Article VII, Section 7(c); (iii) any Time Off Bonus applicable to a Salary Cap Year pursuant
 to Article V, Section 17(b)(vi); and (iv) any other amount that is deemed to constitute Salary in
 accordance with the terms of this Agreement, not including any portion of the player's Base
-9also includes any consideration received by a retired player that is deemed to constitute Salary in
+Salary that is attributable to another Salary Cap Year in accordance with this Agreement. Salary
+also includes any consideration received by a retired player that is deemed to constitute Salary in
 accordance with the terms of Article VII. The computation of a player's Salary under this
 Agreement shall be made without regard to any reduction in Base Salary that results from the
 player's suspension by the WNBA or her Team. Salary shall not include any Additional
@@ -215,7 +225,8 @@ or, if later, on the day following the final playoff game of the 2027 Season. In
 Collective Bargaining Agreement is terminated pursuant to Article XXXVIII, Section 1, the
 2025 Salary Cap Year shall end on October 31, 2025 or, if later, on the day following the final
 playoff game of the 2025 Season.
-10of training camp and ending immediately after the last game of the WNBA Finals.
+ (zz) "Season" or "WNBA Season" means the period beginning on the first day
+of training camp and ending immediately after the last game of the WNBA Finals.
 (aaa) "Second Round Pick" means a player selected by a Team in the second
 round of the Draft.
 (bbb) "Standard Player Contract" or "Player Contract" or "Contract" means the
@@ -236,7 +247,8 @@ with or an individual related to, an individual or entity described in Section 1
 above; or
 any entity in which 10% or more of the ownership interests are
 held (directly or indirectly) by an individual or entity who or which holds (directly or indirectly)
-11above.
+10% or more of the ownership interests in a Team or in an entity described in Section 1(ddd)(ii)
+above.
 For the purposes of this Section: an individual shall only be deemed to be "related
 to" a Team or another individual or entity if such individual is an officer, director or employee of
 such Team or entity, or is a member of such individual's immediate family; and "controls" or "is
@@ -258,7 +270,8 @@ management "front-office" services for the Team or any of its affiliates. Team M
 Promotional Agreements are subject to any restrictions or limitations established by the WNBA,
 in its sole discretion; provided, however, that such restrictions or limitations do not violate a
 provision of this Agreement, including Article XXXIV, Section 2.
-12Salaries attributable to a Team's active and former players, plus other amounts included in Team
+ (fff) "Team Salary" means, with respect to a Salary Cap Year, the sum of all
+Salaries attributable to a Team's active and former players, plus other amounts included in Team
 Salary in accordance with the terms of this Agreement, and not including any amounts excluded
 from Team Salary in accordance with the terms of this Agreement.
 (ggg) "Third Round Pick" means a player selected by a Team in the third round
@@ -280,7 +293,8 @@ limited liability company.
 (nnn) "WNBA Marketing and Promotional Agreement" means a written
 agreement entered into between the WNBA and a player in accordance with Article XXXIV,
 Section 1, whereby such player, in exchange for Additional Marketing and Promotional
-13WNBA Enterprises (in addition to any services required by such player's Player Contract, any
+Compensation, agrees to perform marketing and promotional services for the WNBA and
+WNBA Enterprises (in addition to any services required by such player's Player Contract, any
 Team Marketing and Promotional Agreement to which such player is a party, or this Agreement)
 that, during the term of such WNBA Marketing and Promotional Agreement, shall: (i) restrict
 the ability of such player to play in another professional basketball league during the Off-Season;
@@ -302,7 +316,8 @@ but only if she is on the active list of that WNBA Team for the start, or for an
 Regular Season for which she is signed. Notwithstanding the above, a player will not receive
 credit for a Year of Service for any year in which she: (i) withholds playing services called for
 by a Player Contract for more than twenty-one (21) days after the Season begins; (ii) is signed
-14Agent as of July 20. In addition, notwithstanding the above, a player will not receive credit for a
+only to one or more 7-Day Contracts or Replacement Contracts, or (iii) is a Restricted Free
+Agent as of July 20. In addition, notwithstanding the above, a player will not receive credit for a
 Year of Service for a Player Contract that is voided due to the player's failure to pass a physical
 examination or that is disapproved by the Commissioner, except that disapproval of a Player
 Contract by the Commissioner shall not prevent a player from obtaining a Year of Service that
@@ -313,4 +328,3 @@ WNBA Season. A Year of Service will be credited to a player on the day following
 with respect to which it is being credited. Under no circumstances shall the definition of Years
 of Service herein be used for purposes of determining a player's years of "WNBA playing
 service" under the WNBA 401(k) Plan.
-15

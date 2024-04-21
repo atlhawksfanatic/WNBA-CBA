@@ -1,3 +1,4 @@
+ ARTICLE XIII
 PLAYER ELIGIBILITY AND WNBA DRAFT
 Section 1. Player Eligibility.
 (a) Only players who are women are eligible to play in the WNBA.
@@ -20,7 +21,8 @@ with the previous course loads she has successfully completed. For purposes of s
 (b)(iii) above, "is to graduate" shall mean that the majority of the students in such class would
 graduate from such college or university upon successful completion of the coursework the
 members of such class are enrolled in at the time of such Draft.
-110Tournament) during the period that begins ten (10) days prior to a Draft; (ii) has remaining
+ (c) A player who: (i) is competing in a NCAA season (including any NCAA
+Tournament) during the period that begins ten (10) days prior to a Draft; (ii) has remaining
 intercollegiate eligibility beyond the season in which she is currently competing; and (iii) is
 otherwise eligible for selection in such Draft, may make herself eligible for such Draft by
 renouncing her remaining intercollegiate eligibility within the period beginning at the conclusion
@@ -42,7 +44,8 @@ Section 2. Indemnity.
 The WNBA agrees to indemnify and hold harmless the Players Association and
 each of its respective past, present and future affiliates, agents, employees, successors, designees,
 assigns, officers, directors, trustees, attorneys, members, heirs, executors, administrators, and
-111requirements set forth in Sections 1(b), 1(c) or 1(d) above, including, without limitation, any
+representatives, from any and all claims arising from or relating to the player eligibility
+requirements set forth in Sections 1(b), 1(c) or 1(d) above, including, without limitation, any
 judgments, costs and settlements, provided that the WNBA is immediately notified of any such
 claim in writing (and, in no event later than five (5) days from the Players Association's receipt
 thereof), is given the opportunity to assume the defense thereof, and the Players Association uses
@@ -62,7 +65,8 @@ more than one selection if multiple Expansion Teams are beginning operations in 
 Season, it being understood that the number of additional selections in each round of any Draft
 will not exceed the number of Expansion Teams to begin operations in the immediately
 succeeding Season) to be exercised (or assigned) by such Expansion Team(s).
-112(a) A Team that drafts a player, during the period from the date of such
+Section 5. Negotiating Rights to Draft Rookies.
+(a) A Team that drafts a player, during the period from the date of such
 WNBA Draft (hereinafter the "Initial Draft") to the date of the next Draft (hereinafter the
 "Subsequent Draft"), shall be the only Team with which such player may negotiate or sign a
 Player Contract, provided that, within seven (7) days following the Initial Draft, such Team has
@@ -84,7 +88,8 @@ as of the date of the next WNBA Draft.
 (ii) does not sign a Player Contract with a Team prior to the Subsequent Draft, and (iii) is not
 drafted by any Team in such Subsequent Draft, the player will become a Rookie Free Agent
 immediately upon the conclusion of the Subsequent Draft.
-113that Team does not make a Required Tender to such player, the player will become a Rookie
+ (d) If a player is drafted by a Team in either an Initial or Subsequent Draft and
+that Team does not make a Required Tender to such player, the player will become a Rookie
 Free Agent on the eighth (8th) day following such Draft.
 (e) A Team may at any time withdraw a Required Tender that it has made to a
 player, provided that the player agrees in writing to the withdrawal. In the event that a Required
@@ -106,7 +111,8 @@ will apply:
 retain the exclusive WNBA rights to negotiate with and sign her for the period ending one year
 from the date the player notifies such Team that she is immediately available to sign a Player
 Contract with such Team that covers the then-current or (if the notice is provided between
-114until the player is under no contractual or other legal impediment to sign and play with such
+Seasons) the immediately-succeeding Season, provided that such notice will not be effective
+until the player is under no contractual or other legal impediment to sign and play with such
 Team during such Season.
 (b) If, by February 1 of any year, the player notifies the Team that has drafted
 her that by April 1 of such year she will be under no contractual or other legal impediment to
@@ -128,7 +134,8 @@ accordance with subsection (a).
 (e) If, during the one-year period of exclusive WNBA negotiating rights set
 forth in subsection (a) above, the player signs another player contract with a professional
 basketball team not in the WNBA and (i) the player has made a bona fide effort to negotiate a
-115to make a Required Tender to such player in accordance with subsection (b) above, then the
+Player Contract with the Team possessing her exclusive WNBA rights, and (ii) such Team fails
+to make a Required Tender to such player in accordance with subsection (b) above, then the
 player shall thereupon become a Rookie Free Agent.
 (f) If, during the one-year period of exclusive WNBA negotiating rights set
 forth in subsection (a) above, the Team makes or has made a Required Tender to the player and
@@ -151,7 +158,8 @@ intercollegiate eligibility pursuant to Section 1(b) above or (ii) regains inter
 after her eligibility had expired or had been terminated, and such person is selected in the
 WNBA Draft after renouncing her eligibility or prior to regaining her eligibility, the following
 rules apply:
-116applicable rules shall be those set forth in Sections 5 and 6 above.
+ (a) If the player does not thereafter play intercollegiate basketball, then the
+applicable rules shall be those set forth in Sections 5 and 6 above.
 (b) If the player does thereafter play intercollegiate basketball, then the Team
 that drafted her shall retain the exclusive WNBA rights to negotiate with and sign the player for
 the period ending one year from the date of the Draft following the date on which such player
@@ -172,7 +180,8 @@ Section 9. General.
 applicable provisions of WNBA League Rules, from prohibiting or otherwise responding to
 violations by Teams of the exclusive WNBA rights obtained in any WNBA Draft, as set forth or
 referred to in this Article. Other than as specifically agreed to herein, nothing contained in this
-117the WNBA League Rules.
+Agreement shall be deemed to be an agreement by the Players Association to any provision of
+the WNBA League Rules.
 (b) Any claim by a player that a Contract offered as a Required Tender
 pursuant to this Article XIII fails to meet one or more of the criteria for a Required Tender shall
 be made by written notice to the Team (with copies sent to the WNBA and the Players
@@ -193,7 +202,7 @@ receiving written notice of such disability or other condition (and, at the elec
 physical examination of the player to confirm such disability or other condition), the Team
 desires to withdraw the Required Tender, such player will remain subject to the Team's
 exclusive negotiating rights.
-118desire to become eligible to be selected in the next WNBA Draft pursuant to Section 1(b) above
+ A person who has renounced her intercollegiate eligibility and expressed her
+desire to become eligible to be selected in the next WNBA Draft pursuant to Section 1(b) above
 shall be entitled to withdraw from such Draft by providing written notice that is received by the
 WNBA five (5) days prior to such Draft.
-119

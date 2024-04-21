@@ -1,3 +1,4 @@
+ ARTICLE XXXIV
 MARKETING AND PROMOTIONAL AGREEMENTS
 Section 1. WNBA Marketing and Promotional Agreements.
 The WNBA and any player may enter into a WNBA Marketing and Promotional
@@ -21,7 +22,8 @@ WNBA sponsor's use of such player's Player Attributes individually and/or the pl
 participation in content creation and social media distribution on behalf of such sponsor, in
 exchange for compensation mutually agreed between the WNBA and such player. The amount
 of such compensation shall count towards the WNBA Marketing Minimum for the relevant
-215Minimum in any Marketing Period hereunder, the shortfall amount shall be added to the WNBA
+Marketing Period. In the event that that the WNBA does not spend the WNBA Marketing
+Minimum in any Marketing Period hereunder, the shortfall amount shall be added to the WNBA
 Marketing Minimum in the following Marketing Period and any or all of such shortfall that
 remains at the conclusion of such subsequent Marketing Period shall be added to the next
 Marketing Period (the "Third Marketing Period"). If, at the end of the Third Marketing Period
@@ -43,7 +45,8 @@ Standard Player Contract, and (ii) such Marketing and Promotional Agreement will
 (and all Team and player obligations thereunder will cease) upon the termination of such player's
 Standard Player Contract or the assignment of such player to a new Team. The particular
 marketing and promotional services, the Additional Marketing and Promotional Compensation,
-216Marketing and Promotional Agreement. A Team may include access to its own playing or
+and the payment schedule applicable to such compensation shall be specified in such Team
+Marketing and Promotional Agreement. A Team may include access to its own playing or
 practice facilities or third-party workout facilities (or reimbursement for such facilities) as part of
 the terms of any Team Marketing and Promotional Agreement. The maximum amount that any
 Team can pay to its players in aggregate during each of the 2020 through 2022 Marketing
@@ -65,7 +68,8 @@ Initiative Employment Arrangement with a Team Affiliate shall count toward the T
 Marketing Minimum of the affiliated Team during the relevant Marketing Period; (iii) any
 compensation earned by a player pursuant to a Team Marketing and Promotional Agreement for
 a Marketing Period during which she also receives compensation from a WNBA Marketing and
-217relevant Marketing Period; and (iv) the value of any housing or workout-facility access received
+Promotional Agreement shall not count toward the Team Marketing Minimum during the
+relevant Marketing Period; and (iv) the value of any housing or workout-facility access received
 by the player shall not count toward the Team Marketing Minimum. In the event that any Team
 does not satisfy the Team Marketing Minimum in any Marketing Period beginning with the 2021
 Marketing Period, the shortfall amount shall be added to the Team Marketing Minimum in the
@@ -87,4 +91,3 @@ WNBA nor the Players Association shall contend to the contrary.
 Section 4. Reporting.
 The WNBA shall provide to the Players Association complete copies of all new
 WNBA and Team Marketing and Promotional Agreements on a weekly basis.
-218

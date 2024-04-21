@@ -1,3 +1,4 @@
+ ARTICLE XI
 PLAYER-RELATED EXPENSES
 Section 1. Lodging.
 (a) During the Regular Season and playoffs, players will be provided with the
@@ -26,7 +27,8 @@ nothing herein shall excuse a player from complying with any reasonable training
 promulgated by the WNBA or a Team or with any reasonable occupancy regulations established
 by the owners or lessors (or their designees) of such housing. Any player who elects to stay in
 housing provided by the Team may, upon reasonable advance notice and subject to availability,
-98difference between the cost of the Team-provided housing and the larger unit.
+elect to upgrade her unit to a larger unit, provided that such player shall pay to the Team the
+difference between the cost of the Team-provided housing and the larger unit.
 (c) Any player who, on or before the March 15 immediately preceding any
 Season has entered into a Player Contract that is then in effect must notify the Team on or before
 the immediately succeeding April 1 whether she elects Team-provided housing or a monthly
@@ -46,7 +48,8 @@ the Team, with either Team-provided housing, a monthly housing stipend (in the s
 set forth in subsection (a) above), or individual hotel rooms.
 (e) When a Team is playing "on the road," players traveling with the Team
 will be provided with individual hotel rooms in first-class hotel accommodations.
-99(a) A player will receive a coach airline ticket from the city where she
+Section 2. Relocation Expenses.
+(a) A player will receive a coach airline ticket from the city where she
 permanently resides to the city of her assigned Team for each Season she is under Contract to
 play in the WNBA.
 (b) A player who is assigned from one Team to another during the Season will
@@ -68,7 +71,8 @@ such expenses are documented to the appropriate Team.
 (e) For purposes of subsections (a), (b), and (c) above, references to a coach
 airline ticket shall mean, if available on the Team-chosen flights at the time of booking, a
 premium economy (or similar enhanced coach fare).
-100(a) Players will be provided with a per day meal expense allowance while
+Section 3. Meal Expense Allowance.
+(a) Players will be provided with a per day meal expense allowance while
 playing for their Teams "on the road" and during the training camp period (but only if the Team
 does not pay for meals directly), as follows.
 2020 2021 2022 2023 2024 2025 2026 2027
@@ -88,7 +92,8 @@ For purposes of this Section 3, the meal expense allowance for breakfast shall b
 deemed to be:
 2020 2021 2022 2023 2024 2025 2026 2027
 \$16 \$17 \$17 \$17 \$18 \$18 \$18 \$19
-1012020 2021 2022 2023 2024 2025 2026 2027
+ the meal expense allowance for lunch shall be deemed to be:
+2020 2021 2022 2023 2024 2025 2026 2027
 \$25 \$25 \$26 \$26 \$26 \$27 \$27 \$27
 and the meal expense allowance for dinner shall be deemed to be:
 2020 2021 2022 2023 2024 2025 2026 2027
@@ -110,7 +115,8 @@ games) will be, if available on the Team-chosen flights at the time of booking, 
 economy (or similar enhanced coach fare). Teams are required to reimburse players for the
 application cost of obtaining Global Entry membership as part of the Trusted Travelers Program
 of the U.S. Department of Homeland Security.
-102Each player will receive two (2) complimentary tickets for each home and away
+Section 5. Game Tickets.
+Each player will receive two (2) complimentary tickets for each home and away
 game.
 Section 6. Local Transportation.
 (a) Teams will not be required to provide players with access to cars and will
@@ -131,7 +137,8 @@ such player exceed two thousand dollars (\$2,000) (prorated as necessary to refl
 days the player is on the active list). In the event that a player requests either (ii), (iii) or (iv)
 above by written notice to her Team at least thirty (30) days prior to the start of training camp,
 the Team will provide such reimbursement for such Season, provided, however, that if the car to
-103may not elect (ii) above without the Team's consent.
+which the player has access is within five hundred (500) miles of the Team market, the player
+may not elect (ii) above without the Team's consent.
 (b) Notwithstanding anything to the contrary in subparagraph (a), during
 training camp, players without a car in the Team market who are receiving reimbursement
 pursuant to clauses (ii), (iii) or (iv) of subparagraph (a) shall be entitled to a maximum
@@ -152,5 +159,5 @@ reimbursement provided for in this subparagraph c (i.e., \$3,500).
 (d) Players who enter into rest-of-season contracts after the ninetieth (90th)
 day of the Regular Season and players who sign 7-day contracts shall be entitled to a maximum
 reimbursement of one hundred dollars (\$100) for local transportation.
-104the presentation of valid shipping or rental receipts.
-105
+ (e) Teams may only provide reimbursements pursuant to this Section 6 upon
+the presentation of valid shipping or rental receipts.

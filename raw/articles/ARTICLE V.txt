@@ -1,3 +1,4 @@
+ ARTICLE V
 STANDARD PLAYER CONTRACT
 Section 1. Required Form.
 The contract to be entered into by each player and the Team by which she is
@@ -21,7 +22,8 @@ Section 3. Allowable Amendments.
 In their individual contract negotiations, a Veteran Player (but not a Rookie) and a
 Team may amend the provisions of a Standard Player Contract, but only in the following
 respects:
-20Player Contract) setting forth the Base Salary to be paid to the player for each Season of the
+ (a) By agreeing upon provisions (to be set forth in Exhibit 1 to a Standard
+Player Contract) setting forth the Base Salary to be paid to the player for each Season of the
 Contract for rendering the services described in such Contract.
 (b) By agreeing upon provisions (to be set forth in Exhibit 2 to a Standard
 Player Contract) stating that the Base Salary provided for by the Standard Player Contract shall
@@ -43,7 +45,8 @@ of six (6) Player Contracts containing Base Salary protection of any kind; and (
 exercised by a team pursuant to Section 4(a) below and Article VI, Section 4 shall not count
 against the per-team limit of six (6) Player Contracts containing Base Salary protection of any
 kind.
-21Player Contract) limiting or eliminating the player's right to receive her Base Salary (in
+ (c) By agreeing upon provisions (to be set forth in Exhibit 3 to a Standard
+Player Contract) limiting or eliminating the player's right to receive her Base Salary (in
 accordance with Sections 6(a)(i)(y) and 6(c) of this Article) when the player's disability or
 unfitness to play skilled basketball is caused by the re-injury of one or more injuries sustained
 prior to, or by the aggravation of one or more conditions that existed prior to, the execution of
@@ -64,7 +67,8 @@ of this Agreement will be modified or eliminated.
 Player Contract) stating that the Contract will be traded to another Team within forty-eight (48)
 hours of its execution, such trade and the consummation of such trade to be conditions precedent
 to the validity of the Contract.
-22Player Contract other than a Rookie Scale Contract) setting forth lump sum bonuses to be paid as
+ (g) By agreeing upon provisions (to be set forth in Exhibit 8 to any Standard
+Player Contract other than a Rookie Scale Contract) setting forth lump sum bonuses to be paid as
 a result of a player not exceeding agreed-upon limitations on the amount of time she will Play
 Professional Basketball during an Off-Season, subject to the provisions of Section 17 below
 ("Time Off Bonuses").
@@ -86,7 +90,8 @@ percentage of Base Salary remaining to be earned under the Contract at the time 
 A Contract that does not contain a trade bonus cannot be amended
 to add a trade bonus, except that if the Contract is extended, the Contract may be amended
 simultaneously to provide for a trade bonus that, notwithstanding subsection (i) above, shall be
-23the extended term of the Extension. In order to so provide, notwithstanding subsection (iii)
+payable only the first time such Contract is traded following the Season immediately preceding
+the extended term of the Extension. In order to so provide, notwithstanding subsection (iii)
 above, Exhibit 9 to the Extension must include the following sentence: "The foregoing trade
 bonus shall not be applicable to any trade prior to the end of the [___] Season, but shall instead
 be payable only the first time this Contract is traded following the [___] Season." The Season to
@@ -108,7 +113,8 @@ and the immediately succeeding Off-Seasons; (ii) shall provide a Base Salary in 
 set forth in Article VIII of the Agreement; (iii) shall not contain Base Salary protection of any
 kind (other than the contingent protection contained in the Option Year); (iv) may contain the
 amendments authorized by Sections 3(c) and 3(d) above; and (v) shall contain an option (to be
-24the term of the Contract for one additional twelve-month period beyond its initial term. Such
+set forth in Exhibit 4 to a Standard Player Contract) that may be exercised by the Team to extend
+the term of the Contract for one additional twelve-month period beyond its initial term. Such
 option shall be exercisable by the Team, in its sole discretion, by written notice to the player or
 her representative on or before the May 15 following the second Season covered by the Contract.
 If such option is exercised by the Team, the terms and conditions of the Contract for the Option
@@ -129,7 +135,8 @@ number of days remaining in the Regular Season when the Contract is executed and
 denominator of which is the total number of days of the Regular Season. If a Rookie Scale
 Contract with a Draft Rookie is entered into after the conclusion of the first Regular Season
 following the Draft in which such player was drafted, such Contract shall provide a Base Salary
-25Draft immediately prior to the first Regular Season covered by such Contract.
+in each season as set forth in Article VIII for players drafted in the same draft position in the
+Draft immediately prior to the first Regular Season covered by such Contract.
 (d) Pre-existing Sponsorship, Endorsement and Licensing Agreements.
 Each player must disclose all sponsorship, endorsement and licensing agreements
 (including all agreements with respect to footwear) that the player entered into prior to the
@@ -151,7 +158,8 @@ set forth in Exhibit 2 to the Standard Player Contract, and subject further to A
 Section 3(b), and notwithstanding the provisions of Sections 6(a)(i)(x), 6(a)(i)(y), 6(e), and 6(f)
 of this Article, the termination of such Contract by the Team on account of the player's failure to
 exhibit sufficient skill or competitive ability shall in no way affect the player's right to receive,
-26that: (i) such lack of skill does not result from the player's participation in activities prohibited
+in whole or in part, the Base Salary payable pursuant to Exhibit 1 to such Contract; provided,
+that: (i) such lack of skill does not result from the player's participation in activities prohibited
 by paragraph 10 of the Standard Player Contract, attempted suicide, intentional self-inflicted
 injury, abuse of alcohol, use of any Prohibited Substance or controlled substance, abuse of or
 addiction to prescription drugs, conduct occurring during the commission of any felony for
@@ -173,7 +181,8 @@ basketball practice or game played for the Team, or in any other basketball acti
 player is required to participate under her Player Contract, shall in no way affect the player's
 right to receive, in whole or in part, the Base Salary payable pursuant to Exhibit 1 of such
 Contract; provided, however, that (i) such injury does not result from the player's participation in
-27intentional self-inflicted injury, abuse of alcohol, use of any Prohibited Substance or controlled
+activities prohibited by paragraph 10 of the Standard Player Contract, attempted suicide,
+intentional self-inflicted injury, abuse of alcohol, use of any Prohibited Substance or controlled
 substance, abuse of or addiction to prescription drugs, conduct occurring during the commission
 of any felony for which the player is convicted (including a plea of guilty, no contest or nolo
 contendere) or participation in any riot, insurrection or war or other military activities, or failure
@@ -195,7 +204,8 @@ subject to any conditions or limitations set forth in Exhibit 2 and/or Exhibit 3
 (in addition to the conditions and limitations set forth in this Article V, Section 5(c)), and subject
 further to Article XXXIII, Section 3(b), and notwithstanding the provisions of Sections
 6(a)(i)(y), 6(c), 6(d), 6(e) and 6(f) of this Article, the termination of such Contract by the Team
-28WNBA Season shall in no way affect the player's right to receive, in whole or in part, the Base
+on account of an injury, illness or disability suffered or sustained by the player during the
+WNBA Season shall in no way affect the player's right to receive, in whole or in part, the Base
 Salary payable pursuant to Exhibit 1 of such Contract; provided, however, that (i) such injury or
 illness does not result from the player's participation in activities prohibited by paragraph 10 of
 the Standard Player Contract, attempted suicide, intentional self-inflicted injury, abuse of
@@ -217,7 +227,8 @@ claim under such policy.
 When a Team agrees to protect, in whole or in part, the Base Salary provided for
 in a Standard Player Contract in the event such Contract is terminated by the Team by reason of
 the player's disability or unfitness to play skilled basketball resulting from any injury, illness or
-29subject to any conditions or limitations set forth in Exhibit 2 and/or Exhibit 3 to such Contract
+disability suffered by the player during the term of her Contract, such agreement shall mean that,
+subject to any conditions or limitations set forth in Exhibit 2 and/or Exhibit 3 to such Contract
 (in addition to the conditions and limitations set forth in this Article V, Section 5(d)), and subject
 further to Article XXXIII, Section 3(b), and notwithstanding the provisions of Sections
 6(a)(i)(y), 6(c), 6(d), 6(e) and 6(f) of this Article, the termination of such Contract by the Team
@@ -239,7 +250,8 @@ the time of such injury, illness, or disability, the player is not in material b
 (iv) if the Team, for its own benefit, seeks to procure an insurance policy covering the player's
 injury, illness and/or disability, the player cooperates with the Team in procuring such an
 insurance policy, including by, among other things, supplying all information requested of her,
-30requested of her by or on behalf of the insurance company in connection with the Team's efforts
+completing application forms, or otherwise and submitting to all examinations and tests
+requested of her by or on behalf of the insurance company in connection with the Team's efforts
 to procure such policy; and (v) if the Team, for its own benefit, has procured such an insurance
 policy, the player cooperates with the Team (in the manner described above) and the insurance
 company in the processing of the Team's claim under such policy.
@@ -261,7 +273,8 @@ player, if she:
 at any time, in the sole and absolute discretion of the Team's
 management, fails to exhibit sufficient skill or competitive ability to qualify to continue as a
 player on the Team; provided, however, that (x) if the Player Contract is terminated by a Team,
-31day after the Mid-Point of a Regular Season then, subject to Article XXXIII, Section 3(b), the
+in accordance with the provisions of this subparagraph, during the period commencing on the
+day after the Mid-Point of a Regular Season then, subject to Article XXXIII, Section 3(b), the
 player shall continue to receive the remainder of her full Base Salary for such Season; and (y) if
 the Player Contract is terminated by a Team, in accordance with the provisions of this
 subparagraph, and the player, at the time of such termination, is unfit to play skilled basketball as
@@ -283,7 +296,8 @@ person in attendance at any WNBA game or event, considering the totality of the 
 including (but not limited to) the degree of provocation (if any) that may have led to the attack,
 the nature and scope of the attack, the player's state of mind at the time of the attack, and the
 extent of any injury resulting from the attack; or
-32physical condition.
+ at any time fails, refuses or neglects to keep herself in first-class
+physical condition.
 (b) Prior to terminating a player's Standard Player Contract, a Team must
 offer to assign the player to the other WNBA Teams pursuant to the WNBA waiver procedures
 then in effect; provided, however, that a Team shall not offer to assign the player pursuant to the
@@ -305,7 +319,8 @@ player's failure to render her services thereunder due to an injury or condition
 suffered during a preceding Season, or after such Season but prior to the Player's participation in
 any basketball practice or game played for the Team, payment of the player's lodging and meal
 expense allowance during the training camp period, payment of the reasonable traveling
-33Team to the player shall be full payment to the player.
+expenses of the player to her home city, and the expert training and coaching provided by the
+Team to the player shall be full payment to the player.
 (e) Notwithstanding the provisions of Section 6(a)(i) or Section 6(c) above, if
 a Team terminates a player's Standard Player Contract that is a Training Camp Contract (as that
 term is defined in Article VII, Section 2(g)) prior to the first game of the Regular Season by
@@ -326,7 +341,8 @@ exceed eight (8) weeks from the termination of such Training Camp Contract.
 (f) If a Team terminates a player's Standard Player Contract during the
 training camp period, and the provisions of Section 6(a)(i)(y) above do not apply, payment of the
 player's lodging and meal expense allowance during the training camp period, payment of the
-34coaching provided by the Team to the player shall be full payment to the player.
+reasonable traveling expenses of the player to her home city, and the expert training and
+coaching provided by the Team to the player shall be full payment to the player.
 (g) Subject to Sections 6(a)(i)(x), 6(a)(i)(y) and 6(c) above, if a Team
 terminates a player's Standard Player Contract during any Regular Season, all obligations of the
 Team to pay compensation thereunder shall cease on the date of termination, except the player
@@ -348,7 +364,8 @@ result of such arbitration, an award issues in favor of the player, and if the T
 with such award within ten (10) business days of its receipt thereof (unless such award has been
 stayed or reversed by appropriate legal process), the player shall have the right, by a further
 written notice to the Team, to terminate her Standard Player Contract.
-35(a) Except with respect to 7-Day Contracts provided for in Section 9 below,
+Section 7. Minimum Player Salary.
+(a) Except with respect to 7-Day Contracts provided for in Section 9 below,
 Rest-of-Season Contracts provided for in Section 10 below, Replacement Contracts provided for
 in Section 11 below, and Rookie Scale Contracts, no Standard Player Contract covering the
 following Seasons shall provide a Base Salary of less than the following amounts:
@@ -370,7 +387,8 @@ amended to the extent necessary to so provide."
 to January 17, 2020 and covering the 2020 Season and, if applicable, any Season thereafter (an
 "Existing Contract") is below the Minimum Annual Salary, the Base Salary in such Player
 Contract shall be automatically adjusted so that the Base Salary in 2020 and, if applicable, any
-36prevent a Team from terminating an Existing Contract at any time.
+Season thereafter shall equal the Minimum Annual Salary. Nothing herein shall in any way
+prevent a Team from terminating an Existing Contract at any time.
 Section 8. Maximum Player Salary
 No Standard Player Contract shall provide a Base Salary in any Season covered
 thereunder of more than the Maximum Player Salary.
@@ -393,7 +411,8 @@ Salary shall be:
 \$185,000 \$190,550 \$196,267 \$202,154 \$208,219 \$214,466 \$220,900 \$227,527
 (c) The Maximum Player Salary for any Contract entered into during any
 Regular Season hereunder shall be reduced so as to equal the Maximum Player Salary multiplied
-37when the Contract is executed and the denominator of which is the total number of days of the
+by a fraction, the numerator of which is the number of days remaining in the Regular Season
+when the Contract is executed and the denominator of which is the total number of days of the
 Regular Season.
 (d) Notwithstanding any other provision of this Agreement, if a trade of a
 Standard Player Contract would, by reason of a trade bonus contained in such Contract, cause the
@@ -413,7 +432,8 @@ such Contract. No team may enter into more than three (3) 7-Day-Contracts with t
 player in any one (1) Season. No Team may enter into a 7-day Contract if the length of such
 Contract would extend to or past the date of the Team's last Regular Season game for such
 Season.
-38At any time after the first day of a WNBA Regular Season, a Team may enter into
+Section 10. Rest-of-Season Contracts.
+At any time after the first day of a WNBA Regular Season, a Team may enter into
 a Player Contract that may provide Base Salary to a player only for the remainder of that Season
 (a "Rest-of-Season Contract"). The Base Salary provided for in a Rest-of-Season Contract shall
 not be less than the Minimum Player Salary. A Rest-of-Season Contract shall not contain Base
@@ -435,7 +455,8 @@ elsewhere in this Agreement, a Player Contract may cover, in the aggregate, up t
 than three (3) Seasons (and the immediately succeeding Off-Seasons) from the date such
 Contract is signed; provided, however, that (a) a Contract between a Qualifying Veteran Free
 agent and her Prior Team may cover, in the aggregate, up to but no more than four (4) Seasons
-39aggregate, three (3) Seasons plus an Option Year, and (c) an Extension of a Rookie Scale
+(and the immediately succeeding Off-Seasons), (b) a Rookie Scale Contract shall cover, in the
+aggregate, three (3) Seasons plus an Option Year, and (c) an Extension of a Rookie Scale
 Contract may cover, in the aggregate, up to but no more than four (4) Seasons from the date such
 Extension is signed.
 (b) Computation of Time. For purposes of Section 12(a) above, if a Player
@@ -457,7 +478,8 @@ by virtue of a Standard Player Contract or this Agreement.
 Section 14. General.
 (a) (i) Subject to Section 16 below, any oral or written agreement
 between a player and a Team concerning terms and conditions of employment shall be reduced
-40practicable. Immediately upon the consummation of any such oral or written agreement, the
+to writing in the form of a Standard Player Contract or an amendment thereto as soon as
+practicable. Immediately upon the consummation of any such oral or written agreement, the
 Team shall notify the WNBA by email and provide the WNBA with all terms of such agreement.
 Following its receipt of such notice, the WNBA shall provide the same notice to the Players
 Association as soon as practicable.
@@ -479,7 +501,8 @@ made to the player's bank account. Compensation of any other kind is prohibited.
 (d) No Team shall make any direct or indirect payment of any money,
 property, investments, loans, or anything else of value for fees or otherwise to an agent, attorney,
 or representative of a player (for or in connection with such person's representation of such
-41otherwise transfer to any third party her right to receive Salary from the Team under her Player
+player); nor shall any Player Contract provide for such payment. No Player shall assign or
+otherwise transfer to any third party her right to receive Salary from the Team under her Player
 Contract. Nothing in this subsection (d), however, shall prevent a Team from sending a player's
 regular paycheck (made payable to the player) to a player's agent, attorney, or representative if
 so instructed in writing by the player.
@@ -501,7 +524,8 @@ Contract is a 7-Day Contract and/or a Rest-of-Season Contract at the applicable 
 Salary, (ii) if a Team terminates one or more Player Contracts in order to create Room for an
 Offer Sheet, and the ROFR Team subsequently exercises its Right of First Refusal and enters
 into a Contract with that player, the Team shall immediately thereafter be permitted to enter into
-42the Offer Sheet, and (iii) if a Team terminates a Player Contract and subsequently applies for,
+a Player Contract with any of the players whose Contracts it had terminated to create Room for
+the Offer Sheet, and (iii) if a Team terminates a Player Contract and subsequently applies for,
 and is granted, a Hardship Exception or Emergency Hardship Exception, the Team shall,
 immediately following the grant of the Exception, be permitted to enter into a Replacement
 Contract with such player.
@@ -523,7 +547,8 @@ execution of the Contract), and must, upon reporting, supply all information rea
 requested of her, provide complete and truthful answers to all questions posed to her (it being
 agreed that only questions reasonable and medically appropriate may be posed), and submit to all
 reasonable and medically appropriate examinations and tests. The determination of whether the
-43a Team shall have the right to determine in good faith that a player has failed to pass the physical
+player has passed the physical examination shall be made by the Team in its sole discretion; and
+a Team shall have the right to determine in good faith that a player has failed to pass the physical
 examination due to the risk of a future injury, illness or other health condition notwithstanding
 that the player is currently able to play. If the player does not pass the physical examination, the
 Team shall so notify the player no later than the sixth business day following the execution of the
@@ -545,7 +570,8 @@ Contract without prior written disclosure of such injury, illness or condition t
 Section 15. Void Contracts.
 If a Player Contract fails to take effect or becomes void as a result of a
 Commissioner disapproval, the player's failure to pass a physical examination conducted
-44V, Section 3(f), then, in each such case:
+pursuant to Exhibit 5 to such Contract, or the rescission of a trade conducted pursuant to Article
+V, Section 3(f), then, in each such case:
 (a) the Team shall continue to possess such rights with respect to the player as
 the Team possessed at the time of the execution of the Contract, including, without limitation,
 any such rights that the Team possessed pursuant to Article VI and Article XIII;
@@ -567,7 +593,8 @@ Section 16. Moratorium.
 Notwithstanding any other provision of this Agreement, no player and Team may
 negotiate over, or enter into, any oral or written agreement concerning terms and conditions of
 the player's employment, or reduce any such agreement to writing in the form of a Player
-45"Moratorium Period"). The foregoing sentence shall not preclude (i) a player from accepting
+Contract or amendment, between the end of the Regular Season and January 31 (the
+"Moratorium Period"). The foregoing sentence shall not preclude (i) a player from accepting
 any Required Tender or Qualifying Offer that is outstanding during the Moratorium Period, (ii) a
 player and a Team from negotiating during the period beginning on January 15 and ending at the
 conclusion of the Moratorium Period over the terms and conditions of a Player Contract or Offer
@@ -589,7 +616,8 @@ Season following the first Season covered by such Player Contract or, in the cas
 of previously-signed Player Contracts, provide for a Time Off Bonus applicable to the Off-
 Season following (a) the upcoming Season covered by such Player Contract if the amendment is
 entered into prior to a Season or (b) the current Season if the amendment is entered into during a
-46to the First Off-Season totaling no more than fifty thousand dollars (\$50,000).
+Season (in each case, the "First Off-Season"); and (B) provide for Time Off Bonuses applicable
+to the First Off-Season totaling no more than fifty thousand dollars (\$50,000).
 In the event a Player Contract includes a Time Off Bonus
 applicable to the First Off-Season, then the Contract may include (but is not required to include)
 a Time Off Bonus applicable to each consecutive and subsequent Off-Season covered by the
@@ -610,7 +638,8 @@ not be permitted at any time to amend the Contract to modify the agreed-upon lim
 amount of time the player will Play Professional Basketball during an Off-Season in order to
 earn such Time Off Bonus. In addition, no Team may waive the requirement that the player
 comply with the agreed-upon limitations with respect to any Off-Season.
-47that include a Time Off Bonus in respect of more than one Off-Season, if a player fails to earn
+ With respect to Player Contracts covering more than one Season
+that include a Time Off Bonus in respect of more than one Off-Season, if a player fails to earn
 her Time Off Bonus with respect to any Off-Season covered by the Contract, then the Time Off
 Bonus in respect of each subsequent Off-Season (if any) covered by the Player Contract shall be
 automatically cancelled and of no further force and effect.
@@ -632,7 +661,8 @@ Season Playing Obligation.
 All Time Off Bonuses for an Off-Season provided for in Player
 Contracts that were not previously cancelled in accordance with subparagraph (iv) above
 (whether or not the Time Off Bonus is earned by the player) shall be included for purposes of
-48Off-Season.
+determining a Team's Team Salary for the Salary Cap Year covering the Season preceding such
+Off-Season.
 For purposes of this Section 17, "Play Professional Basketball"
 shall mean the period of time during an Off-Season during which: (a) the player is under contract
 with a professional basketball team (other than a WNBA Team) and is obligated to provide
@@ -654,8 +684,8 @@ publicity or promotional purposes.
 (a) The WNBA or a League-Related Entity will be responsible for placement
 of the microphone on the player in a location and manner that minimizes interference with the
 player's performance.
-49("Player Audio") will be screened (including for profanity) and approved prior to airing by the
+ (b) The audio captured by the wireless microphone worn by the player
+("Player Audio") will be screened (including for profanity) and approved prior to airing by the
 telecast producer.
 (c) Notwithstanding anything to the contrary in this Agreement, Player Audio
 shall not be used as the basis for the imposition of discipline upon any player.
-50

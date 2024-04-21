@@ -1,3 +1,4 @@
+ ARTICLE XXIII
 PROCEDURES FOR THE RESOLUTION OF DISPUTES
 UNDER ARTICLES VI, VII, XII, XIII, XV, AND XVI
 Section 1. Authority of Arbitrator.
@@ -21,7 +22,8 @@ circumstances. A proceeding under this Article may be commenced upon seventy-two
 hours' written notice (or upon shorter notice if ordered by the Arbitrator) served upon the party
 against whom the proceeding is brought and filed with the Arbitrator. All such notices and all
 orders and notices issued and directed by the Arbitrator shall be served on the WNBA, counsel
-183appearing for individual WNBA players or individual WNBA Teams.
+for the WNBA, the Players Association, counsel for the Players Association, and any counsel
+appearing for individual WNBA players or individual WNBA Teams.
 (b) In proceedings under this Article, the Arbitrator shall make findings of
 fact and award appropriate relief including, without limitation, damages and specific
 performance. The Arbitrator shall render an award as soon as practicable, and the award shall be
@@ -42,7 +44,8 @@ constitute the full, final and complete disposition of the dispute and shall be 
 parties to this Agreement and upon any player(s) or Team(s) involved.
 (e) The Arbitrator shall not have jurisdiction or authority to add to, detract
 from, or alter in any way the provisions of this Agreement or any Player Contract.
-184of a League Revenue Report.
+Section 4. Special Procedure for Disputes with Respect to a Players Association Review
+of a League Revenue Report.
 (a) Notwithstanding any of the other provisions of this Agreement, at the
 request of either the WNBA or the Players Association, and irrespective of which party may
 commence the proceeding, the procedures set forth in this Section 4 shall apply to the resolution
@@ -65,7 +68,8 @@ render an award and issue a written decision as soon as possible, but in no even
 (e) No dispute shall proceed to a hearing under this Section 4 unless the
 amount of League Revenue in dispute would create a Net Overage (as those terms are defined in
 Article XII, Section 1(b)).
-185(a) The compensation of the Arbitrator and the costs and expenses incurred in
+Section 5. Costs.
+(a) The compensation of the Arbitrator and the costs and expenses incurred in
 connection with any proceeding brought before the Arbitrator under this Article shall be borne
 equally by the parties to this Agreement; provided, however, that each participant in such
 proceeding shall bear its own attorneys' fees and litigation costs.
@@ -75,4 +79,3 @@ request of either the WBNA or the Players Association, the postponement fee (if 
 Arbitrator will be borne by the party requesting the postponement unless the party objects and
 the Arbitrator finds that the request for such postponement was for good cause. Should good
 cause be found, the parties will share any postponement fee equally.
-186

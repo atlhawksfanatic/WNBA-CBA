@@ -1,3 +1,4 @@
+ ARTICLE X
 BENEFITS
 Section 1. Health Insurance.
 (a) Medical Coverage.
@@ -21,7 +22,8 @@ other eligible charges (as set forth in the plan) until the covered individual h
 person (\$27,000 per family) in a calendar year, and one-hundred percent (100%) thereafter, with
 no annual or lifetime maximum benefit. A player who elected coverage for her dependents,
 under the medical plan, paid thirty-three percent (33%) of the cost of such coverage.
-89players will receive the medical benefits described in Section 1(a)(i) above, provided that the
+ For each Season hereunder, beginning with the 2020 Season,
+players will receive the medical benefits described in Section 1(a)(i) above, provided that the
 premiums (which, for purposes of this Section 1(a)(ii), shall include any excise tax payable by
 the WNBA) for such benefits do not exceed by more than 5% the premiums paid by the WNBA
 for medical insurance coverage for players with respect to the immediately preceding Season. If
@@ -43,7 +45,8 @@ day such Contract expires or is terminated. The eligibility requirements, circum
 which benefits may be terminated, and the nature of the benefits will be set forth in summaries
 that will be distributed by the WNBA to each player signed to a Contract and to the Players
 Association.
-90contained in the plan, the dental plan provided two options, the DHMO plan or the DPPO plan.
+ For the 2019 Season, subject to any conditions and limitations
+contained in the plan, the dental plan provided two options, the DHMO plan or the DPPO plan.
 The DPPO plan provided the following benefits: in-network and out-of-network services: for
 preventative services (as defined in the insurance plan), no annual deductible and coverage for
 seventy-five percent (75%); for basic and major services, an annual deductible of \$75 per person
@@ -65,7 +68,8 @@ Section 2. Pregnancy Disability Benefit.
 (a) A player who cannot render the services required under her Standard
 Player Contract as a result of her pregnancy shall receive one hundred percent (100%) of the
 Base Salary that she would have received under Exhibit 1 to her Standard Player Contract had
-91Player Contract if her Contract is traded while she cannot render the playing services required
+she rendered the required services and of any trade bonus set forth in Exhibit 9 to her Standard
+Player Contract if her Contract is traded while she cannot render the playing services required
 under her Contract, but shall not be eligible for any Team merit bonuses (as set forth in Article
 IX) unless she was able to perform services in at least one Regular Season game during the
 applicable Season. The player shall receive the Base Salary described in the preceding sentence
@@ -86,7 +90,8 @@ of this Agreement, a multi-employer profit sharing plan (the "Retirement and 401
 Plan") qualified under Section 401(a) of the Internal Revenue Code of 1986, as amended (the
 "Internal Revenue Code"). During each Season covered by this Agreement, the Retirement and
 401(k) Savings Plan will:
-92Salary not in excess of the legal limit set forth in Section 402(g) of the Internal Revenue Code
+ permit elective deferrals by each player of a portion of her Base
+Salary not in excess of the legal limit set forth in Section 402(g) of the Internal Revenue Code
 ("401(k) Deferrals");
 provide for employer matching contributions equal to twenty-five
 percent (25%) of the 401(k) Deferrals contributed to the Retirement and 401(k) Savings Plan by
@@ -108,7 +113,8 @@ the player was on the Regular Season roster of any WNBA Team(s) for fifty percen
 more of the total Regular Season games of the applicable Season; and
 a player shall be an eligible player for a Season if that player is
 credited with a year of WNBA playing service for that Season.
-93shall be subject to all applicable limitations under the Internal Revenue Code.
+ (c) The 401(k) Deferrals, Matching Contributions and Regular Contributions
+shall be subject to all applicable limitations under the Internal Revenue Code.
 (d) The total amount of 401(k) Deferrals, Matching Contributions and Regular
 Contributions shall be limited to an amount that will result in all of such deferrals and
 contributions being fully deductible under the Internal Revenue Code for the year in which
@@ -128,7 +134,8 @@ Retirement and 401(k) Savings Plan. The cost of such alternative benefit or comp
 arrangement (excluding initial plan design and implementation costs) shall not exceed the annual
 cost that the WNBA would have incurred under the Retirement and 401(k) Savings Plan had it
 continued to be maintained.
-94The WNBA shall continue to maintain in effect a group life insurance policy
+Section 4. Life Insurance.
+The WNBA shall continue to maintain in effect a group life insurance policy
 providing a face policy amount of \$100,000 per player. In the event that the policy permits an
 individual player to increase the face value with respect to such player by paying additional
 funds directly to the carrier without additional expense to the WNBA, nothing herein shall
@@ -150,7 +157,8 @@ the investment options to be available under the Retirement and 401(k) Savings P
 made by the WNBA. The Players Association waives any right to participate in the design,
 implementation, and administration of the plans and programs, including the selection from time
 to time of new insurance carriers and the investment options to be available under the Retirement
-95Players Association prior to any substantial changes (e.g., a new carrier), and the Players
+and 401(k) Savings Plan. Notwithstanding the foregoing, the WNBA shall consult with the
+Players Association prior to any substantial changes (e.g., a new carrier), and the Players
 Association reserves the right to grieve under the procedures set forth in Article XXII any
 alleged failure by the WNBA to provide the benefits that it has agreed to provide under this
 Article.
@@ -172,8 +180,8 @@ offered pursuant to Section 1 above. Notwithstanding the foregoing, in no event 
 total benefit received by any player during her WNBA career pursuant to the preceding sentence
 exceed \$60,000 or (b) the aggregate amount paid by all Teams (or the League, as the case may
 be) in any Season pursuant to the preceding sentence exceed \$150,000.
-96Upon player request, each Team shall identify and make available
+Section 9 Accommodations for Nursing Mothers.
+Upon player request, each Team shall identify and make available
 (a) accommodations for nursing mothers that provide a comfortable, safe, private place (other
 than a bathroom) that is shielded from view and free from intrusion from other players, staff and
 the public and (b) access to refrigeration for breastmilk.
-97

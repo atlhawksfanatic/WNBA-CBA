@@ -1,3 +1,4 @@
+ ARTICLE XXII
 GRIEVANCE AND ARBITRATION
 Section 1. Scope.
 Except for disputes involving the interpretation of, application of, or compliance
@@ -21,7 +22,8 @@ A player who has been disciplined for on-court conduct (or the Players
 Association on her behalf) may initiate an appeal from the imposition of such discipline by
 delivering a Notice of Appeal by email (with the original promptly sent by mail) or certified or
 overnight mail to the WNBA League Office (Attn: Commissioner) within twenty (20) days from
-172shall be deemed delivered on the day it is actually received. The Notice of Appeal shall attach a
+the date upon which the player received written notice of the discipline. The Notice of Appeal
+shall be deemed delivered on the day it is actually received. The Notice of Appeal shall attach a
 copy of the written notice received by the player concerning such discipline and briefly set out
 why the player believes that the discipline is unwarranted. The delivery of a Notice of Appeal
 shall not excuse a player from prompt compliance with such discipline, including the prompt
@@ -42,7 +44,8 @@ hearing, the Hearing Officer may issue a decision immediately or take the matter
 advisement. In either instance, a written notice of the decision setting forth its rationale shall be
 delivered to all parties within ten (10) business days of the hearing. The decision of the Hearing
 Officer shall be final and binding.
-173All Grievances involving matters other than on-court conduct shall be resolved
+Section 3. Grievances Not Involving On-Court Conduct.
+All Grievances involving matters other than on-court conduct shall be resolved
 exclusively as follows:
 (a) Player Discipline Grievances.
 Grievances with respect to player discipline not involving on-court conduct (that
@@ -64,7 +67,8 @@ Notice, the party initiating the Grievance must request in writing a meeting (in
 telephone) ("Grievance Meeting") with the party or parties against whom the Grievance was
 initiated in an attempt to settle it. Unless the parties agree otherwise, a meeting shall be
 scheduled within ten (10) days of the written request.
-174Meeting, the Players Association, the WNBA, the Team or player(s) may initiate an arbitration
+ If the parties are unable to resolve the Grievance at the Grievance
+Meeting, the Players Association, the WNBA, the Team or player(s) may initiate an arbitration
 pursuant to the procedures set forth in Section 4 below.
 Section 4. Arbitration Procedures.
 (a) Initiation of an Arbitration.
@@ -86,7 +90,8 @@ overnight mail; and shall be deemed delivered when they are actually sent.
 The parties to this Agreement shall agree upon the appointment of an Arbitrator,
 who shall serve for the duration of this Agreement; provided, however, that as of November 1,
 2021, and as of each successive November 1 hereunder, either of the parties to this Agreement
-175and upon the other party to this Agreement; and provided, further, that as of the August 1 of the
+may discharge the Arbitrator by serving thirty (30) days' prior written notice upon him or her
+and upon the other party to this Agreement; and provided, further, that as of the August 1 of the
 last Season covered by this Agreement, either of the parties may discharge the Arbitrator by
 serving thirty (30) days' written notice upon him or her and upon the other party to this
 Agreement. An Arbitrator as to whom a notice of discharge has been served shall continue to
@@ -107,7 +112,8 @@ selection of an Arbitrator from among the names on such list, they shall return 
 to five (5) names deleted therefrom by each party, to the CPR Institute (or such other
 organization as the parties may have agreed upon), and the CPR Institute (or such other
 organization) shall choose a new Arbitrator from the names remaining on such list.
-176Upon at least thirty (30) days' written notice to the other side, the
+ (c) Hearing Date.
+Upon at least thirty (30) days' written notice to the other side, the
 WNBA and the Players Association may arrange to have a hearing scheduled on a date that is
 mutually convenient to the parties to the dispute, the WNBA, the Players Association, and the
 Arbitrator; provided, however, that if the WNBA and the Players Association cannot agree on a
@@ -128,7 +134,8 @@ Association, the postponement fee (if any) of the Arbitrator will be borne by th
 the postponement unless that party objects and the Arbitrator finds that the request for such
 postponement was for good cause. Should good cause be found, the parties will share any
 postponement fee equally.
-177Association may request or be granted more than one (1) postponement of a hearing previously
+ In any Grievance matter, neither the WNBA nor the Players
+Association may request or be granted more than one (1) postponement of a hearing previously
 scheduled. If a party which has been granted a postponement of a hearing fails to attend a
 subsequently scheduled hearing in the same Grievance matter, the Grievance shall be deemed to
 have been decided against that party.
@@ -149,7 +156,8 @@ Labor Arbitration Rules of the American Arbitration Association.
 Subject to Section 4(c)(iii) above, the fees and expenses of the Arbitrator shall be
 borne equally by all parties to the arbitration, but all other costs (travel, etc.), including costs
 associated with witnesses, shall be paid by the party incurring such costs.
-178(a) The Arbitrator shall issue a written decision (to be delivered to all parties)
+Section 5. Arbitrator's Decision and Award.
+(a) The Arbitrator shall issue a written decision (to be delivered to all parties)
 within thirty (30) days following the conclusion of the hearing (or thirty (30) days after the filing
 of the last post-hearing brief). The decision and award (if any) of the Arbitrator will constitute
 full, final and complete disposition of the Grievance and will be binding upon the player, the
@@ -169,7 +177,8 @@ any other provision of this Agreement or the Standard Player Contract, the Arbit
 have jurisdiction or authority to add to, detract from, or alter in any way the provisions of this
 Agreement (including the provisions of this subsection), the License Agreement, any Standard
 Player Contract, or any WNBA or Team Marketing and Promotional Agreement.
-179Services.
+Section 6. Disputes with Respect to Players Under Contract Who Withhold Playing
+Services.
 In addition to any other rights the WNBA and/or a Team may have under contract
 or law, including those under paragraph 12 of a Standard Player Contract, the WNBA and/or a
 Team may recover damages in a proceeding before the Arbitrator when a player who is party to a
@@ -192,7 +201,8 @@ independent medical expert shall conduct a physical examination of the player; r
 medical records and reports relating to the player that bear on the issues in dispute; and prepare a
 written report of the player's medical condition, which report shall address any specific medical
 questions submitted to the independent medical expert by joint agreement of the parties or by the
-180provided in writing to the parties in advance of any hearing scheduled pursuant to Section 4(c)
+Arbitrator. Any reports, opinions, or conclusions of the independent medical expert shall be
+provided in writing to the parties in advance of any hearing scheduled pursuant to Section 4(c)
 above. The opinions and conclusions of the independent medical expert shall be accorded such
 weight as the Arbitrator deems appropriate. The fees and costs of the independent medical
 expert shall be borne equally by both sides.
@@ -214,7 +224,8 @@ agreement of the WNBA and the Players Association.
 (b) In any meeting or hearing provided for by this Article, a player may be
 accompanied by a representative of the Players Association and/or a legal representative, who, in
 each case, may participate in any such meeting or hearing and represent the player. In any
-181representative who may participate in such meeting or hearing and represent the WNBA and any
+meeting or hearing, the WNBA and any Team involved may attend and be accompanied by a
+representative who may participate in such meeting or hearing and represent the WNBA and any
 such Team.
 (c) The parties recognize that a player may be subjected to disciplinary action
 for just cause by the WNBA or the player's Team. Therefore, in Grievances regarding
@@ -227,4 +238,3 @@ whole.
 (e) Nothing contained in this Article XXII shall be deemed to limit or impair
 the right of the WNBA or any Team to impose discipline upon a player(s) or to take any other
 action not inconsistent with the provisions of a Player Contract or this Agreement.
-182

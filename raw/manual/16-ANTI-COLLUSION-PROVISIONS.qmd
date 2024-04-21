@@ -1,3 +1,4 @@
+ ARTICLE XVI
 ANTI-COLLUSION PROVISIONS
 Section 1. No Collusion.
 Subject to Section 2 below, no WNBA Team, its employees or agents, will enter
@@ -20,7 +21,8 @@ Player Contract or the Draft Rookie entering into a new Player Contract, this su
 only apply if the assignment is actually consummated;
 (c) an agreement between Teams concerning the signing of a new Player
 Contract by a Veteran Free Agent with her Prior Team, where such agreement is necessary for
-143however, that this Section 2(c) shall apply only if the subsequent assignment is consummated.
+the subsequent assignment of the new Player Contract between the agreeing Teams; provided,
+however, that this Section 2(c) shall apply only if the subsequent assignment is consummated.
 (d) the conduct authorized by the terms and conditions of the WNBA Draft;
 (e) any action taken by the WNBA League Office to exclude from the
 WNBA, suspend or discipline any player for any reason authorized or permitted by any
@@ -42,7 +44,8 @@ Agent; or
 (c) that the Player is or has been subject to a Right of First Refusal.
 The fact that a Team has not negotiated with, made any offers to, or entered into
 any Player Contracts with players who are free to negotiate and sign Player Contracts with any
-144make any offers to, or enter into any Player Contracts with any players on any of the prohibited
+Team, shall not, by itself, be deemed proof that such Team failed or refused to negotiate with,
+make any offers to, or enter into any Player Contracts with any players on any of the prohibited
 grounds referred to in this Section 3.
 Section 4. League Disclosures.
 The WNBA League Office shall not knowingly communicate or disclose, directly
@@ -62,7 +65,8 @@ absence of economic injury to any player, bring an action before the Arbitrator 
 violation of Section 1 above (which must be proved by a clear preponderance of the evidence)
 and seeking only declaratory relief or a direction to cease and desist from the challenged
 conduct.
-145substantive rights in any party, other than as provided for herein. This Agreement may be
+ (b) The provisions of this Agreement are not intended to create any
+substantive rights in any party, other than as provided for herein. This Agreement may be
 enforced, and any alleged violations may be remedied, only as provided for herein.
 Section 6. Satisfaction of Burden of Proof.
 The failure by a Team or Teams to submit Offer Sheets to Restricted Free Agents,
@@ -82,7 +86,8 @@ issue of material fact capable of satisfying the standards imposed by Sections 5
 the Arbitrator determines that complainant's evidence is not so sufficient, he or she shall dismiss
 the action. In considering the sufficiency of the complainant's evidence, the Arbitrator may
 consider documentary evidence and affidavits submitted by the parties.
-146In the event that an individual player or players, or the Players Association acting
+Section 8. Remedies for Economic Injury.
+In the event that an individual player or players, or the Players Association acting
 on her or their behalf, successfully proves a violation of Section 1 above that has caused
 economic injury, the player or players determined by the Arbitrator to have suffered economic
 injury as a result of the violation will have the right:
@@ -104,7 +109,8 @@ above, may recover damages for the entire period of her injury.
 Section 9. Calculation of Damages.
 Upon any finding of a violation of Section 1 above that has caused economic
 injury, compensatory damages (i.e., the amount by which any player has been injured as a result
-147damages) shall be awarded as follows:
+of such violation) and non-compensatory damages (i.e., the amount exceeding compensatory
+damages) shall be awarded as follows:
 (a) Two (2) times the amount of compensatory damages, in the event that all
 of the Teams found to have violated Section 1 above have committed such a violation for the
 first time. Any Team found to have committed such a violation for the first time shall be jointly
@@ -126,7 +132,8 @@ damages; (ii) any Team found to have committed such a violation for at least the
 shall be jointly and severally liable for three (3) times the amount of compensatory damages; and
 (iii) any Team found to have committed such a violation for at least the third time shall, in
 addition, pay a fine of five hundred thousand dollars (\$500,000).
-148In the event damages are awarded pursuant to Section 9 above, the amount of
+Section 10. Payment of Damages.
+In the event damages are awarded pursuant to Section 9 above, the amount of
 compensatory damages shall be paid to the injured player or players. The amount of non-
 compensatory damages, including any fines, shall be paid to the Players Association, which may
 use it for any purpose other than to pay it to any player who has received compensatory damages,
@@ -148,7 +155,8 @@ than four (4) Teams found to have committed a violation of Section 1 above and a
 damages equally among the Teams found liable, there shall be no appeal to the Arbitrator. In the
 event of a contribution determination by the Commissioner, the WNBA shall provide the Players
 Association with the data and information that the Commissioner used or relied upon in making
-149Arbitrator shall be upheld unless it is clearly erroneous.
+her determination. Any contribution determination appealed by the Players Association to the
+Arbitrator shall be upheld unless it is clearly erroneous.
 Section 13. No Reimbursement.
 Any damages awarded pursuant to Section 9 above must be paid by the individual
 Teams found liable and those Teams may not be reimbursed or indemnified by any other Team
@@ -170,7 +178,8 @@ Where there has been a finding or findings of one (1) or more
 instances of a violation of Section 1 above with respect to any two (2) consecutive WNBA
 Seasons which, either individually or in total, involved five (5) or more Teams and caused
 economic injury to five (5) or more players. For purposes of this Section 15(a)(ii), a player found
-150shall be counted as an additional player injured by such a violation for each such WNBA Season;
+to have been injured by a violation of Section 1 above in each of two (2) consecutive Seasons
+shall be counted as an additional player injured by such a violation for each such WNBA Season;
 or
 Where, in a proceeding brought by the Players Association, it is
 shown by clear and convincing evidence that six (6) or more Teams have engaged in a violation
@@ -192,7 +201,8 @@ rights with respect to any conduct by the other party during the period from the
 the termination notice to the date upon which the Agreement was reinstated. If the Players
 Association exercises the right accorded it by this Section 15, this Agreement shall terminate
 immediately following the service of the termination notice, unless the service of the termination
-151shall terminate on the immediately following October 30.
+notice occurs during the period February 1 through October 29, in which case this Agreement
+shall terminate on the immediately following October 30.
 Section 16. Discovery.
 (a) In any of the actions described in this Article XVI, the Arbitrator shall
 grant reasonable and expedited discovery upon the application of any party where, and to the
@@ -212,4 +222,3 @@ Relations Act in the U.S. District Court for the Southern District of New York. 
 alleged to have violated Section 1 shall have the right, prior to any proceedings on the merits, to
 make an initial motion to dismiss any complaint that does not comply with the timeliness
 requirement of this Section 17.
-152

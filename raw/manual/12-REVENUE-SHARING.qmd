@@ -1,3 +1,4 @@
+ ARTICLE XII
 REVENUE SHARING
 Section 1. Revenue Sharing Agreement.
 (a) If, for any Season during the term of this Agreement (for purposes of this
@@ -21,7 +22,8 @@ Current Season shall be increased by twenty-five percent (25%) of Shared Revenue
 Notwithstanding the foregoing, if the League Revenue Reports are subject to any dispute before
 the Arbitrator pursuant to Section 2(c)(v) below, which is not resolved within ninety (90) days
 following the submission of the League Revenue Report to the Players Association, any
-106be increased in the Marketing Period immediately following the Season in which such dispute is
+minimum amount required to be spent on WNBA Marketing and Promotional Agreements shall
+be increased in the Marketing Period immediately following the Season in which such dispute is
 resolved, or if such dispute is resolved in an Off-Season, the following Marketing Period.
 (b) For purposes of this Article XII:
 "League Revenue" for a Season will equal the total revenue
@@ -42,7 +44,8 @@ Revenue Target would be forty-three million, six hundred and eighty thousand dol
 (\$43,680,000) (\$12,000,000 plus \$14,400,000 plus \$17,280,000).
 The "Cumulative Overage" for any Season is the amount by which
 Cumulative League Revenue exceeds the Cumulative Revenue Target.
-107from the Season immediately prior to the Current Season.
+ The "Prior Overage" for any Season is the Cumulative Overage
+from the Season immediately prior to the Current Season.
 The "Net Overage" for any Season is the Cumulative Overage less
 the greater of the Prior Overage and zero. Notwithstanding any other provision of this Article
 XII, if the Net Overage is a negative number for any Season, there shall be no revenue sharing
@@ -64,7 +67,8 @@ Association's Accountants"), at its own expense, to conduct, an audit of the boo
 the WNBA, provided, however, that such audit shall be limited to revenue.
 The Players Association may exercise the right set forth in Section
 2(b)(i) above by providing written notice (stating its intention to request such annual review) that
-108Association of the League Revenue Report. If such written notice is not received by the WNBA
+must be received by the WNBA General Counsel within thirty (30) days of receipt by the Players
+Association of the League Revenue Report. If such written notice is not received by the WNBA
 within such thirty (30)-day period, then League Revenue for the applicable Season shall be the
 amount set forth in the League Revenue Report.
 (c) If the Players Association elects to perform a review in accordance with
@@ -85,4 +89,3 @@ contained in this Section 2 (whether pursuant to subsection (iii) above or follo
 conclusion of any dispute resolved by the Arbitrator pursuant to subsection (v) below).
 All disputes with respect to any review of a League Revenue
 Report shall be resolved exclusively in accordance with the procedures set forth in Article XXIII.
-109

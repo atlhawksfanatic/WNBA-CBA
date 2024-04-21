@@ -1,3 +1,4 @@
+ ARTICLE XLI
 OTHER
 Section 1. No Ownership Interest.
 No WNBA player shall either directly or indirectly hold any ownership interest in
@@ -19,7 +20,8 @@ WNBA Basketball Operations and Referee Operations Departments shall meet (no mor
 frequently than annually) with the Player Association and/or players to discuss issues relating to
 WNBA playing rules and officiating. The WNBA may request that representatives from the
 National Basketball Referees Association, including current referees, attend any such meeting.
-231The League shall provide to each player selected as an All Star and playing in any
+Section 3. WNBA All-Star Game Participants.
+The League shall provide to each player selected as an All Star and playing in any
 All-Star Game held during a Season (a) one (1) first-class roundtrip flight, if available on the
 League-chosen flights (or standard commercial carrier flights selected by the player with similar
 arrival times) at the time of booking, (b) hotel accommodations for the days during which such
@@ -41,7 +43,8 @@ and provisions of this Agreement.
 (b) The WNBA and the Players Association shall use their respective best
 efforts and take all reasonable steps to cooperate and defend the enforceability of this Agreement
 against any challenge thereto.
-232STANDARD PLAYER CONTRACT
+ EXHIBIT 1
+STANDARD PLAYER CONTRACT
 Women's National Basketball Association
 Standard Player Contract
 The parties to this Contract are ____________________________ (the "Team"),
@@ -64,7 +67,8 @@ every event conducted in association with such All-Star Game (including, but not
 reasonable number of media sessions); (iv) attend and play, if invited (and if such attendance is
 required pursuant to Article XIX of the Collective Bargaining Agreement currently in effect
 between the WNBA and the Women's National Basketball Players Association ("WNBPA")
-Exhibit 1 - 234(v) attend and participate in any mandatory programs scheduled by the WNBA in accordance
+(hereinafter referred to as the "CBA")), in any tours or exhibitions scheduled by the WNBA;
+(v) attend and participate in any mandatory programs scheduled by the WNBA in accordance
 with the CBA; (vi) serve as a spokesperson for and promote the Team, the WNBA and the sport
 of basketball and devote reasonable time to the performance of such duties; (vii) cooperate with
 all reasonable requests of the news media and, upon the request of the Team or the WNBA,
@@ -85,7 +89,8 @@ granted to the Team and the WNBA under this Contract, the Player shall receive t
 set forth in Exhibit 1, which shall be payable in U.S. dollars in equal, semi-monthly installments
 beginning on or about June 1 (but in no event more than two weeks after the start of the Regular
 Season) and ending on or about September 15.
-Exhibit 1 - 235individual and/or Team performance) during the term of the CBA in accordance with Article IX
+ (b) The Player shall be eligible to receive certain bonuses (related to
+individual and/or Team performance) during the term of the CBA in accordance with Article IX
 of the CBA as well as any bonus, if applicable, contained in Exhibit 8 and/or Exhibit 9.
 4. Termination
 This Contract is subject to the termination provisions provided for in Article V,
@@ -107,7 +112,8 @@ Enterprises or the Team that, without regard to whether such use includes sponso
 is intended to (i) promote (x) the Team, the WNBA, players and/or the sport of basketball, (y)
 any game or competition in which the Team or a group of players participates or (z) any telecast
 or broadcast of such game or competition and/or (ii) further the development, popularity or
-Exhibit 1 - 236basketball clinics, "grass roots" programs and similar activities). WNBA Enterprises, the
+growth of the WNBA, the Team and/or the sport of basketball (e.g., in connection with
+basketball clinics, "grass roots" programs and similar activities). WNBA Enterprises, the
 WNBA or the Team shall be entitled to use the Player's Player Attributes individually pursuant
 to the preceding sentence and shall not be required to use the Player's Player Attributes in a
 group or as one of multiple players; provided, however, that no such use made by WNBA
@@ -129,7 +135,8 @@ an individual exclusive endorsement agreement, and the Player provides the WNBPA
 timely written notice of that preclusion, the WNBPA will exclude the Player from that particular
 program. In consideration for this assignment of rights, the WNBPA will use the revenues it
 receives from group licensing programs to support the objectives as set forth in the By-laws or
-Exhibit 1 - 237Player Attributes in group licensing programs, to provide group licensing opportunities to all
+Resolutions of the WNBPA. The WNBPA will use its best efforts to promote the use of WNBA
+Player Attributes in group licensing programs, to provide group licensing opportunities to all
 WNBA players, and to ensure that no entity utilizes the group licensing rights granted to the
 WNBPA without first obtaining a license from the WNBPA. The assignment in this paragraph
 shall expire on December 31 of the later of (a) the third year following the execution of this
@@ -148,7 +155,8 @@ indicating her intention to not participate in any WNBPA group licensing program
 this subparagraph shall be construed to supersede, or otherwise alter in any way whatsoever the
 rights of the Team, WNBA Enterprises and the WNBA pursuant to this Contract, License
 Agreement or Article XXVI of the Collective Bargaining Agreement.
-Exhibit 1 - 238The Player represents, warrants, covenants and agrees as follows:
+ 7. Representations and Warranties
+The Player represents, warrants, covenants and agrees as follows:
 (a) that she is not obligated to play basketball in or for any entity other than
 the Team during any WNBA Season during the term of this Contract (including any Option
 Year);
@@ -170,7 +178,8 @@ The Player agrees to adhere to the requirements of the WNBA Anti-Drug
 Program set forth in Article XXI of the CBA, and recognizes that failure to adhere to those
 requirements may result in discipline, including fines and/or suspensions. The Player
 acknowledges that this Contract may be terminated in accordance with the express provisions of
-Exhibit 1 - 239dismissal and disqualification from any employment by the WNBA and any or its teams.
+the Anti-Drug Program, and that any such termination will result in the Player's immediate
+dismissal and disqualification from any employment by the WNBA and any or its teams.
 Notwithstanding any terms or provisions of the Contract (including any amendment hereto), in
 the event of such termination, all obligations of the Team, including obligations to pay Base
 Salary, shall cease, except the obligation of the Team to pay the Player's earned Base Salary to
@@ -191,7 +200,8 @@ in this Contract shall require the Player to obtain the written consent of the T
 participate in the sport of basketball in accordance with Article XVIII of the CBA or, as an
 amateur, in the sport of golf, tennis, handball, swimming, weight training, aerobics, distance
 running, hiking, biking, softball or volleyball, and other similar sports that a reasonable person
-Exhibit 1 - 240injury.
+would not recognize as involving or exposing the participant to a substantial risk of bodily
+injury.
 11. Release
 The Player hereby releases and waives every claim she may have, or that may
 arise, against the Team, the WNBA, every other WNBA Team, and all of their related entities,
@@ -213,7 +223,8 @@ malpractice against a physician or other medical personnel.
 12. Unique Skills
 The Player represents and agrees that she has extraordinary and unique skill and
 ability as a basketball player, that the services to be rendered by her under this Contract cannot
-Exhibit 1 - 241breach by the Player of this Agreement will cause irreparable injury to the Team and its
+be replaced or the loss thereof adequately compensated for in money damages, and that any
+breach by the Player of this Agreement will cause irreparable injury to the Team and its
 assignees and the WNBA. Therefore, if it is alleged by the Team that the Player: (i) is playing,
 attempting or threatening to play, or negotiating for the purpose of playing basketball for any
 person, firm or organization other than the Team (a "Third Party") during any WNBA Season
@@ -235,7 +246,8 @@ Team relating to any matter arising under this Contract, or concerning the perfo
 interpretation thereof (except for a dispute arising under paragraph 12 hereof) such dispute shall
 be resolved in accordance with the grievance and arbitration or dispute resolution procedures set
 forth in the CBA.
-Exhibit 1 - 242(a) This Contract shall be valid and binding upon the Team and the Player
+ 14. Validity and Filing
+(a) This Contract shall be valid and binding upon the Team and the Player
 immediately upon its execution.
 (b) The Team agrees to file a copy of this Contract, and/or any amendment(s)
 thereto, with the Commissioner as soon as practicable by email and overnight mail, but in no
@@ -256,7 +268,8 @@ Commissioner disapproves this Contract.
 15. Assignment
 The Team shall have the right to assign this Contract to any other WNBA team
 and the Player agrees to accept such assignment and to faithfully perform and carry out this
-Exhibit 1 - 243assignee team instead of with the Team.
+contract with the same force and effect as if it had been entered into by the Player with the
+assignee team instead of with the Team.
 16. General Matters
 (a) With the exception of any Team Marketing and Promotional Agreement,
 this Contract (including any Exhibits hereto) contains the entire agreement between the parties
@@ -273,7 +286,8 @@ related to, or acting with authority on behalf of the Player, by the Team or any
 (b) The Parties agree and acknowledge that this Contract is subject to all of
 the CBA's terms and provisions, and that all capitalized terms that are not otherwise defined in
 this Contract shall be defined in accordance with the definitions set forth in Article I of the CBA.
-Exhibit 1 - 244EXHIBITS CAREFULLY BEFORE SIGNING
+EXAMINE THIS CONTRACT AND ALL
+EXHIBITS CAREFULLY BEFORE SIGNING
 AGREED TO AND ACCEPTED:
 The Player:
 Signature:
@@ -286,7 +300,8 @@ Email Address: _______________________
 The Team:
 By:
 Title:
-Exhibit 1 - 245(To be completed only if Player was represented by an agent who negotiated the terms of this
+ AGENT CERTIFICATION
+(To be completed only if Player was represented by an agent who negotiated the terms of this
 Contract.)
 I, the undersigned, having negotiated this Contract on behalf of __________________________,
 do hereby swear and certify, under penalties of perjury, that the terms of Paragraph 16(a) of this
@@ -301,21 +316,24 @@ On __________________, before me personally came _______________________ and
 acknowledged to me that she/he had executed the foregoing Agent Certification.
 ____________________________________
 Notary Public
-Exhibit 1 - 246Exhibit 1 — Base Salary
+ STANDARD PLAYER CONTRACT
+Exhibit 1 — Base Salary
 Player:
 Date:
 Season Base Salary
 Initialed:
 __________ ___________
 Player Team
-Exhibit 1 - 247Exhibit 2 — Base Salary Protection
+ STANDARD PLAYER CONTRACT
+Exhibit 2 — Base Salary Protection
 Player:
 Date:
 Season Type of Protection Amount of Protection Additional Conditions or Limitations
 Initialed:
 __________ ___________
 Player Team
-Exhibit 1 - 248Exhibit 3 — Prior Injury Exclusion
+ STANDARD PLAYER CONTRACT
+Exhibit 3 — Prior Injury Exclusion
 Player:
 Date:
 The Player's right to receive her Base Salary as set forth in Article V, Sections 6(a)(i) and
@@ -326,7 +344,8 @@ Describe extent to which liability for Base Salary is limited or eliminated:
 Initialed:
 __________ ___________
 Player Team
-Exhibit 1 - 249Exhibit 4 — Rookie Option
+ STANDARD PLAYER CONTRACT
+Exhibit 4 — Rookie Option
 The Team shall have the option to extend the term of this Contract for one (1)
 twelve (12) month period beyond its initial term. Such option shall be exercisable by the Team,
 in its sole discretion, by written notice to the Player or her representative on or before the May
@@ -341,7 +360,8 @@ shall in no way guarantee that the Player will make the Team during the Option Y
 Initialed:
 __________ ___________
 Player Team
-Exhibit 1 - 250Exhibit 5 – Physical Exam
+ STANDARD PLAYER CONTRACT
+Exhibit 5 – Physical Exam
 Player:
 Team:
 Date:
@@ -356,9 +376,11 @@ questions reasonable and medically appropriate may be posed).
 Initialed:
 __________ ___________
 Player Team
-Exhibit 1 - 251Exhibit 6 — Pre-existing Sponsorship, Endorsement and Licensing Agreements
+ STANDARD PLAYER CONTRACT
+Exhibit 6 — Pre-existing Sponsorship, Endorsement and Licensing Agreements
 Agreements with the following entities are attached to this Contract:
-Exhibit 1 - 252Exhibit 7 – Sign and Trade
+ STANDARD PLAYER CONTRACT
+Exhibit 7 – Sign and Trade
 Player:
 Team:
 Date:
@@ -368,7 +390,8 @@ and all conditions to such trade are ultimately satisfied.
 Initialed:
 __________ ___________
 Player Team
-Exhibit 1 - 253Exhibit 8 – Time Off Bonus
+ STANDARD PLAYER CONTRACT
+Exhibit 8 – Time Off Bonus
 Player hereby agrees not to enter into one or more contracts or obligations to Play Professional
 Basketball (as that term is defined in Article V, Section 17 of the CBA) applicable to the Off-
 Season following the Season(s) listed below with a duration longer than the maximum number of
@@ -381,7 +404,8 @@ Season (Cannot be higher than 90) Time Off Bonus
 Initialed:
 __________ ___________
 Player Team
-Exhibit 1 - 254Exhibit 9 – Trade Payments
+ STANDARD PLAYER CONTRACT
+Exhibit 9 – Trade Payments
 Player:
 Team:
 Date:
@@ -391,7 +415,8 @@ of such trade, the following payment:
 Initialed:
 __________ ___________
 Player Team
-Exhibit 1 - 255WNBA ANTI-DRUG PROGRAM
+ EXHIBIT 2
+WNBA ANTI-DRUG PROGRAM
 Section 1. Definitions.
 As used herein the following terms shall have the following meanings:
 (a) "Agreement" means the Collective Bargaining Agreement entered into
@@ -413,7 +438,9 @@ Program.
 (e) "Diuretics" shall mean any of the substances listed as diuretics on Exhibit
 B annexed hereto.
 (f) "Drugs of Abuse" shall mean any of the substances listed as drugs of
-abuse on Exhibit B annexed hereto.Abuse set forth in this Exhibit 2, and (ii) the education, treatment, and counseling program for
+abuse on Exhibit B annexed hereto.
+ (g) "Drugs of Abuse Program" shall mean (i) the testing program for Drugs of
+Abuse set forth in this Exhibit 2, and (ii) the education, treatment, and counseling program for
 Drugs of Abuse established by the Medical Director (after consultation with the WNBA and the
 Players Association), which may contain such elements — including, but not limited to, urine,
 blood, breath, or other testing for Prohibited Substances other than SPEDs — as may be
@@ -434,7 +461,8 @@ established by the Medical Director (after consultation with the WNBA and the Pl
 Association), which program may contain such elements — including, but not limited to urine,
 blood, breath, or other testing for Prohibited Substances other than SPEDs — as may be
 determined by the Medical Director in his or her professional judgment.
-Exhibit 2 - 257Players Association in accordance with Section 2(a) below.
+ (m) "Medical Director" shall mean the person selected by the WNBA and the
+Players Association in accordance with Section 2(a) below.
 (n) "Off-Season" shall mean, for any given player, the period beginning on
 the day after the last game of that player's Team's Season and ending the day before the first day
 of that player's Team's training camp.
@@ -455,7 +483,8 @@ for SPEDs and Diuretics (but not for any other Prohibited Substance) — as may 
 by the Medical Director in his or her professional judgment.
 (t) "Tender" shall mean an offer of a Standard Player Contract, signed by the
 Team, that is either personally delivered to the player or her representative or sent by prepaid
-Exhibit 2 - 258representative.
+certified, registered, or overnight mail to the last known address of the player or her
+representative.
 (u) "Veteran Player" shall mean any player who is not a First-Year Player.
 All other capitalized terms shall be defined in accordance with the definitions set
 forth in the Agreement.
@@ -478,7 +507,8 @@ and, as appropriate, the Medical Director and/or the Independent Expert. Such no
 discharge shall be effective as of the immediately following March 31; provided, however, that if
 the parties do not reach agreement by such March 31 as to who shall serve thereafter as the
 Medical Director and/or the Independent Expert, as the case may be, each party shall, by the
-Exhibit 2 - 259with that party. Such persons shall then have until the immediately following May 1 to agree on
+immediately following April 1, appoint a person who shall have no relationship to or affiliation
+with that party. Such persons shall then have until the immediately following May 1 to agree on
 the appointment of a new Medical Director and/or Independent Expert. Until a new Medical
 Director and/or Independent Expert has been appointed, the previous Medical Director and/or
 Independent Expert shall continue to serve.
@@ -499,7 +529,8 @@ technology, and modifications to relevant anti-doping policies of other sports
 organizations). The Committee shall also make recommendations to the WNBA and
 Players Association for changes to the list of Prohibited Substances (including the
 determination of laboratory analysis cutoff levels).
-Exhibit 2 - 260the parties to this Agreement may discharge any jointly-selected member of the
+ (iii) As of March 1, 2020, and as of each successive March 1, either of
+the parties to this Agreement may discharge any jointly-selected member of the
 Prohibited Substances Committee by serving thirty (30) days' prior notice upon him and
 upon the other party to this Agreement. In the case of such discharge, or in the event a
 Committee member resigns, and if the parties are unable to agree on a replacement
@@ -520,7 +551,8 @@ Substances Committee, or in any challenge to an action or process over which the
 Director has supervision, the Arbitrator shall apply an "arbitrary and capricious" standard of
 review; and provided further that nothing in this Section 2(f) shall limit or otherwise affect
 Paragraph 11 of the Standard Player Contract.
-Exhibit 2 - 261(a) Other than as reasonably required in connection with the suspension or
+Section 3. Confidentiality.
+(a) Other than as reasonably required in connection with the suspension or
 disqualification of a player, the WNBA, WNBA Teams, and the Players Association, and all of
 their members, affiliates, agents, consultants, and employees, are prohibited from publicly
 disclosing information about the diagnosis, treatment, prognosis, test results, compliance, or the
@@ -542,7 +574,8 @@ information supplied to him or her by the WNBA or the Players Association pursua
 publicly disclosing any information obtained by them in connection with their duties as
 Committee members. If a jointly-selected member of the Committee violates this Section 3(d),
 he or she shall be immediately discharged from the Committee.
-Exhibit 2 - 262above, (ii) by the player, (iii) with the player's authorization, or (iv) through release by sources
+ (e) Any Program Information that is publicly disclosed (i) under Section 3(a)
+above, (ii) by the player, (iii) with the player's authorization, or (iv) through release by sources
 other than the WNBA, WNBA Teams, the Players Association, the Medical Director, the
 Counselors, the Independent Expert, or the Prohibited Substances Committee, or any of their
 members, affiliates, agents, consultants, and employees, will, after such disclosure, no longer be
@@ -563,7 +596,8 @@ above, the WNBA and the Players Association shall promptly advise and make avail
 other all information either of them may have in their possession, custody, or control that
 provides cause to believe that a player is engaged in the use, possession, or distribution of a
 Prohibited Substance.
-Exhibit 2 - 263WNBA Team from providing to the WNBA information concerning whether a player is engaged
+ (h) Nothing contained in this Section 3 shall prohibit an employee of a
+WNBA Team from providing to the WNBA information concerning whether a player is engaged
 in the use, possession, or distribution of a Prohibited Substance. For clarity, this Section 3(h)
 does not permit a Team to provide information to the WNBA in violation of Section 17(d)
 below.
@@ -585,7 +619,8 @@ scheduled to occur before the shoot-around for that team commences, and for any 
 not completed by the time the visiting team bus is scheduled to leave the arena or practice
 facility after the shoot-around is completed, the team will provide alternate transportation to the
 team hotel for any player who must remain at the arena or practice facility to complete the
-Exhibit 2 - 264accompanies her or them back to the Team's hotel.
+testing process and will ensure that a Team staff member remains with the affected player(s) and
+accompanies her or them back to the Team's hotel.
 (c) All tests conducted pursuant hereto shall be analyzed by laboratories
 selected by the WNBA and the Players Association, approved by the Medical Director, and
 certified by the World Anti-Doping Agency, the Substance Abuse and Mental Health Services
@@ -606,7 +641,8 @@ Players Association as soon as possible thereafter; and provided, further, that 
 following any player's refusal to submit to a test or failure to cooperate fully with the
 testing process, the drug testing collector shall wait ninety (90) minutes at the collection
 site, and (D) if the player submits to the test and cooperates fully with the testing process
-Exhibit 2 - 265excused and the test shall not be deemed positive under this Section 4(d).
+ within such additional time, then her earlier refusal or failure to cooperate shall be
+excused and the test shall not be deemed positive under this Section 4(d).
 (iv) If the player fails to submit to a scheduled test without a reasonable
 explanation satisfactory to the Medical Director.
 (v) If the player attempts to substitute, dilute, or adulterate a specimen
@@ -627,7 +663,8 @@ Association that she requests testing of the split or "B" sample of her specimen
 "B" sample will be performed at a laboratory other than the laboratory that performed the test on
 the original or "A" sample. Any such test shall be subject to the provisions of this Section 4 and
 shall be sent to the laboratory for testing within ten (10) business days of the player's request.
-Exhibit 2 - 266reviewed by the Medical Director. If the Medical Director determines, in his or her professional
+ (g) Any positive test pursuant to Sections 4(c)(i), (ii), or (vi) above shall be
+reviewed by the Medical Director. If the Medical Director determines, in his or her professional
 judgment, that there is a valid alternative medical explanation for such positive test result, then
 the test shall be deemed negative.
 (h) If the test result for any player is reported by the laboratory as "invalid" or
@@ -650,7 +687,8 @@ information that gives it reasonable cause to believe that a player is engaged i
 possession, or distribution of a Prohibited Substance, including information that a First-Year
 Player may have been engaged in such conduct during the period beginning three (3) months
 prior to her entry into the WNBA, such party shall request a conference with the other party and
-Exhibit 2 - 267as the Expert is available. Upon hearing the information presented, the Independent Expert shall
+the Independent Expert, which shall be held within twenty-four (24) hours or as soon thereafter
+as the Expert is available. Upon hearing the information presented, the Independent Expert shall
 immediately decide whether there is reasonable cause to believe that the player in question has
 been engaged in the use, possession, or distribution of a Prohibited Substance. If the
 Independent Expert decides that such reasonable cause exists, the Expert shall thereupon issue an
@@ -672,7 +710,8 @@ as the Expert has determined to issue an Authorization for Testing with respect 
 for Testing with respect to a particular player, the WNBA shall arrange for such player to
 undergo testing for Drugs of Abuse (if the Authorization for Testing was based on information
 regarding the use, possession, or distribution of a Drug of Abuse), for marijuana (if the
-Exhibit 2 - 268distribution of marijuana), or for SPEDs (if the Authorization for Testing was based on
+Authorization for Testing was based on information regarding the player's use, possession, or
+distribution of marijuana), or for SPEDs (if the Authorization for Testing was based on
 information regarding the player's use, possession, or distribution of a SPED) no more than four
 (4) times during the six-week period commencing with the issuance of the Authorization for
 Testing. Such testing may be administered at any time, in the discretion of the WNBA, without
@@ -694,7 +733,8 @@ may, in lieu of requesting the testing procedure set forth in Section 5 (a)-(d) 
 hearing on the matter before the Arbitrator. If the Arbitrator concludes that, within the previous
 year, the player has used, possessed, or distributed a Prohibited Substance, or has received
 treatment other than in accordance with the terms hereof, the player shall immediately be
-Exhibit 2 - 269accordance with the provisions of Section 11(a) below, notwithstanding the fact that the player
+dismissed and disqualified from any association with the WNBA or any of its Teams in
+accordance with the provisions of Section 11(a) below, notwithstanding the fact that the player
 has not undergone the testing procedure set forth in this Section 5; provided, however, that if the
 Arbitrator concludes that the player has used or possessed marijuana or a SPED, she shall enter
 the Program and suffer the applicable consequences set forth in Sections 8 or 9, as the case may
@@ -716,7 +756,8 @@ testing location. Urine samples collected during the Season will be tested for a
 Substances; urine samples collected during the Off-Season will be tested for SPEDs and
 Diuretics only and may not under any circumstances be tested with respect to any other
 Prohibited Substances.
-Exhibit 2 - 270Abuse pursuant to this Section 6, she shall immediately be dismissed and disqualified
+ (b) (i) In the event that a First-Year Player tests positive for a Drug of
+Abuse pursuant to this Section 6, she shall immediately be dismissed and disqualified
 from any association with the WNBA or any of its Teams for a period of one (1) year, her
 Player Contract (and any Marketing and Promotional Agreement to which she may be a
 party) shall be rendered null and void and of no further force or effect; and she shall enter
@@ -737,7 +778,8 @@ Agreement).
 (iii) Any First-Year Player who tests positive for marijuana or a SPED
 pursuant to this Section 6, shall suffer the applicable consequences set forth in Sections 8
 or 9 below, as the case may be. Any First-Year Player who tests positive for a Diuretic
-Exhibit 2 - 271suffer the applicable consequences set forth in Section 9 below.
+ pursuant to this Section 6 shall be deemed to have tested positive for a SPED and shall
+suffer the applicable consequences set forth in Section 9 below.
 (c) In the event that a Veteran Player tests positive for a Drug of Abuse
 pursuant to this Section 6, she shall immediately be dismissed and disqualified from any
 association with the WNBA or any of its teams in accordance with the provisions of Section
@@ -760,7 +802,8 @@ Abuse; provided, however, that a player may not Come Forward Voluntarily (A) unt
 has signed a Standard Player Contract and has been selected in a WNBA Draft or invited
 to a training camp; (B) during any period in which an Authorization for Testing as to that
 player remains in effect pursuant to Section 5 above; (C) during any period in which she
-Exhibit 2 - 272Program; (D) after she has reached Stage 2 of the Drugs of Abuse Program; or (E) after
+remains subject to in-patient or aftercare treatment in Stage 1 of the Drugs of Abuse
+Program; (D) after she has reached Stage 2 of the Drugs of Abuse Program; or (E) after
 the WNBA has notified the Players Association in writing (including via email) that an
 original or "A" sample provided by such player has tested positive for a Prohibited
 Substance.
@@ -782,7 +825,8 @@ she has Come Forward Voluntarily.
 (i) Any player who has entered Stage 1 of the Drugs of Abuse
 Program shall be required to submit to an evaluation by the Medical Director, provide (or
 cause to be provided) to the Medical Director such relevant medical and treatment
-Exhibit 2 - 273program prescribed by the Medical Director.
+records as the Medical Director may request, and commence the treatment and testing
+program prescribed by the Medical Director.
 (ii) If a player, within ten (10) days of the date on which she was
 notified that she had entered Stage 1 of the Drugs of Abuse Program and without a
 reasonable excuse, fails to comply (in the professional judgment of the Medical Director)
@@ -804,7 +848,8 @@ player prior to the date of termination.
 (iii) Except as provided herein, no penalty of any kind will be imposed
 on a player while she is in Stage 1 of the Drugs of Abuse Program and, provided she
 complies with the terms of her prescribed treatment, she will continue to receive her Base
-Exhibit 2 - 274In-Patient Facility and such aftercare as may be required by the Medical Director.
+Salary during the term of her treatment for a period of up to two (2) months of care in an
+In-Patient Facility and such aftercare as may be required by the Medical Director.
 (c) Stage 2.
 (i) Any player who has entered Stage 2 of the Drugs of Abuse
 Program shall be required to submit to an evaluation by the Medical Director, provide (or
@@ -826,7 +871,8 @@ her Standard Player Contract.
 (iv) Any subsequent use, possession, or distribution of a Drug of Abuse
 by a player in Stage 2, even if voluntarily disclosed, or any conduct by a player in Stage 2
 that results in her advancing one Stage in the Drugs of Abuse Program, shall result in the
-Exhibit 2 - 275WNBA or any of its Teams in accordance with the provisions of Section 11(a) below.
+ player being immediately dismissed and disqualified from any association with the
+WNBA or any of its Teams in accordance with the provisions of Section 11(a) below.
 (d) Treatment and Testing Program.
 A player who enters the Drugs of Abuse Program shall be required to comply
 with such in-patient and aftercare program as may be prescribed and supplemented from time to
@@ -849,7 +895,8 @@ Substance.
 or a player who has been notified by the Medical Director that she has successfully
 completed that Program, Comes Forward Voluntarily for a problem involving the use of
 marijuana, she shall enter the Marijuana Program.
-Exhibit 2 - 276having Come Forward Voluntarily for a problem involving the use of marijuana. The
+ (iii) No penalty of any kind will be imposed on a player as a result of
+having Come Forward Voluntarily for a problem involving the use of marijuana. The
 foregoing sentence shall not preclude the imposition of any penalty called for hereunder
 as a result of conduct by the player that occurs after she has Come Forward Voluntarily.
 (b) Treatment.
@@ -871,7 +918,8 @@ beyond the 8th day that the player, without a reasonable excuse, fails to comply
 obligations (in the professional judgment of the Medical Director), she shall be fined an
 additional \$2,000. The total amount of such fines may not exceed the player's total Base
 Salary and Additional Marketing and Promotional Compensation.
-Exhibit 2 - 277Any player who (i) tests positive for marijuana pursuant to Section 5 (Reasonable
+ (c) Penalties.
+Any player who (i) tests positive for marijuana pursuant to Section 5 (Reasonable
 Cause Testing), Section 6 (Random Testing), or Section 15 (Additional Bases for Testing), (ii) is
 adjudged by the Arbitrator pursuant to Section 5(e) to have used or possessed marijuana, or (iii)
 has been convicted of (including a plea of guilty, no contest or nolo contendere to) the use or
@@ -894,7 +942,8 @@ Section 9. Steroids, Performance-Enhancing Drugs and Masking Agents Program.
 to an evaluation by the Medical Director, provide (or cause to be provided) to the
 Medical Director such relevant medical and treatment records as the Medical Director
 may request, and commence the treatment and testing program prescribed by the Medical
-Exhibit 2 - 278non-testing elements as may be determined in the professional judgment of the Medical
+ Director. Such program may include random testing for SPEDs and Diuretics and such
+non-testing elements as may be determined in the professional judgment of the Medical
 Director.
 (ii) If a player, within five (5) days of the date on which she was
 notified that she had entered the SPED Program and without a reasonable excuse, fails to
@@ -914,7 +963,8 @@ is adjudged by the Arbitrator pursuant to Section 5(e) above to have used or pos
 shall suffer the following penalties:
 (A) For the first such violation, the player shall be suspended for ten (10)
 games and be required to enter the SPED Program;
-Exhibit 2 - 279four (24) games and, if the player is not then subject to in-patient or aftercare treatment in the
+ (B) For the second such violation, the player shall be suspended for twenty-
+four (24) games and, if the player is not then subject to in-patient or aftercare treatment in the
 SPED Program, be required to enter the SPED Program; and
 (C) For the third such violation, the player shall be immediately dismissed and
 disqualified from any association with the WNBA or any of its Teams in accordance with the
@@ -935,7 +985,8 @@ Drugs of Abuse Program, fails to comply with her treatment program through (A) a
 pattern of behavior that demonstrates a mindful disregard for her treatment
 responsibilities, or (B) a positive test for a Prohibited Substance other than a SPED that is
 not clinically expected by the Medical Director, shall suffer the following penalties:
-Exhibit 2 - 280advance to Stage 2 and be suspended until, in the professional judgment of the Medical Director,
+ (A) if the player is in Stage 1 of the Drugs of Abuse Program, she shall
+advance to Stage 2 and be suspended until, in the professional judgment of the Medical Director,
 she has resumed full compliance with her treatment program; or
 (B) if the player already is in Stage 2 of the Drugs of Abuse Program, she shall
 immediately be dismissed and disqualified from any association with the WNBA or any of its
@@ -956,7 +1007,8 @@ for marijuana that is not clinically expected by the Medical Director, shall suf
 following penalties:
 (A) if the player has not previously been suspended for three
 (3) games under Section 8(c) above or this Section 10(b)(ii), a fine of \$3,000;
-Exhibit 2 - 281Section 8(c) above or this Section 10(b)(ii), a suspension of three (3) games; or
+ (B) if the player has previously been fined \$3,000 under
+Section 8(c) above or this Section 10(b)(ii), a suspension of three (3) games; or
 (C) if the player has previously been suspended for three (3) or
 more games under Section 8(c) or this Section 10(b)(ii), a suspension that is at
 least three (3) games longer than her immediately preceding suspension and that
@@ -978,7 +1030,8 @@ Marketing and Promotional Compensation.
 entering the SPED Program, fails to comply with her treatment program as prescribed
 and determined by the Medical Director through (A) a pattern of behavior that
 demonstrates a mindful disregard of her treatment responsibilities, or (B) a positive test
-Exhibit 2 - 282following penalties:
+ for a SPED that is not clinically expected by the Medical Director, shall suffer the
+following penalties:
 (1) if the player has not previously been suspended for ten (10)
 games under Section 9(b) above or this Section 10(c)(ii), a suspension of ten (10)
 games;
@@ -1000,7 +1053,8 @@ Section 10(d) is positive: (i) for a Drug of Abuse or pursuant to Section 4(d)(i
 above (for a player in the Drugs of Abuse Program), then the player shall suffer the applicable
 consequence set forth in Section 10(a)(ii) above; (ii) for marijuana or pursuant to Section
 4(d)(iii), (iv) or (v) above (for a player in the Marijuana Program), then the player shall suffer the
-Exhibit 2 - 283Section 4(d)(iii), (iv) or (v) above (for a player in the SPED Program), then the player will suffer
+applicable consequence set forth in Section 10(b)(ii) above; or (iii) for a SPED or pursuant to
+Section 4(d)(iii), (iv) or (v) above (for a player in the SPED Program), then the player will suffer
 the applicable consequence set forth in Section 10(c)(ii) above. If any test conducted pursuant to
 this Section 10(d) is positive for a Diuretic, then the player shall suffer the applicable
 consequences of a positive test for the Prohibited Substance for which she entered the Program.
@@ -1023,7 +1077,8 @@ Section 12. Reinstatement.
 (a) After a period of at least two (2) years from a player's dismissal and
 disqualification under Section 11(a) above, and after a period of at least one (1) year from the
 date of a First-Year Player's dismissal and disqualification under Section 6(b) above, such player
-Exhibit 2 - 284to reinstatement under any circumstance and the reinstatement shall be granted only with the
+may apply for reinstatement as a player in the WNBA. However, such player shall have no right
+to reinstatement under any circumstance and the reinstatement shall be granted only with the
 prior approval of both the WNBA and the Players Association, which shall not be unreasonably
 withheld. The approval of the WNBA and the Players Association shall be final, binding, and
 unappealable. Among the factors that may be considered by the WNBA and the Players
@@ -1044,7 +1099,8 @@ her application for reinstatement and during any period while her application is
 and (ii) if the Medical Director deems it necessary in his or her professional judgment, for
 alcohol for the six (6) months prior to the submission of the player's application for
 reinstatement and during any period while her application is being reviewed.
-Exhibit 2 - 285random testing of the player or such other terms as may be agreed upon by the WNBA and the
+ (c) The granting of an application for reinstatement may be conditioned upon
+random testing of the player or such other terms as may be agreed upon by the WNBA and the
 Players Association, whether or not such terms are contemplated by the provisions hereof.
 (d) Any player who has been reinstated pursuant to this Section 12 and is
 subsequently dismissed and disqualified from any association with the WNBA or any of its
@@ -1066,7 +1122,8 @@ stated term of at least one (1) full WNBA Season (or, in the event that the Tend
 during a Season, of at least the remainder of that Season) and calling for a Salary up to
 the player's Salary for the Salary Cap Year in which she was dismissed or disqualified
 (reduced on a pro rata basis if the Tender is made during a Season). If the previous Team
-Exhibit 2 - 286the only WNBA Team with which the player may negotiate and sign a Standard Player
+makes such a Tender, it shall, for a period of one (1) year from the date of the Tender, be
+the only WNBA Team with which the player may negotiate and sign a Standard Player
 Contract. If the player does not sign a Standard Player Contract with the previous Team
 within the year following such Tender, then the player shall thereupon be deemed a
 Reserved Player in accordance with the provisions of Article VI, Section 8. If the
@@ -1088,7 +1145,8 @@ impediment to sign with and begin rendering playing services for such Team.
 reinstated pursuant to this Section 12 may enter into a Standard Player Contract with her
 previous Team that provides for a Salary for the first Season of up to the player's Salary
 for the Salary Cap Year in which she was dismissed and disqualified (reduced on a pro
-Exhibit 2 - 287previous Team enter into such Player Contract and such Contract covers more than one
+rata basis if the first Season of the new Contract is a partial Season). If the player and the
+previous Team enter into such Player Contract and such Contract covers more than one
 Season, increases and decreases in Salary for Seasons following the first Season shall be
 governed by Article VII, Section 3(c); provided, however, that if the player who is
 reinstated was dismissed and disqualified during the term of her Rookie Scale Contract,
@@ -1110,7 +1168,8 @@ shall then have thirty (30) days in which to make a Tender to the player with a 
 of at least one (1) full WNBA Season (or, in the event that the Tender is made during a
 Season, of at least the remainder of that Season) and calling for a Salary up to the
 player's Salary for the Salary Cap Year in which she was dismissed and disqualified
-Exhibit 2 - 288makes such a Tender, it shall, for a period of one (1) year from the date of the Tender, be
+(reduced on a pro rata basis if the Tender is made during a Season). If the previous Team
+makes such a Tender, it shall, for a period of one (1) year from the date of the Tender, be
 the only WNBA Team with which the player may negotiate and sign a Standard Player
 Contract. If the player does not sign a Standard Player Contract with the previous Team
 within the year following such Tender, then the player shall thereupon be deemed a
@@ -1131,7 +1190,8 @@ Contract at the time she was dismissed and disqualified, and the player's Team u
 exercises its Option, then such Team shall retain the same rights with respect to such new
 Contract as it would have retained under Article VI following the completion of the
 player's Rookie Scale Contract.
-Exhibit 2 - 289above, the 30-day period for the previous Team to make a Tender shall be tolled if (x) on
+ (ii) Notwithstanding anything to the contrary in Section 12(g)(i)
+above, the 30-day period for the previous Team to make a Tender shall be tolled if (x) on
 the date the player serves the notice required by Section 12(g)(i), she is under contract to
 a professional basketball team not in the WNBA, or (y) the player signs a contract with a
 professional basketball team not in the WNBA at any point after the date on which she
@@ -1153,7 +1213,8 @@ If any Team is found to have tested a player surreptitiously, the WNBA will impo
 fine not to exceed \$100,000 upon such Team.
 (b) The penalties set forth herein shall be the exclusive penalties to be
 imposed upon a player for the use, possession or distribution of a Prohibited Substance.
-Exhibit 2 - 290include any term or provision that modifies, contradicts, changes, or is inconsistent with
+ (c) No Standard Player Contract entered into after the date hereof shall
+include any term or provision that modifies, contradicts, changes, or is inconsistent with
 Paragraph 8 of such Contract or provides for the testing of a player for illegal substances. Any
 term or provision of a currently effective Standard Player Contract that is inconsistent with
 Paragraph 8 of such Contract shall be deemed null and void only to the extent of the
@@ -1174,7 +1235,8 @@ Prohibited Substances called for in Section 6 above.)
 specimen collection procedures established by the NBA. The WNBA (after consultation with
 the Players Association) is authorized to retain such consultants and support services as are
 necessary and appropriate to administer and conduct such HGH Blood Testing.
-Exhibit 2 - 291(a) Any player who seeks treatment outside the Program for a problem
+Section 15. Additional Bases for Testing.
+(a) Any player who seeks treatment outside the Program for a problem
 involving a Prohibited Substance shall, as directed by the WNBA (after notice to the Players
 Association), submit herself to an evaluation by the Medical Director and provide (or cause to be
 provided) to the Medical Director such medical and treatment records as the Medical Director
@@ -1196,7 +1258,8 @@ requested to do so by the WNBA (with notice to the Players Association), or if, 
 Section 15(b) above, a player tests positive for a Drug of Abuse, then, in either case, the player
 shall advance two (2) stages in the Drugs of Abuse Program – i.e., the player shall enter Stage 2
 of the Drugs of Abuse Program (if the player had not previously entered Stage 1 of such
-Exhibit 2 - 292WNBA or any of its Teams in accordance with the provisions of Section 11(a) above (if the
+Program), and the player shall be dismissed and disqualified from any association with the
+WNBA or any of its Teams in accordance with the provisions of Section 11(a) above (if the
 player had previously entered Stage 1 or Stage 2 of such Program).
 (d) If, pursuant to Section 15(a) or (b) above, a player tests positive for
 marijuana or a SPED, she shall suffer the applicable consequences set forth in Sections 8 or 9
@@ -1217,7 +1280,8 @@ shall suffer the applicable consequences set forth in Sections 8 or 9 above, as 
 the player tests positive for a Diuretic, she shall be deemed to have tested positive for a SPED
 and shall suffer the applicable consequences set forth in Section 9 above. A player who tests
 positive for a Drug of Abuse or a SPED pursuant to this Section 15(e) may have her dismissal
-Exhibit 2 - 293Section 18 below.
+and disqualification or other penalty reduced or rescinded by the Arbitrator in accordance with
+Section 18 below.
 (f) Nothing in this Section 15 shall limit or otherwise affect any of the
 provisions of Section 5 (Reasonable Cause Testing).
 Section 16. Additional Prohibited Substances and Testing Methods.
@@ -1240,7 +1304,8 @@ that a testing method be added to the Program. Pursuant to this Section 16(d), t
 Substances Committee shall have the authority to: (i) determine what testing methods will be
 used to detect newly added Prohibited Substances under the Program, if such Prohibited
 Substances are detected by methods not currently used by the Program's laboratories; and
-Exhibit 2 - 294methods have been developed or validated during the term of this Agreement; provided,
+(ii) approve the use of new testing methods for current Prohibited Substances when such
+methods have been developed or validated during the term of this Agreement; provided,
 however, that the Prohibited Substances Committee shall not have the authority to add a testing
 method that would require a change to the manner in which specimens are collected from players
 (such as a change from urine collections to blood collections). Any determination of the
@@ -1262,7 +1327,8 @@ as to avoid the potential adverse reaction.
 (c) If the Medical Director becomes aware that a player has been traded to or
 signed with another team after notification has been made to a designated team physician under
 Section 17(a) above, the Medical Director is required to make the same notification to the
-Exhibit 2 - 295Section 17(b) above.
+designated team physician of the player's new team and to have the discussion required by
+Section 17(b) above.
 (d) A team physician who receives a notification from the Medical Director
 under this Section 17 may only disclose the prescription for the Proposed Substance to other
 members of the team medical staff who are required to be advised of the prescription in order to
@@ -1281,7 +1347,8 @@ was taking, ingesting, applying, or otherwise using the Drug of Abuse or SPED. T
 she bears no significant fault or negligence, the player must also establish how the Drug of
 Abuse or SPED entered her system. A player cannot satisfy her burden by merely denying that
 she intentionally used the Drug of Abuse or SPED.
-Exhibit 2 - 296AUTHORIZATION FOR TESTING
+ Exhibit A
+AUTHORIZATION FOR TESTING
 To: ___________________
 (Player)
 Please be advised that on _____________________, you were the subject of a
@@ -1298,7 +1365,8 @@ WNBA.
 __________________________
 Independent Expert
 Dated:
-Exhibit 2 - 297PROHIBITED SUBSTANCES
+ Exhibit B
+PROHIBITED SUBSTANCES
 A. Drugs of Abuse
 Benzodiazepines:
 Alprazolam (also called Xanax or Niravam)
@@ -1331,7 +1399,8 @@ Codeine
 Morphine
 Oxycodone (also called Oxycontin, Percocet, Percodan, Roxicet,
 Tylox, Dazidox, Endocet or Endodan)
-Exhibit 2 - 298Norco)
+ Hydrocodone (also called Vicodin, Lorcet, Lortab, Hydocan or
+Norco)
 Methadone (also called Methadose or Dolophine)
 Hydromorphone (also called Dilaudid)
 Fentanyl (also called Actiq or Duragesic)
@@ -1360,7 +1429,8 @@ RCS-4)
 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole (also called
 SR-18 or RCS-8)
 1-pentyl-3-(2-chlorophenylacetyl)indole (also called JWH-203)
-Exhibit 2 - 299Adrafinil Hexarelin
+C. Steroids, Performance Enhancing Drugs, and Masking Agents (SPEDs)
+Adrafinil Hexarelin
 AICAR 18a-homo-17b-hydroxyestr-4-en-3-one
 Alexamorelin 18a-homo-3-hydroxy-estra-2,5(10)-
 Aminoglutethimide dien-17-one (also called M-LMG)
@@ -1404,7 +1474,8 @@ Promagnon) 17a-methyl-3a,17b-dihydroxy-5a-androstane 17a-
 androst-4-ene-3-one (also called 17a-methyl-3b,17b-dihydroxyandrost-4-ene
 Mechabol) 17a-methyl-1-dihydrotestosterone
 17a-methyl-4-hydroxynandrolone
-Exhibit 2 - 300androst-4-ene-3,11-dione (also Methylphenidate
+4-chloro-17a-methyl-17b-hydroxy- Methylephedrine
+androst-4-ene-3,11-dione (also Methylphenidate
 called Oxyguno) Methylstenbolone
 Clenbuterol Methyltestosterone
 Clobenzorex Methyltrienolone (also called Metribolone)
@@ -1449,7 +1520,8 @@ Fenethylline SARM S-4 (also called Andarine)
 Fenfluramine SARM S-9
 Fenproporex SARM S-22 (also called Ostarine)
 FG-2216 SARM S-23
-Exhibit 2 - 301Follistatin 344 SARM BMS-564,929
+ Fluoxymesterone SARM S-24
+Follistatin 344 SARM BMS-564,929
 Formebolone SARM LGD-2226
 Formestane (also called SARM LGD-4033 (also called Ligandrol)
 4-hydroxyandrostenedione) SARM RAD-140 (also called Testolone)
@@ -1485,7 +1557,8 @@ Clopamide Quinethazone
 Cyclothiazide Spironolactone
 Dichlorphenamide Triamterene
 Ethacrynic Acid Trichlormethiazide
-Exhibit 2 - 302COLLECTION PROCEDURES
+ Exhibit C
+COLLECTION PROCEDURES
 When the player arrives at the collection site, the collector will ensure that the player is
 positively identified through presentation of photo ID or identification by a Team representative.
 If the player's identity cannot be established, the collector shall not proceed with the collection.
@@ -1507,9 +1580,11 @@ collector will sign the chain of custody form. The kit will be sealed and sent v
 courier to the laboratory for testing. If a hard-copy chain of custody form is used, it will
 included in the kit containing the two specimens that is sent by overnight courier to the
 laboratory. If an electronic chain of custody form is used, it will be downloaded to the
-Exhibit 2 - 303be analyzed. If the primary specimen tests positive, the split sample will be placed in frozen
+laboratory electronically. Once the specimens arrive at the laboratory, the primary specimen will
+be analyzed. If the primary specimen tests positive, the split sample will be placed in frozen
 storage and will be available for testing by a different laboratory, if requested by the player.
-Exhibit 2 - 304DRUGS OF ABUSE AND MARIJUANA
+ Exhibit D
+DRUGS OF ABUSE AND MARIJUANA
 CONFIRMATORY LABORATORY ANALYSIS LEVELS
 Drugs of Abuse
 Benzodiazepines 100 ng/ml
@@ -1536,7 +1611,8 @@ Phencyclidine (PCP) 25 ng/ml
 Marijuana
 Marijuana Metabolites 35 ng/ml
 Synthetic Cannabinoids Any detectable level
-Exhibit 2 - 305STEROIDS, PERFORMANCE-ENHANCING DRUGS AND MASKING AGENTS
+ Exhibit E
+STEROIDS, PERFORMANCE-ENHANCING DRUGS AND MASKING AGENTS
 CONFIRMATORY LABORATORY ANALYSIS LEVELS
 All SPEDs (including Human Growth Hormone in its synthetic form and Testosterone in its
 synthetic form detected through IRMS analysis), except those listed below, at any detectable
@@ -1548,7 +1624,8 @@ Nandrolone 2 ng/ml
 Norpseudoephedrine 5 mcg/ml
 Phenylpropanolamine (PPA) 25 mcg/ml
 Pseudoephedrine 150 mcg/ml
-Exhibit 2 - 306NOTICE OF BONA FIDE EXCLUSIVE ENDORSEMENT AGREEMENT
+ EXHIBIT 3
+NOTICE OF BONA FIDE EXCLUSIVE ENDORSEMENT AGREEMENT
 I hereby notify WNBA Enterprises, LLC ("WNBA Enterprises") that I have entered into a Bona
 Fide Exclusive Endorsement Agreement (the "Endorsement Agreement"), as that term is defined
 in the Collective Bargaining Agreement between WNBA, LLC and the Women's National
@@ -1562,7 +1639,8 @@ in (the territory covered by the Endorsement Agreement):
 6. The products and/or services covered by the Endorsement Agreement are:
 _________________
 Date:
-Exhibit 3 - 307CORE SERVICE
+ EXHIBIT 4
+CORE SERVICE
 After the 2019 Season
 PLAYER SEASON(S)
 Svetlana Abrosimova 2007
@@ -1603,7 +1681,8 @@ Ruth Riley 2008, 2009
 Katie Smith 2004, 2005, 2006, 2007, 2011
 Tangela Smith 2004, 2008, 2009, 2010
 Michelle Snow 2008
-Exhibit 4 - 308Tammy Sutton-Brown 2006
+Dawn Staley 2005
+Tammy Sutton-Brown 2006
 Sheryl Swoopes 2007
 Penny Taylor 2007
 Jasmine Thomas 2019, (2020)
@@ -1612,7 +1691,8 @@ Tamika Whitmore 2008, 2009, 2010
 Courtney Vandersloot 2019
 Teresa Weatherspoon 2003
 Natalie Williams 2005
-Exhibit 4 - 309WNBA ROOKIE SCALE
+ EXHIBIT 5
+WNBA ROOKIE SCALE
 2020 WNBA ROOKIE SCALE
 4th Year
 1st Year 2nd Year 3rd Year
@@ -1626,7 +1706,8 @@ Remaining Picks 62,500 63,751 70,127 79,690
 Second Round 59,750 60,946 67,042 76,183
 Third Round 57,000 58,141 61,049 69,770
 All Others 57,000 58,141
-Exhibit 5 - 3104th Year
+ 2021 WNBA ROOKIE SCALE
+4th Year
 1st Year 2nd Year 3rd Year
 Pick Option Base
 Base Salary Base Salary Base Salary
@@ -1638,7 +1719,8 @@ Remaining Picks 64,375 65,664 72,231 82,081
 Second Round 61,543 62,774 69,053 78,469
 Third Round 58,710 59,885 62,880 71,863
 All Others 58,710 59,885
-Exhibit 5 - 3114th Year
+ 2022 WNBA ROOKIE SCALE
+4th Year
 1st Year 2nd Year 3rd Year
 Pick Option Base
 Base Salary Base Salary Base Salary
@@ -1650,7 +1732,8 @@ Remaining Picks 66,306 67,634 74,398 84,543
 Second Round 63,389 64,657 71,124 80,823
 Third Round 60,471 61,682 64,767 74,019
 All Others 60,471 61,682
-Exhibit 5 - 3124th Year
+ 2023 WNBA ROOKIE SCALE
+4th Year
 1st Year 2nd Year 3rd Year
 Pick Option Base
 Base Salary Base Salary Base Salary
@@ -1662,7 +1745,8 @@ Remaining Picks 68,295 69,663 76,630 87,080
 Second Round 65,290 66,597 73,258 83,248
 Third Round 62,285 63,532 66,710 76,240
 All Others 62,285 63,532
-Exhibit 5 - 3134th Year
+ 2024 WNBA ROOKIE SCALE
+4th Year
 1st Year 2nd Year 3rd Year
 Pick Option Base
 Base Salary Base Salary Base Salary
@@ -1674,7 +1758,8 @@ Remaining Picks 70,344 71,753 78,929 89,692
 Second Round 67,249 68,595 75,456 85,745
 Third Round 64,154 65,438 68,711 78,527
 All Others 64,154 65,438
-Exhibit 5 - 3144th Year
+ 2025 WNBA ROOKIE SCALE
+4th Year
 1st Year 2nd Year 3rd Year
 Pick Option Base
 Base Salary Base Salary Base Salary
@@ -1686,7 +1771,8 @@ Remaining Picks 72,455 73,905 81,297 92,383
 Second Round 69,267 70,653 77,720 88,317
 Third Round 66,079 67,401 70,773 80,883
 All Others 66,079 67,401
-Exhibit 5 - 3154th Year
+ 2026 WNBA ROOKIE SCALE
+4th Year
 1st Year 2nd Year 3rd Year
 Pick Option Base
 Base Salary Base Salary Base Salary
@@ -1698,7 +1784,8 @@ Remaining Picks 74,628 76,122 83,736 95,154
 Second Round 71,345 72,773 80,051 90,967
 Third Round 68,061 69,423 72,896 83,309
 All Others 68,061 69,423
-Exhibit 5 - 3164th Year
+ 2027 WNBA ROOKIE SCALE
+4th Year
 1st Year 2nd Year 3rd Year
 Pick Option Base
 Base Salary Base Salary Base Salary
@@ -1710,7 +1797,8 @@ Remaining Picks 76,867 78,406 86,248 98,009
 Second Round 73,485 74,956 82,453 93,696
 Third Round 70,103 71,506 75,083 85,808
 All Others 70,103 71,506
-Exhibit 5 - 317OFFER SHEET
+ EXHIBIT 6
+OFFER SHEET
 Name of Player: Date:
 Address of Player Name of New Team:
 and email Address of Player:
@@ -1723,7 +1811,8 @@ in its exhibits those Principal Terms that will be included in the Player Contra
 Team if that Team gives the player a timely First Refusal Exercise Notice.
 Player: New Team:
 By ________________ By _______________
-Exhibit 6 - 318FIRST REFUSAL EXERCISE NOTICE
+ EXHIBIT 7
+FIRST REFUSAL EXERCISE NOTICE
 Name of Player: Date:
 Address of Player Name of New Team:
 and email Address of Player:
@@ -1735,7 +1824,8 @@ create a binding agreement with the player containing the Principal Terms set fo
 Contract annexed to the player's Offer Sheet (a copy of which is attached hereto).
 ROFR Team:
 By ________________
-Exhibit 7 - 319CORE PLAYER DESIGNATION NOTICE
+ EXHIBIT 8
+CORE PLAYER DESIGNATION NOTICE
 Name of Player: Date:
 Address of Player Name of Team:
 and email Address of Player:
@@ -1749,7 +1839,8 @@ Association and the Women's National Basketball Players Association dated Januar
 CBA.
 Team:
 By _________________
-Exhibit 8 - 320JOINT WNBA/WNBPA POLICY ON DOMESTIC/INTIMATE PARTNER
+ EXHIBIT 9
+JOINT WNBA/WNBPA POLICY ON DOMESTIC/INTIMATE PARTNER
 VIOLENCE, SEXUAL ASSAULT, AND CHILD ABUSE
 Through this Policy, the Women's National Basketball Association ("WNBA")
 and the Women's National Basketball Players Association ("WNBPA") (collectively, "the
@@ -1772,7 +1863,8 @@ or a pattern of behavior in a relationship.
 For purposes of this Policy, "sexual assault" includes, but is not limited to, any
 actual or attempted sexual contact or act to which one party has not consented. Lack of consent
 is deemed to exist when a person uses or threatens the use of force, harassment, or any other
-Exhibit 9 - 321mentally incapable of giving consent, as a result of disability, incapacitation, intoxication, or
+form of coercion against another. Lack of consent is also deemed to exist when a person is
+mentally incapable of giving consent, as a result of disability, incapacitation, intoxication, or
 otherwise.
 For purposes of this Policy, "child abuse" includes, but is not limited to, any act
 or failure to act by a parent, caregiver, or adult that results in death, serious physical or emotional
@@ -1794,7 +1886,8 @@ by serving written notice upon the Expert Representative(s) and upon the other P
 days of the anniversary of the appointment of such person. If an Expert Representative is
 discharged, the Party Representatives shall jointly select a successor Expert Representative
 within 30 days of the notice of discharge.
-Exhibit 9 - 322select any or all of the Expert Representatives within 60 days of the issuance of this Policy or
+ In the event that the Party Representatives are unable to agree upon and jointly
+select any or all of the Expert Representatives within 60 days of the issuance of this Policy or
 within 30 days of the notice of any discharge of an Expert Representative, the following process
 will be implemented. Within five days following the deadline to select the Expert
 Representative(s), the Party Representatives shall exchange lists containing the names and
@@ -1816,7 +1909,8 @@ appropriate, thorough, and properly communicated to the players.
 Hotline
 Within 60 days of the issuance of this Policy, the Parties shall jointly select a
 service provider to support a 24-hour, confidential hotline that can be used by players, their
-Exhibit 9 - 323as defined by this Policy to seek assistance and referrals (the "Service Provider").
+families, and other victims of domestic/intimate partner violence, sexual assault, and child abuse
+as defined by this Policy to seek assistance and referrals (the "Service Provider").
 If the Parties are unable to do so, then, within five days following the deadline to
 select the Service Provider, they shall exchange lists containing the names, qualifications, and
 cost of three proposed Service Providers. Within five days following the exchange of such lists,
@@ -1838,7 +1932,8 @@ Once a player has been referred to the Policy Committee, an expert selected by
 the Policy Committee will conduct an initial evaluation of the player as soon as is practicable.
 Following such evaluation, the Policy Committee will develop a Treatment and Accountability
 Plan ("TAP") for the player, as may be appropriate. As part of the TAP, the Policy Committee
-Exhibit 9 - 324sessions with a licensed professional, and take other steps that it deems necessary. In developing
+may require that the player submit to psychological or other evaluations and/or attend counseling
+sessions with a licensed professional, and take other steps that it deems necessary. In developing
 the TAP, the Policy Committee will take into account any treatment or counseling that the player
 may have initiated on her own or pursuant to a criminal resolution of any charges against her.
 The Policy Committee will oversee the player's compliance with any TAP, and
@@ -1859,7 +1954,8 @@ without a reasonable explanation, it shall notify the WNBA. For the first such i
 compliance, the WNBA shall issue a warning to the player. If such non-compliance continues
 for three additional days after the warning is issued, or for the second or any additional instances
 of non-compliance as determined by the Policy Committee, the WNBA shall fine the player in
-Exhibit 9 - 325player has, in the judgment of the Policy Committee, resumed full compliance.
+the amount of \$1,000 for each day that she fails to comply. Such fines shall continue until the
+player has, in the judgment of the Policy Committee, resumed full compliance.
 If the Policy Committee determines that a player has demonstrated substantial
 non-compliance, without a reasonable explanation, through a pattern of behavior that
 demonstrates a mindful disregard for her treatment responsibilities, it shall notify the WNBA,
@@ -1879,7 +1975,8 @@ WNBA players).
 Investigation of Incidents
 The WNBA will give the WNBPA and the player prompt notice of the
 commencement of any investigation into an alleged violation of this Policy.
-Exhibit 9 - 326including, but not limited to, outside legal counsel, outside investigators, or other individuals
+ The WNBA's investigation may include the use of third-party resources
+including, but not limited to, outside legal counsel, outside investigators, or other individuals
 with relevant experience or expertise.
 The WNBA will notify the WNBPA when it has concluded its investigation and
 report whether it believes a violation of the Policy has occurred.
@@ -1901,7 +1998,8 @@ demand, request, or otherwise encourage anyone to cooperate with a WNBA investig
 Administrative Leave
 While an investigation is pending, the Commissioner may at any time place the
 player on administrative leave with pay for a reasonable period of time. The parties agree that
-Exhibit 9 - 327investigation under this Policy. Instead, administrative leave should be applied in only those
+administrative leave is not intended to be routinely applied during the pendency of every player
+investigation under this Policy. Instead, administrative leave should be applied in only those
 cases in which a balancing of all relevant factors clearly establishes that it is reasonable to do so
 under the totality of the circumstances.
 In deciding whether to place a player on paid administrative leave, the
@@ -1923,7 +2021,8 @@ similar allegations; and
 • The risk of reputational damage to the WNBA and/or the player's team.
 The WNBA will give prompt notice to the WNBPA, the player's team, and the
 player of any decision to place a player on paid administrative leave pursuant to this Policy. The
-Exhibit 9 - 328preclude further disciplinary action by the Commissioner against the player in accordance with
+decision to place the player on paid administrative leave pending an investigation shall not
+preclude further disciplinary action by the Commissioner against the player in accordance with
 the provisions of this Policy.
 While on administrative leave, the player shall be ineligible to play in any of her
 team's games. However, the player will continue to receive her salary and other welfare benefits
@@ -1945,7 +2044,8 @@ that involves conduct that violates this Policy, whether after trial or upon a p
 as any plea of no contest or nolo contendere, will conclusively establish a violation of this
 Policy. A violation based on this ground, however, shall in no way limit or prevent the WNBA
 from continuing to investigate the incident. Additionally, such admission, conviction, or plea is
-Exhibit 9 - 329after trial in a criminal proceeding may not be subject to disciplinary penalties under this Policy.
+not required in order for a Policy violation to have occurred. However, a player who is acquitted
+after trial in a criminal proceeding may not be subject to disciplinary penalties under this Policy.
 In conjunction with any discipline imposed by the Commissioner for a violation
 of this Policy, the WNBA may also require the player to undergo an evaluation under the
 supervision of the Policy Committee, to participate in relevant training, education, or counseling
@@ -1967,7 +2067,8 @@ Potential aggravating factors include, but are not limited to:
 • The use of, or threat to use, force or violence;
 • The vulnerability of the victim;
 • The presence of a minor;
-Exhibit 9 - 330• A civil verdict against the player for the underlying conduct.
+ • The nature and extent of any injury to the victim; and
+• A civil verdict against the player for the underlying conduct.
 Potential mitigating factors include, but are not limited to:
 • Acceptance of responsibility;
 • Evidence of self-defense;
@@ -1989,7 +2090,8 @@ investigatory, disciplinary, and treatment process, and will take reasonable mea
 the information gathered pursuant to this Policy, including by any outside advisors or experts.
 Any medical information obtained during the investigatory, disciplinary, and treatment process
 will be kept confidential as required by applicable law.
-Exhibit 9 - 331be necessary to further the WNBA's investigation or may be required by law, including by court
+ At the same time, the Parties recognize that disclosure of certain information may
+be necessary to further the WNBA's investigation or may be required by law, including by court
 order or subpoena. Accordingly, the Parties cannot and do not guarantee that complete
 confidentiality will be maintained. The Parties also reserve the right to make notifications to law
 enforcement or other appropriate authorities if either the WNBA or the WNBPA becomes aware
@@ -2010,7 +2112,8 @@ other witness, will be subject to independent disciplinary action.
 As with any complaint brought in bad faith, any individual, including coaches,
 general managers, or other team officials, who reports a violation of this Policy knowing such
 claim is malicious, false, or fundamentally frivolous shall be subject to disciplinary action.
-Exhibit 9 - 332Anyone who is the victim of or acting on behalf of a victim of domestic/intimate
+Reporting
+Anyone who is the victim of or acting on behalf of a victim of domestic/intimate
 partner violence, sexual assault, or child abuse, as defined by this Policy, is strongly encouraged
 to call the hotline established under this Policy as soon as possible after the incident to discuss
 the availability of counseling, treatment, security, and other appropriate resources.
@@ -2018,7 +2121,8 @@ If you are in immediate danger or involved in a situation in which another perso
 is in immediate danger, the Parties recommend that you contact 911 or your local police
 department. Support and crisis intervention are also available from the National Domestic
 Violence Hotline at 1-800-799-SAFE (7233).
-Exhibit 9 - 3332020 Transition Rules
+Terri Jackson
+2020 Transition Rules
 January 17, 2020
 Page 1
 January 17, 2020
@@ -2057,7 +2161,8 @@ above).
 Agent, or a Core Player if the applicable Qualifying Offer is made in a timely manner, and shall
 be subject to her Prior Team's exclusive negotiating rights or Right of First Refusal, as the case
 may be, in accordance with the provisions of Article VI.
-334This agreement ("Agreement") is entered into on January 17, 2020 (the "Effective
+ AGREEMENT
+This agreement ("Agreement") is entered into on January 17, 2020 (the "Effective
 Date"), by and between WNBA Enterprises, LLC ("WNBA Enterprises"), a Delaware limited
 liability company, with its principal place of business at 450 Harmon Meadow Boulevard,
 Secaucus, New Jersey 07094, and the Women's National Basketball Players Association (the
@@ -2094,7 +2199,8 @@ term of the applicable Existing License, to license such Player's Player Attribu
 with authentic or replica apparel (unless such Player elects to revoke such right by written notice
 to WNBA Enterprises after one (1) year from the date such Player retires or otherwise ceases to
 play professional basketball for the WNBA) and (ii) to license such Player's Player Attributes in
-336one (1) year from the date the Player retires or otherwise ceases to play professional basketball
+connection with all other products and services covered by an Existing License for a period of
+one (1) year from the date the Player retires or otherwise ceases to play professional basketball
 for the WNBA on the same terms and conditions as apply to active Players under this
 Agreement.
 (c) The rights granted to WNBA Enterprises and the obligations undertaken by the
@@ -2135,7 +2241,8 @@ different partner.
 of each Player individually and the Players Association in a group license (subject to the terms of
 the paragraph 6(d) of the Standard Player Contract) to grant the use of Player Attributes for
 commercial or charitable purposes, provided that such individual grants or group licensing grants
-337or a Team pursuant to this Agreement or the terms of the CBA or the Standard Player Contract.
+(as the case may be) do not limit or affect the rights granted to the WNBA, WNBA Enterprises
+or a Team pursuant to this Agreement or the terms of the CBA or the Standard Player Contract.
 6. Representation, Warranty and Indemnification: (a) The Players Association
 makes the following representations and warranties, each of which has been relied on by WNBA
 Enterprises as a material inducement to enter into this Agreement:
@@ -2174,7 +2281,8 @@ provisions of this Agreement, any Player's Player Attributes for editorial purpo
 purpose that, as a matter of law, does not require the Player's permission or authorization.
 (b) Any controversy or claim between or among the Players Association, any Player
 or WNBA Enterprises arising out of or relating to this agreement, including any alleged breach
-338XXII of the CBA.
+of this agreement, shall be resolved by the Arbitrator in accordance with the provisions of Article
+XXII of the CBA.
 (c) Nothing in this agreement shall detract from or otherwise limit or affect the rights
 granted to the WNBA, WNBA Enterprises and the Teams pursuant to the Standard Player
 Contract, any WNBA or Team Marketing and Promotional Agreement or the CBA.

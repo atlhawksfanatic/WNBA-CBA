@@ -1,3 +1,4 @@
+ ARTICLE XL
 OLYMPIC HIATUS
 The following rules shall apply to any Season for which the WNBA, in its sole
 discretion, elects to adjust the Regular Season schedule of games to permit players to participate
@@ -20,7 +21,8 @@ provided that (i) the compensation to be paid to the player pursuant to such mar
 must be at least \$125 per day but may not exceed \$300 per day and (ii) any appearances made by
 the player pursuant to such marketing agreement will not count as an appearance pursuant to
 Article XXIV or Article XXVI of this Agreement (a "Hiatus Marketing Agreement");
-228week and no such practice may exceed three (3) hours in length, or four (4) hours in length if
+ (d) During a Hiatus, Teams may not hold more than seven (7) practices per
+week and no such practice may exceed three (3) hours in length, or four (4) hours in length if
 such practice includes film or conditioning activities;
 (e) Except during a Vacation Period, Teams shall be required to pay players a
 daily per diem of fifty-five dollars (\$55) during a Hiatus. In addition, players who have agreed
@@ -42,7 +44,8 @@ number of days remaining in the Hiatus for Contracts entered into during the Hia
 days in the Regular Season (not including the Hiatus);
 (h) The Maximum Player Salary for Rest-of-Season Contracts will be the
 Maximum Player Salary called for under Article V, Section 8 multiplied by a fraction, the
-229days in the Hiatus for Contracts entered into prior to the commencement of the Hiatus, (ii) the
+numerator of which is the total number of days left in the Regular Season less (i) the number of
+days in the Hiatus for Contracts entered into prior to the commencement of the Hiatus, (ii) the
 number of days remaining in the Hiatus for Contracts entered into during the Hiatus, or (iii) zero
 (0) for Contracts entered into after the Hiatus, and the denominator of which is the number of
 days in the Regular Season (not including the Hiatus);
@@ -59,4 +62,3 @@ a Hiatus, the WNBA and the Players Association shall agree in good faith on how 
 the bonus money that would have been paid (e.g., by increasing the First and Second Team All-
 WNBA bonuses for that year) to players named to the All-Star team (but not to players who may
 have earned All-Star-related bonuses such as those related to any skills competition).
-230

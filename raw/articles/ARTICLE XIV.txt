@@ -1,3 +1,4 @@
+ ARTICLE XIV
 PLAYER CONDUCT AND DISCIPLINE
 Section 1. Player Obligations.
 Players shall at all times conform their conduct to standards of good citizenship,
@@ -21,7 +22,8 @@ Team for the same act or conduct, except the same act or conduct by a player may
 a termination of the player's Standard Player Contract by her Team and the suspension of the
 player by the WNBA if the egregious nature of the act or conduct is so lacking in justification as
 to warrant such double penalty.
-120All fines shall be deducted from a player's paycheck for the pay period
+Section 3. Fine and Suspension Payments.
+All fines shall be deducted from a player's paycheck for the pay period
 immediately following the imposition of such fines or as promptly thereafter as is reasonably
 possible. When a player is suspended: (i) for a predetermined number of games or for any period
 of time during the playoffs, her full Base Salary for the Season in which such suspension occurs
@@ -43,7 +45,8 @@ Section 4. Charitable Contributions.
 fine or suspension related Compensation amount is collected by the League, and (iii) the fine or
 suspension is not grieved pursuant to Article XXII, then the WNBA shall remit fifty percent
 (50%) of the amount collected to a charitable organization selected by the Players Association
-121now in effect or as it may hereafter be amended (a "Section 501(c)(3) Organization"), and that is
+that qualifies for treatment under Section 501(c)(3) of the Internal Revenue Code of 1986, as
+now in effect or as it may hereafter be amended (a "Section 501(c)(3) Organization"), and that is
 approved by the WNBA (which approval shall not be unreasonably withheld) (both hereinafter,
 the "WNBPA Selected Charitable Organization"). The WNBA shall remit the remaining fifty
 percent (50%) of the amount collected to a Section 501(c)(3) organization selected by the
@@ -65,7 +68,8 @@ remit the amount collected by it (plus any interest) in accordance with the prov
 Section 5. Gambling.
 (a) The Commissioner, in her sole discretion, shall direct the dismissal and
 disqualification from any further association with the WNBA of any player found by the
-122attempting to cause any WNBA Competition to result otherwise than on its merits.
+Commissioner after a hearing to have been guilty of offering, agreeing, conspiring, aiding, or
+attempting to cause any WNBA Competition to result otherwise than on its merits.
 (b) Each WNBA player shall be required to disclose to a WNBA or Team
 official any attempt by any person to give or receive money or anything of value to fix, throw or
 otherwise affect the outcome, score or any other aspect of any WNBA Competition other than on
@@ -87,7 +91,8 @@ imposed on the player for her failure to report); (b) within fourteen (14) days 
 Season, she fails either to report to the Team or to provide written notice to the Team stating that
 she intends to report within twenty-one (21) days after the start of such Season; or (c) she fails to
 report to the Team within twenty-one (21) days after the start of such Season. In any challenge
-123shall be whether, in fact, the player failed to report or provide the requisite written notice, and
+to such suspension brought by the player or the Players Association, the only issue to be resolved
+shall be whether, in fact, the player failed to report or provide the requisite written notice, and
 neither the player nor the Players Association may otherwise contend that there was not just
 cause for the discipline imposed.
 Section 7. Fines for Missing Games.
@@ -109,7 +114,8 @@ noted above shall not be applicable to any lost salary due to any such suspensio
 Notwithstanding anything to the contrary in this Section 7, the additional fines for missing
 Regular Season or playoff games contained in this Section 7 shall not result in a reduction of a
 player's Base Salary in an amount greater than such Base Salary.
-124In addition to (i) any fine, suspension or other discipline that a Team may impose
+Section 8. Additional Appearances for Missing Training Camp.
+In addition to (i) any fine, suspension or other discipline that a Team may impose
 on a player for failing to report at the start of the Season at the time and place designated by the
 Team in accordance with this Agreement, and (ii) any fine, suspension or other discipline that a
 Team may impose on a player for missing any part of training camp in accordance with this
@@ -131,7 +137,8 @@ prior to the start of the Season (a "Pre-Training Camp Contracted Player") who d
 the time and place designated by the Team by the start of the 2023 Season one percent (1%) of
 the player's Base Salary for each missed training camp day ("Missed Training Camp Day"); and
 (ii) suspend without pay for the entire remainder of the 2023 Season any Pre-Training Camp
-125of the 2023 Regular Season or May 1, 2023, whichever is later.
+Contracted Player who does not report at the time and place designated by the Team by the start
+of the 2023 Regular Season or May 1, 2023, whichever is later.
 Subject to subsection (d) below, with respect to the 2023 Season,
 the WNBA shall (i) fine any player who is not a Pre-Training Camp Contracted Player, who
 subsequently signs a Player Contract during training camp (a "Training Camp Contracted
@@ -153,7 +160,8 @@ In addition to any fine or suspension that a Team may impose on a
 player for failing to report at the start of any Season at the time and place designated by the
 Team in accordance with this Agreement and subject to subsection (d) below, with respect to any
 Season hereunder after the 2023 Season, the WNBA shall suspend without pay for the entire
-126time and place designated by the Team by the start of such Season or May 1 of such Season,
+remainder of the Season any Pre-Training Camp Contracted Player who does not report at the
+time and place designated by the Team by the start of such Season or May 1 of such Season,
 whichever is later.
 Subject to subsection (d) below, with respect to any Season
 hereunder after the 2023 Season, any player who is not a Pre-Training Camp Contracted Player
@@ -175,7 +183,8 @@ Contract for Season Two at the time of the Season One suspension).
 contained in this Section 9 shall not apply (i) to players with zero (0), one (1) or two (2) Years of
 Service as of the end of the preceding Season, or (ii) to the extent that players report late to their
 Team for the start of a Season, or leave their Team during a Season, to participate with their
-127World Cup or a FIBA continental championship (e.g., the European Championship), provided
+national team in (including no more than two weeks of training immediately prior to) the FIBA
+World Cup or a FIBA continental championship (e.g., the European Championship), provided
 that any such player returns to her Team within forty-eight (48) hours after her national team has
 completed play in such FIBA competition. In addition, if a player is late for, or leaves during,
 the Season due to a significant life event wholly unrelated to an Off-Season Playing Obligation
@@ -197,7 +206,8 @@ WNBA and the Players Association so agree) be required to undergo a clinical eva
 neutral expert and, if deemed necessary by such expert, appropriate counseling, with such
 evaluation and counseling program to be developed and supervised by the WNBA and the
 Players Association, unless the player has engaged in acts covered by the Joint WNBA/WNBPA
-128the terms of that Policy shall apply. For purposes of this paragraph, "violent conduct" shall
+Policy on Domestic/Intimate Partner Violence, Sexual Assault, and Child Abuse, in which case
+the terms of that Policy shall apply. For purposes of this paragraph, "violent conduct" shall
 include, but not be limited to, any conduct involving the use or threat of physical violence or the
 use of, or threat to use, a deadly weapon, any conduct which could be categorized as a "hate
 crime," and any conduct involving dog fighting or animal cruelty.
@@ -219,7 +229,8 @@ or counselor jointly selected by the WNBA and the Players Association.
 required to undergo the clinical evaluation and/or counseling program authorized by Section
 11(a) or 11(b) above, refuses or fails, without a reasonable explanation, to attend or participate in
 such evaluation and counseling program within seventy-two (72) hours following such notice,
-129(72) hours that the player refuses or fails to participate in such program.
+shall be fined by the WNBA in the amount of \$1,000 for each day following such seventy-two
+(72) hours that the player refuses or fails to participate in such program.
 Section 12. Firearms and Other Weapons.
 (a) Whenever a player is physically present at a facility or venue owned,
 operated, or being used by a Team, the WNBA, or any League-related entity, and whenever a
@@ -240,7 +251,8 @@ Section 13. League Investigations.
 WNBA. Failure to so cooperate, in the absence of a player's reasonable apprehension of her
 own criminal prosecution, will subject the player to reasonable fines and/or suspensions imposed
 by the WNBA. Any investigations of alleged misconduct that is covered by the Joint
-130Abuse shall be governed by the terms of that Policy.
+WNBA/WNBPA Policy on Domestic/Intimate Partner Violence, Sexual Assault, and Child
+Abuse shall be governed by the terms of that Policy.
 (b) Except as set forth in Section 13(c) below, the WNBA shall provide the
 Players Association with such advance notice as is reasonable in the circumstances of any
 interview or meeting to be held (in person or by telephone) between a WNBA representative and
@@ -260,7 +272,8 @@ the WNBA's only obligation shall be to provide notice to the Players Association
 WNBA will be conducting an investigation and holding an interview or meeting in connection
 therewith. Such notice may be given by telephone at a telephone number or by email at an email
 address to be designated in writing by the Players Association.
-131At the commencement of each Season, and if the player owns or operates any
+Section 14. Motor Vehicles.
+At the commencement of each Season, and if the player owns or operates any
 motor vehicle, the player will provide the Team with proof that the player possesses a valid
 driver's license, registration documents, and insurance for any such vehicle. For players who
 sign Standard Player Contracts during the Season, the player will provide the Team with such
@@ -282,7 +295,8 @@ A Team shall not impose discipline on a player solely on the basis of the fact t
 the player has been arrested. Notwithstanding the foregoing, (a) a Team may impose discipline
 on a player for the conduct underlying the player's arrest if it has an independent basis for doing
 so, (b) nothing herein shall permit a Team to discipline a player for her failure to cooperate with
-132criminal prosecution, and (c) nothing herein shall prevent a Team from precluding a player from
+a Team's investigation of her alleged misconduct if she has a reasonable apprehension of
+criminal prosecution, and (c) nothing herein shall prevent a Team from precluding a player from
 participating in Team activities without loss of pay to the extent it otherwise has the right to do
 so.
 Section 17. Joint WNBA/WNBPA Policy on Domestic/Intimate Partner Violence, Sexual
@@ -291,4 +305,3 @@ The Joint WNBA/WNBPA Policy on Domestic/Intimate Partner Violence, Sexual
 Assault, and Child Abuse is attached as Exhibit 9. Any evaluation, counseling, treatment, and/or
 discipline of a player for engaging in acts covered by this Policy shall be governed by the terms
 of the Policy.
-133

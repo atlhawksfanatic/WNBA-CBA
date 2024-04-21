@@ -1,3 +1,4 @@
+ ARTICLE XXXII
 PLAYER AGENTS
 Section 1. Negotiation of Player Contracts.
 A Team shall not enter into any Standard Player Contract or Team Marketing and
@@ -20,7 +21,8 @@ immediately notified of any such claim in writing (and, in no event later than f
 the receipt thereof), is given the opportunity to assume the defense thereof, and the WNBA uses
 its best efforts to defend such claim, and does not admit liability with respect to and does not
 settle such claim without the prior written consent of the Players Association.
-208The Players Association agrees to provide the WNBA League Office with a list
+Section 3. Agent Lists.
+The Players Association agrees to provide the WNBA League Office with a list
 of: (i) all agents certified under the Players Association's Agent Regulation Program, and (ii) the
 players represented by each such agent. Such list shall be updated once a month from the day
 after the WNBA Championship Series to the first day of the next succeeding Regular Season and
@@ -37,4 +39,3 @@ if the agent is the player's confirmed certified agent.
 Section 5. WNBA Player as Agent.
 No WNBA player may represent (or otherwise act as an agent for) any other
 WNBA player.
-209

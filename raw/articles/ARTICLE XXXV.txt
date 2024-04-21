@@ -1,3 +1,4 @@
+ ARTICLE XXXV
 PROVISIONS WITH RESPECT TO CANADIAN EMPLOYMENT
 Section 1. WNBA Team in Canada.
 If at any time during the term of this Agreement a WNBA Team is based in
@@ -20,7 +21,8 @@ Relations Act (or other statutes of like import in other Canadian provinces) are
 applicable to this Agreement, the parties agree that the provisions thereof shall apply only to
 disputes between a WNBA Team located in Ontario (or such other province(s) as the case may
 be) and players employed by such Team(s).
-219Relations Code (or other statutes of like import in other Canadian provinces) is or may be found
+ If and to the extent Section 84(2) of the British Columbia Labour
+Relations Code (or other statutes of like import in other Canadian provinces) is or may be found
 applicable to this Agreement, the parties agree that the provisions thereof shall apply only to
 disputes between a WNBA Team based in British Columbia (or such other province(s) as the
 case may be) and players employed by such Team.
@@ -42,7 +44,8 @@ certain circumstances, for the continued payment of Base Salary to a player foll
 termination of a Player Contract) constitute and/or shall be deemed to constitute a settlement
 binding on the player within the meaning of Section 6 of the Ontario Employment Standards Act,
 2000 (or other statutes of like import in other Canadian provinces) and/or "an amount paid to an
-220length of employment, length of service or seniority" within the meaning of Section 65(8)2 of
+employee for loss of employment under a provision of the employment contract based upon
+length of employment, length of service or seniority" within the meaning of Section 65(8)2 of
 the Ontario Employment Standards Act, 2000 (or other statutes of like import in other Canadian
 provinces), so as to render inapplicable to WNBA players the provisions of Section 63-66 of
 such Act (or other statutes of like import in other Canadian provinces).
@@ -56,4 +59,3 @@ and (3) of Section 50 of the British Columbia Labour Relations Code (and other s
 import in other Canadian provinces).
 (i) All players employed by a WNBA Team shall be paid in U.S. dollars,
 regardless of where the Team by which such player is employed is based.
-221

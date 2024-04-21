@@ -1,3 +1,4 @@
+ ARTICLE XX
 PHYSICAL CONDITION, MEDICAL EXAMINATIONS AND INJURIES
 Section 1. Medical Examination, Supply of Information, and Fitness of Player.
 (a) Upon the signing of a Standard Player Contract and during each training
@@ -20,7 +21,8 @@ medicine (or, if unable to agree on an expert, the Medical Director) to review t
 and/or tests in question and advise the WNBA and the Players Association as to the probative
 value of the questions and/or tests in question. Neither the Players Association's review, nor any
 review conducted by a women's health expert or the Medical Director, of a Physician's standard
-157physical examination or obviate a player's obligation to supply complete and truthful
+questionnaires and written testing protocols shall delay the administration of any pre-season
+physical examination or obviate a player's obligation to supply complete and truthful
 information in response to questions posed to her.
 (b) If the Physician determines that a player is not completely and
 unqualifiedly fit to perform all basketball-related services required of the player under this
@@ -42,7 +44,8 @@ Injury, the Team shall have the right, in its sole discretion, to suspend such p
 condition to play skilled basketball; or (ii) if the Physician determines that such lack of fitness
 will last beyond the first forty-two (42) days of the Season (or beyond the first twenty-eight (28)
 days of the Season in the event that such lack of fitness is due at least in part to a "Timed
-158Salary payable to the player for any WNBA Season during which such suspension occurs shall
+Medical Treatment"), for the entire upcoming Season. In the event of such suspension, the Base
+Salary payable to the player for any WNBA Season during which such suspension occurs shall
 be reduced by an amount equal to her full Base Salary multiplied by a fraction, the numerator of
 which shall be the number of days of the Regular Season missed as a consequence of the
 suspension, and the denominator of which shall be the total number of days in such Regular
@@ -63,7 +66,8 @@ Section 2. Notice and Treatment.
 any illness, injury or condition contracted or suffered by her which may impair or otherwise
 affect her ability to play skilled basketball, including, if known, the time, place, cause and nature
 of such illness, injury or condition.
-159Player Contract, she shall submit to a medical examination and treatment by a physician
+ (b) Should a player suffer an injury or illness during the term of her Standard
+Player Contract, she shall submit to a medical examination and treatment by a physician
 designated by the Team, and such rehabilitation activities as such physician may specify. Such
 examination and treatment when made at the request of the Team shall be paid for by the Team,
 unless such examination and/or treatment is made necessary by some act or conduct of the player
@@ -84,7 +88,8 @@ General Manager, coaches, and trainers of such other team or teams (and any enti
 such other team or teams seeks to procure, or has procured, an insurance policy covering such
 player's life or any disability, injury or illness such player may suffer or sustain) all relevant
 medical information relating to the player.
-160physician (including a psychiatrist) or a professional providing non-mental-health-related
+ (c) Subject to Section 10 below, a player who consults or is treated by a
+physician (including a psychiatrist) or a professional providing non-mental-health-related
 medical services (e.g., chiropractor, physical therapist) other than such player's Team physician
 or other professional designated by the Team shall give notice of such consultation or treatment
 to her Team's physician and shall provide her Team with all information it may request
@@ -104,7 +109,8 @@ individual authorization(s) as may be requested by the WNBA or a Team or Teams o
 required by health care providers who examine or treat the player.
 (g) A player is entitled to her own medical records and the Team shall use
 best efforts to provide such information on or before two (2) business days of a player request.
-161(a) If a player is injured during the performance of her duties under her
+Section 4. Insurance.
+(a) If a player is injured during the performance of her duties under her
 Standard Player Contract and promptly reports that injury to the Team, the Team shall pay the
 player's reasonable hospitalization and medical expenses necessarily incurred as a direct result of
 the injury, provided that the hospital and physicians are selected by the Team (or, if selected by
@@ -126,7 +132,8 @@ new electronic medical records system ("EMR") that will provide a secure, search
 centralized database of player health information. To the extent health information disclosures
 are permitted by this Agreement (including the Standard Player Contract), such disclosures may
 be made via secure systems within the EMR. In addition, the EMR will: (i) allow for the WNBA
-162academic researchers to access the data (on a de-identified basis) and conduct studies designed to
+(but not the Teams) to conduct player health and safety reviews; (ii) allow for authorized
+academic researchers to access the data (on a de-identified basis) and conduct studies designed to
 improve player health and broaden medical knowledge (provided that the Players Association
 will be provided with notice prior to any such access and gives its consent, such consent not to
 be unreasonably withheld); and (iii) give players the ability to easily access their own health
@@ -148,7 +155,8 @@ and/or treat players pursuant to the terms of this Agreement and the Standard Pl
 provided, however, no Team will engage any Health Care Provider based primarily on a
 sponsorship relationship (or lack thereof) with the Team, and without considering the Health
 Care Provider's qualifications (including, e.g., medical experience and credentials) and the goal
-163duty in providing medical care shall be not to the Team but instead to the player‐patient.
+of providing high quality care to all of its players. Each Team's Health Care Provider's primary
+duty in providing medical care shall be not to the Team but instead to the player‐patient.
 Section 9. Requirements for Certain Team Player Health Professionals.
 (a) Each Team agrees to secure the services of at least one (1) physician as a
 team physician. Beginning with the 2020 Season, each individual hired for the first time to
@@ -169,7 +177,8 @@ received the foregoing NATA/CATA certification.
 Section 10. Second Opinion.
 (a) In addition to consulting her Team's physician or other professional
 designated by her Team, a player shall have the right to receive a second medical opinion at her
-164compensation) regarding the course of treatment for an injury, illness, or other health condition.
+own expense (to the extent it is not covered under their health insurance or by workers'
+compensation) regarding the course of treatment for an injury, illness, or other health condition.
 (b) Prior to obtaining a second opinion, a player shall notify the Team in
 writing of her decision to seek such second opinion, the name of the physician who will be
 performing the evaluation (the "Second Opinion Physician"), and the date and location of the
@@ -191,7 +200,8 @@ play basketball in the WNBA. Each Fitness-to-Play panel shall consist of one (1)
 appointed by the WNBA, one (1) physician appointed by the Players Association, and one (1)
 physician appointed by agreement of the first two (2) physicians. Each member of each panel:
 (i) shall be board certified and fellowship trained in his/her field of medical expertise; (ii) shall
-165least eight (8) years of post-fellowship clinical experience. Each panel will operate by majority
+be a specialist in the subject matter of the applicable Fitness-to-Play Panel; and (iii) shall have at
+least eight (8) years of post-fellowship clinical experience. Each panel will operate by majority
 vote, including but not limited to its fitness to play determinations. Once appointed, each
 physician on a Fitness-to-Play Panel shall be included on such Panel for the duration of this
 Agreement, unless either the WNBA or the Players Association has, by October 1 of any year
@@ -213,7 +223,8 @@ to play or practice in the WNBA until she is cleared to do so by the Panel as se
 (c) (i) Upon the referral described in subsection (b) above, the Panel will
 be provided with all medical information in the player's medical file that any member of the
 Panel deems relevant to the injury, illness or other health condition for which the player was
-166review shall include an in-person examination of the player by each member of the Panel unless
+referred. The Panel will review the player's injury, illness or other health condition (which
+review shall include an in-person examination of the player by each member of the Panel unless
 such member determines that an examination by him/her would serve no useful purpose). Upon
 conclusion of its review, the Panel shall provide a report to the WNBA, the player's Team, and
 the Players Association setting forth its determination and the reasons therefor.
@@ -235,7 +246,8 @@ not apply to any claim of medical malpractice against a Team-affiliated physicia
 physician retained by the WNBA/Players Association for the medical evaluation process.
 (d) In the event that the Fitness-to-Play Panel determines that the player is
 medically able and medically fit to play professional basketball pursuant to the standard in
-167of risk agreement in the form agreed upon by the parties before she is able to play or practice in
+subsection (c) above: (i) the player will be required to sign an informed consent and assumption
+of risk agreement in the form agreed upon by the parties before she is able to play or practice in
 the WNBA; and (ii) upon satisfying the prior clause, shall be deemed at that time medically able
 and fit to play basketball in the WNBA and permitted to do so.
 (e) If the Fitness-to-Play Panel does not determine that the player is medically
@@ -257,7 +269,8 @@ condition for which the player was referred to the Fitness-to-Play Panel, then t
 required, within forty (40) days of the Panel's issuance of its report (the "Evaluation Period"), to
 either trade the player, agree to amend the player's contract in accordance with Article V,
 Section 3 of this Agreement, or waive the player pursuant to Article V, Section 6(b); provided,
-168(excluding any option year) at the time that the Panel provides its report to the WNBA, the
+however, that the foregoing shall not apply to any player who is in the last year of her Contract
+(excluding any option year) at the time that the Panel provides its report to the WNBA, the
 player's Team, and the Players Association pursuant to Section 11(c)(i) above. During the
 Evaluation Period, the player, shall cooperate with the Team in connection with the Team's
 efforts to evaluate the player's injury, illness or other health condition, including by, among
@@ -279,7 +292,7 @@ develop a list of independent mental health providers in each Team market.
 Section 13. Wearables.
 The parties hereto agree that use of wearables and other in-game technology
 provides a unique opportunity to the WNBA with respect to enhanced broadcasts, differentiated
-169comprehensive policy regarding wearables and other in-game technologies, including working
+fan experiences, player health and revenue generation and will work together to develop a
+comprehensive policy regarding wearables and other in-game technologies, including working
 toward a request for proposal for an in-game wearable prior to the start of the 2020 Season (or as
 soon thereafter as is practicable).
-170
