@@ -1,0 +1,8 @@
+book_filename: "wnba-cba-2020"
+chapter_name: "Article "
+repo: https://github.com/atlhawksfanatic/WNBA-CBA-2020
+output_dir: docs
+keep_tex: true
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
+toc_depth: 3
