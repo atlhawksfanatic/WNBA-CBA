@@ -92,7 +92,7 @@ cba_texts <- cba_pages_mapped |>
   arrange(article_number)
 
 
-# As simple text files and Rmd
+# As simple text files and qmd
 cba_texts |> 
   group_by(article_number) |> 
   summarise(#text = paste0(str_trim(text), collapse = ""),
@@ -110,8 +110,8 @@ cba_texts |>
     temp_num  <- str_pad(article_number, 2, pad = "0")
     
     temp_file <- paste0(data_source, "/", article, ".txt")
-    temp_rmd  <- paste0(man_dir, "/", temp_num, "-", article_name, ".Rmd")
-    print(temp_rmd)
+    temp_qmd  <- paste0(man_dir, "/", temp_num, "-", article_name, ".qmd")
+    print(temp_qmd)
     cat(text, file = temp_file)
-    cat(text, file = temp_rmd)
+    cat(text, file = temp_qmd)
   })
