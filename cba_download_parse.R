@@ -27,7 +27,7 @@ if (!file.exists(cba_file)) download.file(cba_url, cba_file)
 
 # ---- parse --------------------------------------------------------------
 
-cba <- pdf_text(cba_file)
+cba <- pdf_text(cba_file) # this is not reading in the secondary level of an outline
 
 # Remove the table of contents and the index, this is specific to 2020
 cba_cut <- cba[9:350]
